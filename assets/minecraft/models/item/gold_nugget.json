@@ -1,0 +1,128 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/gold_nugget"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/gear/parkpals/angelkronk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/gear/parkpals/birdshoulder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/gear/parkpals/card"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/gear/parkpals/devilkronk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/gear/parkpals/forky"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/gear/parkpals/ghostmick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/gear/parkpals/iago"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/gear/parkpals/kermitbanjo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/gear/parkpals/kodos"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/gear/parkpals/lenny"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/gear/parkpals/lgm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "custom/gear/parkpals/lumiere"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "custom/gear/parkpals/mushu"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "custom/gear/parkpals/pascal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "custom/gear/parkpals/remy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "custom/gear/parkpals/sameagle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "custom/gear/parkpals/sebastian"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "custom/gear/parkpals/tintoy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "custom/gear/parkpals/vampiredoll"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "custom/gear/parkpals/wheezy"
+        }
+    ]
+}

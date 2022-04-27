@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "pnt:font/icons/error.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["膣冈鏻鎓矣耩", "纤缎缍绗缴缵"]
+        }
+    ]
+}
