@@ -33,6 +33,24 @@
                 "custom_model_data": 5
             },
             "model": "custom/rides/hub/skytower/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/rides/hub/skytower/seat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/rides/hub/skytower/door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/rides/hub/skytower/center"
         }
     ]
 }
