@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/feather"
+        "layer0": "item/diamond_hoe"
     },
     "overrides": [
         {
@@ -51,6 +51,24 @@
                 "custom_model_data": 8
             },
             "model": "custom/rides/hub/skytower/center"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/rides/hub/skytower/sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/rides/hub/skytower/light"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/rides/hub/skytower/lightlong"
         }
     ]
 }
