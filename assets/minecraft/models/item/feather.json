@@ -69,6 +69,18 @@
                 "custom_model_data": 11
             },
             "model": "custom/rides/hub/skytower/lightlong"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "custom/rides/hub/peoplemover/sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "custom/rides/hub/boat/sign"
         }
     ]
 }

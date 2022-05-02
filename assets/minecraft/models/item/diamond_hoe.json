@@ -9,6 +9,138 @@
                 "custom_model_data": 1
             },
             "model": "custom/decoration/hub/signs/pnt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/decoration/hub/signs/sign_center"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/decoration/hub/signs/sign_info"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/decoration/hub/signs/sign_shop"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/body/body_b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/body/body_h"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/body/body_la"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/body/body_ll"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/body/body_ra"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/body/body_rl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/arms/cmarm1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "custom/arms/cmarm2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "custom/arms/cmarm3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "custom/arms/cmarm4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "custom/arms/cmarm5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "custom/arms/cmarm6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "custom/arms/cmarm7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "custom/arms/cmarm8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "custom/body/cm_b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "custom/body/cm_ll"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "custom/body/cm_rl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "custom/decoration/hub/turntable"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "custom/decoration/hub/bench"
         }
     ]
 }

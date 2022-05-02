@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "pnt:custom/skins/display"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [4, 23.5, 4],
+			"to": [12, 31.5, 12],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}
