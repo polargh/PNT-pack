@@ -1,0 +1,21 @@
+{
+	"credit": "Made by ItzPolar for Dreamers Network & Project: New Tomorrow",
+	"textures": {
+		"0": "pnt:custom/blocks/mtw_concrete",
+		"particle": "pnt:custom/blocks/mtw_concrete"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

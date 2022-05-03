@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "instrument=basedrum,note=1": { "model": "custom/blocks/mtw_concrete" }
+    }
+}
