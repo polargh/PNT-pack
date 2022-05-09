@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "pnt:custom/arms/cmarms"
+		"0": "pnt:custom/arms/cmarms"
 	},
 	"display": {
 		"thirdperson_righthand": {
