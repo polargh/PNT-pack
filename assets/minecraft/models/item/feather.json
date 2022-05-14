@@ -81,6 +81,42 @@
                 "custom_model_data": 13
             },
             "model": "custom/rides/hub/boat/sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "custom/rides/legacy/mtw/theater/mtw1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "custom/rides/legacy/mtw/theater/mtw2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "custom/rides/legacy/mtw/theater/mtw3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "custom/rides/legacy/mtw/theater/mtw4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "custom/rides/legacy/mtw/theater/mtwwall1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "custom/rides/legacy/mtw/theater/mtwwall2"
         }
     ]
 }
