@@ -141,6 +141,42 @@
                 "custom_model_data": 23
             },
             "model": "custom/decoration/hub/bench"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "custom/rides/epcot/horizons/futureport/mesa"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "custom/rides/epcot/horizons/futureport/mesa2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "custom/rides/epcot/horizons/futureport/sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "custom/rides/epcot/horizons/futureport/sea2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "custom/rides/epcot/horizons/futureport/brava"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "custom/rides/epcot/horizons/futureport/brava2"
         }
     ]
 }

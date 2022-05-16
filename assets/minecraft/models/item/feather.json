@@ -117,6 +117,12 @@
                 "custom_model_data": 19
             },
             "model": "custom/rides/legacy/mtw/theater/mtwwall2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "custom/rides/epcot/horizons/horizonsvehicle"
         }
     ]
 }
