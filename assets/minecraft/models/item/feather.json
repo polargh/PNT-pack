@@ -123,6 +123,12 @@
                 "custom_model_data": 20
             },
             "model": "custom/rides/epcot/horizons/horizonsvehicle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "custom/rides/legacy/atis/atis"
         }
     ]
 }
