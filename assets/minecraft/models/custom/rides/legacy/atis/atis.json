@@ -4390,8 +4390,8 @@
 	"display": {
 		"head": {
 			"rotation": [0, -180, 0],
-			"translation": [0, -16, 11.75],
-			"scale": [2.5, 2.5, 2.5]
+			"translation": [0, -16, 9],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
