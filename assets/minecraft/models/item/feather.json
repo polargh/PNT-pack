@@ -129,6 +129,12 @@
                 "custom_model_data": 21
             },
             "model": "custom/rides/legacy/atis/atis"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "custom/rides/legacy/atis/atis_door"
         }
     ]
 }
