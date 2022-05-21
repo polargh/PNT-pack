@@ -183,6 +183,12 @@
                 "custom_model_data": 30
             },
             "model": "custom/rides/legacy/atis/sign_atis"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "custom/decoration/conveyor"
         }
     ]
 }
