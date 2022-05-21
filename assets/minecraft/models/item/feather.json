@@ -135,6 +135,30 @@
                 "custom_model_data": 22
             },
             "model": "custom/rides/legacy/atis/atis_door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "custom/rides/legacy/atis/queue/queue_snowflake1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "custom/rides/legacy/atis/queue/queue_snowflake2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "custom/rides/legacy/atis/queue/queue_snowflake3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "custom/rides/legacy/atis/queue/queue_snowflake4"
         }
     ]
 }
