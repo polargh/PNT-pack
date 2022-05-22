@@ -159,6 +159,12 @@
                 "custom_model_data": 26
             },
             "model": "custom/rides/legacy/atis/queue/queue_snowflake4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "custom/rides/legacy/atis/microscope"
         }
     ]
 }
