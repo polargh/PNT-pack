@@ -162,7 +162,7 @@
         },
         {
             "predicate": {
-                "custom_model_data": 26
+                "custom_model_data": 27
             },
             "model": "custom/rides/legacy/atis/microscope"
         }
