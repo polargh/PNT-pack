@@ -1,5 +1,6 @@
 {
     "variants": {
-        "instrument=basedrum,note=1": { "model": "custom/blocks/mtw_concrete" }
+        "instrument=basedrum,note=1": { "model": "custom/blocks/mtw_concrete" },
+        "instrument=basedrum,note=2": { "model": "custom/blocks/falsewall_atis" }
     }
 }
