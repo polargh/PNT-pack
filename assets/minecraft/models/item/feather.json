@@ -165,6 +165,42 @@
                 "custom_model_data": 27
             },
             "model": "custom/rides/legacy/atis/microscope"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "custom/rides/legacy/atis/atissmall"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "custom/rides/legacy/atis/microscope1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "custom/rides/legacy/atis/microscope2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "custom/rides/legacy/atis/microscope3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "custom/rides/legacy/atis/microscope4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "custom/rides/legacy/atis/microscope5"
         }
     ]
 }
