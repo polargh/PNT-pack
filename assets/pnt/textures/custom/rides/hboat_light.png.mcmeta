@@ -3,6 +3,6 @@
     {
         "frametime": 2,
         "interpolate": false,
-        "frames": [{"index": 0,"time": 30}, 1,0,1]
+        "frames": [{"index": 1,"time": 20}, 0,1,0]
     }
 }
