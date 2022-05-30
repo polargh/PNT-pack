@@ -201,6 +201,30 @@
                 "custom_model_data": 33
             },
             "model": "custom/rides/legacy/atis/microscope5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "custom/rides/hub/boat/hboat1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "custom/rides/hub/boat/hboat2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "custom/rides/hub/boat/hboat3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "custom/rides/hub/boat/hbgate"
         }
     ]
 }
