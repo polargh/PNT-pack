@@ -123,6 +123,12 @@
                 "custom_model_data": 20
             },
             "model": "custom/gear/parkpals/wheezy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "custom/gear/parkpals/radio"
         }
     ]
 }
