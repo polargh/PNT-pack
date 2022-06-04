@@ -196,12 +196,7 @@
             },
             "model": "custom/gear/backpacks/xmasbackpack"
         },
-        {
-            "predicate": {
-                "custom_model_data": 32
-            },
-            "model": "custom/gear/backpacks/yodabackpack"
-        },
+
         {
             "predicate": {
                 "custom_model_data": 33
@@ -291,6 +286,12 @@
                 "custom_model_data": 47
             },
             "model": "custom/gear/backpacks/thumperbackpack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "custom/gear/backpacks/yodabackpack"
         }
     ]
 }
