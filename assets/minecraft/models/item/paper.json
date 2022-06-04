@@ -1,0 +1,206 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/gear/handhelds/capshield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/gear/handhelds/genielamp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/gear/handhelds/hook"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/gear/handhelds/ironmanhand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/gear/handhelds/mjolnir"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/gear/handhelds/screamcanister"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/gear/handhelds/usflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "custom/gear/handhelds/"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "custom/gear/handhelds/"
+        }
+    ]
+}
