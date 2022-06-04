@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "pnt:custom/hud/bags"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"scale": [0.75, 1, 0.75]
+		}
+	}
+}

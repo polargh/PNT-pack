@@ -1,0 +1,62 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/hud/bags"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/hud/hand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/hud/hats"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/hud/left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/hud/no"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/hud/pals"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/hud/restricted"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/hud/right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/hud/yes"
+        }
+    ]
+}
