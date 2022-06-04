@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"mesh_atlas": "pnt:easterbunny"
+		"mesh_atlas": "pnt:custom/cosmetics/backpacks/easterbunny"
 	},
 	"elements": [
 		{

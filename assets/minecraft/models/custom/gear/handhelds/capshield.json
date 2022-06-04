@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
-		"1": "cosmetics/capshield"
+		"1": "pnt:custom/cosmetics/handhelds/capshield"
 	},
 	"elements": [ 	 
 		{
