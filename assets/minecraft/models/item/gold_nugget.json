@@ -129,6 +129,30 @@
                 "custom_model_data": 21
             },
             "model": "custom/gear/parkpals/radio"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "custom/gear/parkpals/babyyoda"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "custom/gear/parkpals/gingerbreadman"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "custom/gear/parkpals/porg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "custom/gear/parkpals/sidbaby"
         }
     ]
 }

@@ -1,3 +1,320 @@
 {
-    "parent": "minecraft:block/carved_pumpkin"
+    "parent": "block/carved_pumpkin",
+    "textures": {
+        "layer0": "block/carved_pumpkin"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/gear/hats/aviators"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/gear/hats/bender"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/gear/hats/bobross"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/gear/hats/bowler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/gear/hats/captainhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/gear/hats/chefhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/gear/hats/conehat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/gear/hats/davyjones"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/gear/hats/divehelmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/gear/hats/donaldcap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/gear/hats/drfhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "custom/gear/hats/goofycap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "custom/gear/hats/hunny"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "custom/gear/hats/incredimask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "custom/gear/hats/jacksparrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "custom/gear/hats/jafar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "custom/gear/hats/luigihat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "custom/gear/hats/mannycap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "custom/gear/hats/matercap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "custom/gear/hats/mistletoehat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "custom/gear/hats/oogiehat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "custom/gear/hats/patriotic"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "custom/gear/hats/perrycap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "custom/gear/hats/plutocap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "custom/gear/hats/santahat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "custom/gear/hats/snowmancap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "custom/gear/hats/soldierhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "custom/gear/hats/tot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "custom/gear/hats/turkeyhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "custom/gear/hats/witchhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "custom/gear/hats/squid_hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "custom/gear/headbands/alienhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "custom/gear/headbands/arielhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "custom/gear/headbands/bingbonghb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "custom/gear/headbands/bwminniehb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "custom/gear/headbands/candycornhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "custom/gear/headbands/caphb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "custom/gear/headbands/chernabog"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "custom/gear/headbands/classicminniehb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "custom/gear/headbands/devilhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "custom/gear/headbands/dolehb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "custom/gear/headbands/donaldbutthb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "custom/gear/headbands/donaldhb2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "custom/gear/headbands/donuthb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "custom/gear/headbands/dumbohb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "custom/gear/headbands/gingerbreadhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "custom/gear/headbands/millenialpinkhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "custom/gear/headbands/ortensiahb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "custom/gear/headbands/ortensiahhb1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "custom/gear/headbands/oswaldhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "custom/gear/headbands/pepperminthb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "custom/gear/headbands/tothb2"
+        }
+    ]
 }

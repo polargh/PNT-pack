@@ -1,0 +1,6 @@
+{
+	"parent": "custom/gear/headbands/ortensiahb",
+	"textures": {
+		"1": "pnt:custom/cosmetics/headbands/ortensiahb1"
+	}
+}
