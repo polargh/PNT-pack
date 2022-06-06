@@ -656,9 +656,6 @@
 	"display": {
 		"thirdperson_righthand": {
 			"scale": [4, 4, 4]
-		},
-		"head": {
-			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }

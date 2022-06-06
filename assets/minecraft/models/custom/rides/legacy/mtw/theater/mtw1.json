@@ -936,9 +936,6 @@
 		"thirdperson_righthand": {
 			"translation": [-8.5, -30.25, 9.5],
 			"scale": [4, 4, 4]
-		},
-		"head": {
-			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }
