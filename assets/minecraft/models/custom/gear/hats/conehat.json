@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"1": "items/custom/cone"
+		"1": "pnt:custom/cosmetics/hats/cone"
 	},
 	"elements": [ 	 
 		{
