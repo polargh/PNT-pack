@@ -315,6 +315,270 @@
                 "custom_model_data": 52
             },
             "model": "custom/gear/headbands/tothb2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "custom/gear/hats/clown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "custom/gear/hats/gmrcast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "custom/gear/hats/halloween"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "custom/gear/hats/happymeal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "custom/gear/hats/harryhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "custom/gear/hats/homer_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "custom/gear/hats/loki"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "custom/gear/hats/longhornhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "custom/gear/hats/luxo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "custom/gear/hats/magicianhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "custom/gear/hats/maleficent"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "custom/gear/headbands/patriotichb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "custom/gear/hats/pilot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "custom/gear/hats/racoonhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "custom/gear/hats/tntbarrel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "custom/gear/hats/sidbaby"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "custom/gear/hats/angelmickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "custom/gear/hats/baymaxearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "custom/gear/hats/bellhopearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "custom/gear/hats/bluemickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "custom/gear/hats/buzzearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "custom/gear/hats/chipearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "custom/gear/hats/daleearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "custom/gear/hats/dolewhipearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "custom/gear/hats/eveearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "custom/gear/hats/icecreamearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "custom/gear/hats/jackskellingtonearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "custom/gear/hats/kermitearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "custom/gear/hats/limemickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "custom/gear/hats/mickeyfaceearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "custom/gear/hats/mickeymouseclubearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "custom/gear/hats/pinkmickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "custom/gear/hats/poohearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "custom/gear/hats/purplemickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "custom/gear/hats/r2d2mickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "custom/gear/hats/redmickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "custom/gear/hats/remyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "custom/gear/hats/retroearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "custom/gear/hats/steamboatwillieearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "custom/gear/hats/steamboatwilliefaceearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "custom/gear/hats/stitchmickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "custom/gear/hats/tealmickeyearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "custom/gear/hats/yodaearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "custom/gear/hats/zombiemickeyearhat"
         }
     ]
 }
