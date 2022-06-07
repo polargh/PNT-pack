@@ -292,6 +292,12 @@
                 "custom_model_data": 48
             },
             "model": "custom/gear/backpacks/yodabackpack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "custom/gear/backpacks/tntbarrel"
         }
     ]
 }

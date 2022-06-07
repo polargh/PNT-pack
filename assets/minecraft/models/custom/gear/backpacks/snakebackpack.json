@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
 		"1": "pnt:custom/cosmetics/backpacks/snakebackpack"
 	},
@@ -2652,12 +2652,11 @@
 		},
 		"gui": {
 			"rotation": [30, 125, 0],
-			"translation": [-0.75, 1.25, 0],
+			"translation": [0.25, 1.25, 0],
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
-			"rotation": [0, 90, 0],
-			"translation": [0, -48.25, 2.25],
+			"translation": [0, -52.5, 1.5],
 			"scale": [1.25, 1.25, 1.25]
 		},
 		"fixed": {

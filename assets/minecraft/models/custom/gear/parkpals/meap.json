@@ -1,5 +1,5 @@
 {
-	"credit": "Made for use on PNT",
+	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
 		"1": "pnt:custom/cosmetics/parkpals/meap"
 	},
@@ -5596,14 +5596,20 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 1.3922, 2.0869],
-			"scale": [0.75, 0.75, 0.75]
+			"rotation": [90, 168, 0],
+			"translation": [0.25, -1.3578, 14.3369],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 1.3922, 2.0869],
-			"scale": [0.75, 0.75, 0.75]
+			"rotation": [90, 168, 0],
+			"translation": [0.25, -1.3578, 14.3369],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
 		},
 		"ground": {
 			"translation": [0, 4.1739, 0]
