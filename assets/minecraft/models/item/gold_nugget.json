@@ -153,6 +153,24 @@
                 "custom_model_data": 25
             },
             "model": "custom/gear/parkpals/meap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "custom/gear/parkpals/plankton"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "custom/gear/parkpals/mo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "custom/gear/parkpals/beaver"
         }
     ]
 }
