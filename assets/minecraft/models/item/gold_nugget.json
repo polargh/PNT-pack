@@ -171,6 +171,12 @@
                 "custom_model_data": 28
             },
             "model": "custom/gear/parkpals/beaver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "custom/gear/parkpals/slasher"
         }
     ]
 }

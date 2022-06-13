@@ -298,6 +298,12 @@
                 "custom_model_data": 49
             },
             "model": "custom/gear/backpacks/tntbarrel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "custom/gear/backpacks/remybag"
         }
     ]
 }
