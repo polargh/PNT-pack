@@ -591,6 +591,18 @@
                 "custom_model_data": 98
             },
             "model": "custom/gear/hats/spongetophat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "custom/gear/headbands/lightyearhb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "custom/gear/headbands/figmenthb"
         }
     ]
 }

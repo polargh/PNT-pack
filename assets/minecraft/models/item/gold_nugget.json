@@ -189,6 +189,12 @@
                 "custom_model_data": 31
             },
             "model": "custom/gear/parkpals/boowomp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "custom/gear/parkpals/tobytortoise"
         }
     ]
 }
