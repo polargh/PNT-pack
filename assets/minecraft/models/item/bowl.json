@@ -304,6 +304,12 @@
                 "custom_model_data": 50
             },
             "model": "custom/gear/backpacks/remybag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "custom/gear/backpacks/pntbackpack"
         }
     ]
 }

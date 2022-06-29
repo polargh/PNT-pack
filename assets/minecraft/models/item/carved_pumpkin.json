@@ -603,6 +603,36 @@
                 "custom_model_data": 100
             },
             "model": "custom/gear/headbands/figmenthb"
-        }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "custom/gear/hats/oswaldfaceearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "custom/gear/hats/pntcap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "custom/gear/hats/pntearhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "custom/gear/headbands/pnthb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "custom/gear/headbands/dclhb"
+        },
     ]
 }
