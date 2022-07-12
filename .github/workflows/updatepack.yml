@@ -85,7 +85,7 @@ jobs:
           END_COMMIT: ${{ steps.lookupPackVersion.outputs.PACK_VERSION }}
         run: git fetch --tags --force && git log --pretty=format:"* %s (%h)" ${BEGIN_COMMIT}..${END_COMMIT} > release_notes.md
       - name: Create Release
-        uses: ncipollo/release-action@v1
+        uses: ncipollo/release-action@v2
         with:
           artifacts: pack.zip
           allowUpdates: true
