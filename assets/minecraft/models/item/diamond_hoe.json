@@ -189,6 +189,60 @@
                 "custom_model_data": 31
             },
             "model": "custom/decoration/conveyor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "custom/decoration/hub/signs/pntbig"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplay7"
         }
     ]
 }

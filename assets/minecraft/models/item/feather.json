@@ -225,6 +225,12 @@
                 "custom_model_data": 37
             },
             "model": "custom/rides/hub/boat/hbgate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "custom/rides/legacy/atis/h2o_ring"
         }
     ]
 }
