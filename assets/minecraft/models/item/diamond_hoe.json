@@ -243,6 +243,24 @@
                 "custom_model_data": 40
             },
             "model": "custom/rides/legacy/atis/queue/atisdisplay7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "custom/rides/legacy/atis/queue/minicontrol"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "custom/rides/legacy/atis/queue/monsanto"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "custom/rides/legacy/atis/queue/welcomesyou"
         }
     ]
 }
