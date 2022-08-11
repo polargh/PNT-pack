@@ -267,6 +267,12 @@
                 "custom_model_data": 44
             },
             "model": "custom/rides/legacy/atis/queue/atismagnify1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "custom/rides/legacy/atis/queue/atismagnify2"
         }
     ]
 }
