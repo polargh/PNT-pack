@@ -5,95 +5,25 @@ on:
     branches: [ main ]
     
 jobs:
-  lint:
-    name: Lint Release
+  pack:
+    name: Pack CI
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Clone repository
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-      - name: Lint Codebase
-        uses: github/super-linter@v4
-        env:
-          VALIDATE_ALL_CODEBASE: false
-          VALIDATE_YAML: true
-          VALIDATE_JSON: true
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  validate-version:
-    name: Validate Version
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v2
+          fetch-depth: 0 # A non-shallow repository clone is required
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v3
+      - name: Download optimized pack
+        uses: actions/download-artifact@v3
         with:
-          fetch-depth: 0
-      - name: Get previous tag
-        id: get-previous-tag
-        uses: actions-ecosystem/action-get-latest-tag@v1
-      - name: Validate Version
-        env:
-          PREVIOUS_VERSION: ${{ steps.get-previous-tag.outputs.tag }}
-        run: |
-          CURRENT_VERSION=$(jq -r .pack.version pack.mcmeta)
-          PREV_VER_GEQ_CUR_VER=$(
-            jq -r -n --arg previous_version "${PREVIOUS_VERSION}" --arg current_version "${CURRENT_VERSION}" '
-            def ver2arr($inp): ($inp | split(".") | map(tonumber)); 
-              ver2arr($previous_version) as $ver_prev  
-            | ver2arr($current_version) as $ver_cur 
-            | if ($ver_prev[0] > $ver_cur[0]) or ($ver_prev[1] > $ver_cur[1] and $ver_cur[1] != 0) or ($ver_prev[2] >= $ver_cur[2] and $ver_cur[2] != 0) then true else false end
-          ')
-          if [ "${PREV_VER_GEQ_CUR_VER}" = true ]; then
-            echo "Previous version is greater than or equal to current version."
-            echo "Please update pack.mcmeta with a valid SemVer version greater than ${PREVIOUS_VERSION} before pushing again!"
-            exit 1
-          fi
-  build:
-    name: Compress and Send Pack
-    needs: [lint, validate-version]
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
+          name: Optimized pack
+      - name: Tag and create release
+        uses: softprops/action-gh-release@v1
         with:
-          fetch-depth: 0
-      - name: Get previous tag
-        id: get-previous-tag
-        uses: actions-ecosystem/action-get-latest-tag@v1
-      - name: Get pack version from pack.mcmeta
-        id: lookupPackVersion
-        run: echo "::set-output name=PACK_VERSION::$(jq -r .pack.version pack.mcmeta)"
-      - name: Bump version and push tag
-        id: tag_version
-        uses: mathieudutour/github-tag-action@v5.5
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          tag_prefix: ''
-          custom_tag: ${{ steps.lookupPackVersion.outputs.PACK_VERSION }}
-      - name: Minify JSON
-        run: find . -type f \( -iname \*.json -o -iname \*.mcmeta \) -print0 | while IFS= read -r -d '' line; do jq -c 'del(.credit, .groups)' ${line} > ${line}.tmp && mv ${line}.tmp ${line}; done
-      - name: Install pngquant
-        run: sudo apt-get install -y pngquant libpng-dev
-      - name: Minify Images
-        continue-on-error: true
-        run: find . -type f -name '*.png' -exec pngquant --strip -f --ext .png {} \; 2>/dev/null
-      - name: Compress Pack
-        run: zip -8 -r -X  pack.zip *
-      - name: Generate release diff
-        env:
-          BEGIN_COMMIT: ${{ steps.get-previous-tag.outputs.tag }}
-          END_COMMIT: ${{ steps.lookupPackVersion.outputs.PACK_VERSION }}
-        run: git fetch --tags --force && git log --pretty=format:"* %s (%h)" ${BEGIN_COMMIT}..${END_COMMIT} > release_notes.md
-      - name: Create Release
-        uses: ncipollo/release-action@v2
-        with:
-          artifacts: pack.zip
-          allowUpdates: true
-          bodyFile: "release_notes.md"
-          draft: false
-          prerelease: false
-          tag: ${{ steps.lookupPackVersion.outputs.PACK_VERSION }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: action-v${{ github.run_number }}
+          files: pack.zip
       - name: Autoupdate Pack
         env:
           PTERODACTYL_TOKEN: ${{ secrets.PTERODACTYL_TOKEN }}
