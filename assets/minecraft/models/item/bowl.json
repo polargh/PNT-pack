@@ -310,6 +310,12 @@
                 "custom_model_data": 51
             },
             "model": "custom/gear/backpacks/pntbackpack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "custom/gear/backpacks/biddlebag"
         }
     ]
 }

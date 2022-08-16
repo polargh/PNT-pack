@@ -273,6 +273,24 @@
                 "custom_model_data": 45
             },
             "model": "custom/rides/legacy/atis/queue/atismagnify2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "custom/decoration/hub/signs/gatewaygoods"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "custom/decoration/hub/signs/showcase"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "custom/decoration/hub/signs/legacy"
         }
     ]
 }
