@@ -291,6 +291,78 @@
                 "custom_model_data": 48
             },
             "model": "custom/decoration/hub/signs/legacy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "custom/pntdirect_spawn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "custom/pntdirect_dockspawn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "custom/pntdirect_dockemp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "custom/pntdirect_dockgate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "custom/pntdirect_skytower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "custom/pntdirect_bridgesfront"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "custom/pntdirect_bridgesback"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "custom/pntdirect_custom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "custom/pntdirect_showcase"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "custom/pntdirect_center"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "custom/pntdirect_legacy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "custom/pntdirect_creative"
         }
     ]
 }
