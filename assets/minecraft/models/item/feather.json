@@ -231,6 +231,18 @@
                 "custom_model_data": 38
             },
             "model": "custom/rides/legacy/atis/h2o_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "custom/rides/hub/skytower/safety_skytower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "custom/rides/hub/peoplemover/safety_mover"
         }
     ]
 }

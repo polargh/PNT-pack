@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"textures": {
+		"0": "pnt:custom/rides/safety_skytower"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 1],
+			"to": [16, 19, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -2.25, 0],
+			"scale": [1.5, 1.5, 1]
+		},
+		"fixed": {
+			"translation": [0, -2.25, 7.75],
+			"scale": [1.6, 1.6, 1]
+		}
+	}
+}
