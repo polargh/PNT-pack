@@ -363,6 +363,72 @@
                 "custom_model_data": 60
             },
             "model": "custom/decoration/hub/signs/directory/pntdirect_creative"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "custom/body/player/player_aqua"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "custom/body/player/player_coolb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "custom/body/player/player_gary"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "custom/body/player/player_hunter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "custom/body/player/player_jake"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "custom/body/player/player_josh"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "custom/body/player/player_polar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "custom/body/player/player_supapap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "custom/body/player/player_tea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "custom/body/player/player_tj"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "custom/body/player/player_yogs"
         }
     ]
 }

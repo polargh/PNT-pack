@@ -19,5 +19,12 @@
 			}
 		}
 	],
-	"display": {}
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -8.75, 9.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -8.75, 9.25]
+		}
+	}
 }
