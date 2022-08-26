@@ -429,6 +429,18 @@
                 "custom_model_data": 71
             },
             "model": "custom/body/player/player_yogs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "custom/decoration/merchcar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "custom/rides/legacy/atis/monsantoext"
         }
     ]
 }

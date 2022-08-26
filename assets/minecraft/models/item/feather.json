@@ -243,6 +243,54 @@
                 "custom_model_data": 40
             },
             "model": "custom/rides/hub/peoplemover/safety_mover"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "custom/rides/legacy/atis/queue/atisdisplayprop7"
         }
     ]
 }
