@@ -549,6 +549,12 @@
                 "custom_model_data": 90
             },
             "model": "custom/decoration/black"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "custom/rides/legacy/atis/extsign"
         }
     ]
 }
