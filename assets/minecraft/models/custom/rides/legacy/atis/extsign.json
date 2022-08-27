@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"0": "pnt:textures/custom/rides/legacy/atis/extsign",
+		"0": "pnt:custom/rides/legacy/atis/extsign",
 		"1": "block/white_concrete"
 	},
 	"elements": [
