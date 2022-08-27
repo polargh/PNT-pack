@@ -441,6 +441,114 @@
                 "custom_model_data": 73
             },
             "model": "custom/rides/legacy/atis/monsantoext"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "custom/decoration/black"
         }
     ]
 }

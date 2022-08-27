@@ -291,6 +291,18 @@
                 "custom_model_data": 48
             },
             "model": "custom/rides/legacy/atis/queue/atisdisplayprop7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "custom/rides/legacy/atis/microscopelight"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "custom/rides/legacy/atis/microscopelight2"
         }
     ]
 }
