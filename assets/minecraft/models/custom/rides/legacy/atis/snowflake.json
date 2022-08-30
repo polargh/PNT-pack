@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"0": "snowflake"
+		"0": "pnt:custom/rides/legacy/atis/snowflake"
 	},
 	"elements": [
 		{
