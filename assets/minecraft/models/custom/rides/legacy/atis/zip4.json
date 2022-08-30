@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"parent": "custom/rides/legacy/atis/queue/queue_snowflake4",
+	"textures": {
+		"0": "pnt:custom/rides/legacy/atis/zip"
+	}
+}

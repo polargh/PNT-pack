@@ -303,6 +303,42 @@
                 "custom_model_data": 50
             },
             "model": "custom/rides/legacy/atis/microscopelight2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "custom/rides/legacy/atis/snowflake"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "custom/rides/legacy/atis/eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "custom/rides/legacy/atis/zip1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "custom/rides/legacy/atis/zip2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "custom/rides/legacy/atis/zip3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "custom/rides/legacy/atis/zip4"
         }
     ]
 }
