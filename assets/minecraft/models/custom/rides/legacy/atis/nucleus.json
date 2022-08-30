@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"0": "pnt:custom/rides/legacy/atis/nucleus"
+		"0": "pnt:custom/rides/legacy/atis/nucleus",
+		"particle": "pnt:custom/rides/legacy/atis/nucleus"
 	},
 	"elements": [
 		{
@@ -23,14 +24,6 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
 			"faces": {
 				"north": {"uv": [6.4, 3.2, 16, 12.8], "texture": "#0"}
-			}
-		},
-		{
-			"from": [8, 2, 2],
-			"to": [8, 14, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"east": {"uv": [6.4, 3.2, 16, 12.8], "texture": "#0"}
 			}
 		}
 	],
