@@ -339,6 +339,12 @@
                 "custom_model_data": 56
             },
             "model": "custom/rides/legacy/atis/zip4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "custom/rides/legacy/atis/nucleus"
         }
     ]
 }

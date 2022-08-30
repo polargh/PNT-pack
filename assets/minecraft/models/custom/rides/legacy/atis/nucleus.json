@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"textures": {
+		"0": "pnt:custom/rides/legacy/atis/nucleus"
+	},
+	"elements": [
+		{
+			"from": [4, 4, 4],
+			"to": [12, 12, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [0, 4.8, 6.4, 11.2], "texture": "#0"},
+				"east": {"uv": [0, 4.8, 6.4, 11.2], "texture": "#0"},
+				"south": {"uv": [0, 4.8, 6.4, 11.2], "texture": "#0"},
+				"west": {"uv": [0, 4.8, 6.4, 11.2], "texture": "#0"},
+				"up": {"uv": [0, 4.8, 6.4, 11.2], "texture": "#0"},
+				"down": {"uv": [0, 4.8, 6.4, 11.2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 2, 8],
+			"to": [14, 14, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [6.4, 3.2, 16, 12.8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 2, 2],
+			"to": [8, 14, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [6.4, 3.2, 16, 12.8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
+}
