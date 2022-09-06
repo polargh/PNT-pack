@@ -6,6 +6,13 @@
             "ascent": 7,
             "height": 7,
             "chars": ["膣冈鏻鎓矣耩", "纤缎缍绗缴缵"]
-        }
+        },
+        {
+			"type": "bitmap",
+			"file": "pnt:font/ui/black_box.png",
+			"ascent": 250,
+			"height": 1500,
+			"chars": ["勒"]
+		}
     ]
 }
