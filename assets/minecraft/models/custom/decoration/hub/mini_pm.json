@@ -8167,7 +8167,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [2, -35.75, 2]
+			"translation": [3, -32.25, 3],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }
