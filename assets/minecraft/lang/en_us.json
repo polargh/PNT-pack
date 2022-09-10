@@ -1,5 +1,6 @@
 {
     "menu.disconnect": "§c§l§oEnter the present",
     "menu.returnToGame": "§3§l§oReturn to the past",
-    "block.minecraft.barrier": "§c§l§oBarrier"
+    "block.minecraft.barrier": "§c§l§oBarrier",
+    "multiplayer.downloadingTerrain": "勒"
 }

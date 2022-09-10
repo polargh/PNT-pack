@@ -13,6 +13,13 @@
 			"ascent": 250,
 			"height": 1500,
 			"chars": ["勒"]
+		},
+        {
+			"type": "bitmap",
+			"file": "pnt:font/ui/pnt_arrow.png",
+			"ascent": 7,
+            "height": 7,
+			"chars": ["ꈂ"]
 		}
     ]
 }
