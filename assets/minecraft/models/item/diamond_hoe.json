@@ -555,6 +555,24 @@
                 "custom_model_data": 91
             },
             "model": "custom/rides/legacy/atis/extsign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "custom/decoration/hub/mini_boat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "custom/decoration/hub/mini_pm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "custom/decoration/hub/mini_pmvehicle"
         }
     ]
 }
