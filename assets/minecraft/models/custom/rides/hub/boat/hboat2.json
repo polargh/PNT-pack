@@ -1339,6 +1339,10 @@
 		"thirdperson_lefthand": {
 			"translation": [-6, -8, 6.25],
 			"scale": [4, 4, 4]
+		},
+		"head": {
+			"translation": [0, -43.25, 0],
+			"scale": [0.3, 0.3, 0.3]
 		}
 	}
 }
