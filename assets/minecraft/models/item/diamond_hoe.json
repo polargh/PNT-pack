@@ -573,6 +573,12 @@
                 "custom_model_data": 94
             },
             "model": "custom/decoration/hub/mini_pmvehicle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "custom/decoration/hub/legacy_projector"
         }
     ]
 }
