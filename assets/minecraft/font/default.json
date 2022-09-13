@@ -5,21 +5,61 @@
             "file": "pnt:font/icons/error.png",
             "ascent": 7,
             "height": 7,
-            "chars": ["膣冈鏻鎓矣耩", "纤缎缍绗缴缵"]
+            "chars": [
+                "膣ꑜ鏻鎓矣耩",
+                "纤缎缍绗缴缵"
+            ]
         },
         {
-			"type": "bitmap",
-			"file": "pnt:font/ui/black_box.png",
-			"ascent": 250,
-			"height": 1500,
-			"chars": ["勒"]
-		},
+            "type": "bitmap",
+            "file": "pnt:font/ui/black_box.png",
+            "ascent": 250,
+            "height": 1500,
+            "chars": [
+                "勒"
+            ]
+        },
         {
-			"type": "bitmap",
-			"file": "pnt:font/ui/pnt_arrow.png",
-			"ascent": 7,
+            "type": "bitmap",
+            "file": "pnt:font/ui/pnt_arrow.png",
+            "ascent": 7,
             "height": 7,
-			"chars": ["ꈂ"]
-		}
+            "chars": [
+                "ꈂ"
+            ]
+        },
+        {
+            "chars": [
+                "\uE209"
+            ],
+            "file": "pnt:font/opening/1.png",
+            "ascent": 7,
+            "height": 7,
+            "size": 10.0,
+            "oversample": 10.0,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE210"
+            ],
+            "file": "pnt:font/opening/2.png",
+            "ascent": 7,
+            "height": 7,
+            "size": 10.0,
+            "oversample": 10.0,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE211"
+            ],
+            "file": "pnt:font/opening/3.png",
+            "ascent": 7,
+            "height": 7,
+            "size": 10.0,
+            "oversample": 10.0,
+            "type": "bitmap"
+        }
     ]
 }
