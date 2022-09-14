@@ -591,6 +591,42 @@
                 "custom_model_data": 97
             },
             "model": "custom/body/player/player_tcs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "custom/decoration/hub/signs/showcase/showcase_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "custom/decoration/hub/signs/showcase/showcase_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "custom/decoration/hub/signs/showcase/showcase_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "custom/decoration/hub/signs/showcase/showcase_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "custom/decoration/hub/signs/showcase/showcase_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "custom/decoration/hub/signs/showcase/showcase_6"
         }
     ]
 }
