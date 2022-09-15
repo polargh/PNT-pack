@@ -651,6 +651,30 @@
                 "custom_model_data": 107
             },
             "model": "custom/decoration/hub/signs/showcase/display_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "custom/decoration/hub/signs/showcase/panel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "custom/decoration/hub/signs/showcase/sign_panel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "custom/decoration/hub/signs/showcase/exhibit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "custom/decoration/hub/signs/showcase/sign_exhibit"
         }
     ]
 }
