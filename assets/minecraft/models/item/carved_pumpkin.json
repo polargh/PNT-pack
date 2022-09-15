@@ -681,6 +681,12 @@
                 "custom_model_data": 113
             },
             "model": "custom/gear/headbands/mtwheadband"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "custom/gear/headbands/familybandhb"
         }
     ]
 }
