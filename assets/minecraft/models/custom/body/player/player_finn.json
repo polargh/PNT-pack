@@ -1,0 +1,6 @@
+{
+	"parent": "custom/body/body_h",
+	"textures": {
+		"0": "pnt:custom/skins/player_finn"
+	}
+}

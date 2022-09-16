@@ -675,6 +675,18 @@
                 "custom_model_data": 111
             },
             "model": "custom/decoration/hub/signs/showcase/sign_exhibit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "custom/body/player/player_kokomo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "custom/body/player/player_finn"
         }
     ]
 }
