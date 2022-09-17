@@ -687,6 +687,78 @@
                 "custom_model_data": 113
             },
             "model": "custom/body/player/player_finn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "custom/decoration/hub/signs/info/info_attr"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "custom/decoration/hub/signs/info/info_cosm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "custom/decoration/hub/signs/info/info_creative"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "custom/decoration/hub/signs/info/info_creativerules"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "custom/decoration/hub/signs/info/info_perk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 119
+            },
+            "model": "custom/decoration/hub/signs/info/info_rules"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 120
+            },
+            "model": "custom/decoration/hub/signs/info/info_who"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 121
+            },
+            "model": "custom/decoration/hub/signs/info/map"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 122
+            },
+            "model": "custom/decoration/hub/signs/info/sign_cosm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 123
+            },
+            "model": "custom/decoration/hub/signs/info/sign_creative"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "custom/decoration/hub/signs/info/sign_info"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "custom/decoration/hub/signs/info/sign_rides"
         }
     ]
 }
