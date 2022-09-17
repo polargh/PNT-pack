@@ -57,6 +57,18 @@
                 "custom_model_data": 9
             },
             "model": "custom/hud/yes"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/hud/blank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/hud/logo"
         }
     ]
 }
