@@ -759,6 +759,59 @@
                 "custom_model_data": 125
             },
             "model": "custom/decoration/hub/signs/info/sign_rides"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 126
+            },
+            "model": "custom/decoration/hub/signs/legacy/0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 127
+            },
+            "model": "custom/decoration/hub/signs/legacy/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 128
+            },
+            "model": "custom/decoration/hub/signs/legacy/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 129
+            },
+            "model": "custom/decoration/hub/signs/legacy/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 130
+            },
+            "model": "custom/decoration/hub/signs/legacy/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 131
+            },
+            "model": "custom/decoration/hub/signs/legacy/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 132
+            },
+            "model": "custom/decoration/hub/signs/legacy/atis_patent"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 133
+            },
+            "model": "custom/decoration/hub/signs/legacy/atis_poster"
+        },        {
+            "predicate": {
+                "custom_model_data": 134
+            },
+            "model": "custom/decoration/hub/signs/legacy/atis_queue"
         }
     ]
 }
