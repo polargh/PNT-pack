@@ -345,6 +345,36 @@
                 "custom_model_data": 57
             },
             "model": "custom/rides/legacy/atis/nucleus"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "custom/rides/legacy/df/chicken_lbody"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "custom/rides/legacy/df/chicken_lhead"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "custom/rides/legacy/df/chicken_rbody"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "custom/rides/legacy/df/chicken_rhead"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "custom/rides/legacy/df/chicken_scared"
         }
     ]
 }
