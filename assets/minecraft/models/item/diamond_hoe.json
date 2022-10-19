@@ -807,11 +807,42 @@
                 "custom_model_data": 133
             },
             "model": "custom/decoration/hub/signs/legacy/atis_poster"
-        },        {
+        },
+        {
             "predicate": {
                 "custom_model_data": 134
             },
             "model": "custom/decoration/hub/signs/legacy/atis_queue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "custom/rides/legacy/atis/characters/farmer1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "custom/rides/legacy/atis/characters/farmer2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "custom/rides/legacy/atis/characters/horse1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 138
+            },
+            "model": "custom/rides/legacy/atis/characters/horse2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 139
+            },
+            "model": "custom/rides/legacy/atis/characters/horse3"
         }
     ]
 }
