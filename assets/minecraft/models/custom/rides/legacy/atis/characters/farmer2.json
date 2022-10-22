@@ -666,8 +666,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [-4.25, 5.5, -6.5],
-			"scale": [1.25, 1.25, 1.25]
+			"translation": [-4.25, 5.5, -6.5]
 		}
 	},
 	"groups": [

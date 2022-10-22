@@ -843,6 +843,12 @@
                 "custom_model_data": 139
             },
             "model": "custom/rides/legacy/atis/characters/horse3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 140
+            },
+            "model": "custom/rides/legacy/atis/this_is_monsanto"
         }
     ]
 }

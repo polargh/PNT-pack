@@ -274,8 +274,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -31.5, -1.5],
-			"scale": [1.25, 1.25, 1.25]
+			"translation": [0, -31.5, -1.5]
 		}
 	},
 	"groups": [
