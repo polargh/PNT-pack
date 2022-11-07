@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"parent": "custom/decoration/hub/signs/showcase/showcase_1",
+	"textures": {
+		"0": "pnt:custom/signs/hub/legacy/rooms/room02",
+		"1": "pnt:none"
+	}
+}

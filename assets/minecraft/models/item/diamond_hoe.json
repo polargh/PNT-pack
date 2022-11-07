@@ -855,6 +855,90 @@
                 "custom_model_data": 141
             },
             "model": "custom/rides/legacy/atis/characters/horse4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 142
+            },
+            "model": "custom/decoration/hub/signs/legacy/room01"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 143
+            },
+            "model": "custom/decoration/hub/signs/legacy/room02"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 144
+            },
+            "model": "custom/decoration/hub/signs/legacy/room03"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 145
+            },
+            "model": "custom/decoration/hub/signs/legacy/room04"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 146
+            },
+            "model": "custom/decoration/hub/signs/legacy/room05"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 147
+            },
+            "model": "custom/decoration/hub/signs/legacy/room06"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 148
+            },
+            "model": "custom/decoration/hub/signs/legacy/room07"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 149
+            },
+            "model": "custom/decoration/hub/signs/legacy/room08"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 150
+            },
+            "model": "custom/decoration/hub/signs/legacy/room09"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 151
+            },
+            "model": "custom/decoration/hub/signs/legacy/room10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 152
+            },
+            "model": "custom/decoration/hub/signs/legacy/room11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 153
+            },
+            "model": "custom/decoration/hub/signs/legacy/room12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 154
+            },
+            "model": "custom/decoration/hub/signs/legacy/room13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 155
+            },
+            "model": "custom/decoration/hub/signs/legacy/room14"
         }
     ]
 }
