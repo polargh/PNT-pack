@@ -939,6 +939,18 @@
                 "custom_model_data": 155
             },
             "model": "custom/decoration/hub/signs/legacy/room14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 156
+            },
+            "model": "custom/rides/legacy/atis/smallplayers/p18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 157
+            },
+            "model": "custom/rides/legacy/atis/sign_america"
         }
     ]
 }
