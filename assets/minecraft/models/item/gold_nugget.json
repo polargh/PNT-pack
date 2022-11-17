@@ -195,6 +195,12 @@
                 "custom_model_data": 32
             },
             "model": "custom/gear/parkpals/tobytortoise"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "custom/gear/parkpals/atisdog"
         }
     ]
 }
