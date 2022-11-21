@@ -957,6 +957,18 @@
                 "custom_model_data": 158
             },
             "model": "custom/rides/legacy/atis/monsantopost"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 159
+            },
+            "model": "custom/rides/legacy/atis/stats1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 160
+            },
+            "model": "custom/rides/legacy/atis/stats2"
         }
     ]
 }

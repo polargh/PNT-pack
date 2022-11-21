@@ -698,6 +698,9 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.35, 0.35, 0.35]
+		},
 		"gui": {
 			"rotation": [30, 40, 0]
 		},
