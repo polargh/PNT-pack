@@ -969,6 +969,12 @@
                 "custom_model_data": 160
             },
             "model": "custom/rides/legacy/atis/stats2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 161
+            },
+            "model": "custom/decoration/stars"
         }
     ]
 }
