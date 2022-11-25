@@ -305,5 +305,24 @@
 			}
 		}
 	],
-	"display": {}
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 86, 0],
+			"translation": [2.5, 0, -12.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [2.5, 0, -12.75]
+		},
+		"gui": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [0.44, 0.44, 0.44]
+		},
+		"head": {
+			"rotation": [0, -45, 0],
+			"translation": [0, -2.25, 0],
+			"scale": [2, 2, 2]
+		}
+	}
 }

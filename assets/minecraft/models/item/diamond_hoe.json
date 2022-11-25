@@ -993,6 +993,12 @@
                 "custom_model_data": 164
             },
             "model": "custom/decoration/hub/signs/legacy/projectors/atis"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 165
+            },
+            "model": "custom/decoration/hub/signs/legacy/projectors/legacy"
         }
     ]
 }
