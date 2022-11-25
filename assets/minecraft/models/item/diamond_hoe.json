@@ -981,6 +981,18 @@
                 "custom_model_data": 162
             },
             "model": "custom/rides/legacy/atis/oil"
+        },
+                {
+            "predicate": {
+                "custom_model_data": 163
+            },
+            "model": "custom/decoration/hub/signs/legacy/exhibit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 164
+            },
+            "model": "custom/decoration/hub/signs/legacy/projectors/atis"
         }
     ]
 }
