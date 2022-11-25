@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/decoration/hub/signs/showcase/projectors/atis",
+	"parent": "custom/decoration/hub/signs/legacy/projectors/atis",
 	"textures": {
 		"5": "pnt:custom/signs/hub/legacy/projector/legacy"
 	}
