@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"textures": {
+		"0": "pnt:custom/rides/legacy/atis/characters/married4",
+		"particle": "pnt:custom/rides/legacy/atis/characters/married4"
+	},
+	"elements": [
+		{
+			"name": "married4_0",
+			"from": [-4.125, 5.75, 7.875],
+			"to": [20.125, 10.25, 8.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [20.125, 28.25, 7.875]},
+			"faces": {
+				"north": {"uv": [12.125, 11.25, 0, 9], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 11.25, 0.125, 9], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [12.125, 9, 0, 11.25], "texture": "#0"},
+				"west": {"uv": [12, 11.25, 12.125, 9], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 9, 12.125, 9.125], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12.125, 11.125, 0, 11.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -36.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "married4",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

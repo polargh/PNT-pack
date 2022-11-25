@@ -999,6 +999,102 @@
                 "custom_model_data": 165
             },
             "model": "custom/decoration/hub/signs/legacy/projectors/legacy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 166
+            },
+            "model": "custom/rides/legacy/atis/characters/farmer3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 167
+            },
+            "model": "custom/rides/legacy/atis/characters/farmer4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 168
+            },
+            "model": "custom/rides/legacy/atis/characters/horse5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 169
+            },
+            "model": "custom/rides/legacy/atis/characters/house1-1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 170
+            },
+            "model": "custom/rides/legacy/atis/characters/house1-2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 171
+            },
+            "model": "custom/rides/legacy/atis/characters/house2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 172
+            },
+            "model": "custom/rides/legacy/atis/characters/house3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 173
+            },
+            "model": "custom/rides/legacy/atis/characters/house4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 174
+            },
+            "model": "custom/rides/legacy/atis/characters/house5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 175
+            },
+            "model": "custom/rides/legacy/atis/characters/house6-1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 176
+            },
+            "model": "custom/rides/legacy/atis/characters/house6-2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 177
+            },
+            "model": "custom/rides/legacy/atis/characters/married1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 178
+            },
+            "model": "custom/rides/legacy/atis/characters/married2-1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 179
+            },
+            "model": "custom/rides/legacy/atis/characters/married2-2_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 180
+            },
+            "model": "custom/rides/legacy/atis/characters/married4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 181
+            },
+            "model": "custom/rides/legacy/atis/characters/married5"
         }
     ]
 }

@@ -1199,7 +1199,7 @@
 	"display": {
 		"head": {
 			"translation": [2.75, 0, -6.5],
-			"scale": [0.75, 0.75, 0.75]
+			"scale": [0.6, 0.6, 0.6]
 		}
 	},
 	"groups": [
