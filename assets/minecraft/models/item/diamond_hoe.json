@@ -1095,6 +1095,42 @@
                 "custom_model_data": 181
             },
             "model": "custom/rides/legacy/atis/characters/married5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 182
+            },
+            "model": "custom/rides/legacy/atis/characters/atis_hand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 183
+            },
+            "model": "custom/rides/legacy/atis/characters/hands/sign0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 184
+            },
+            "model": "custom/rides/legacy/atis/characters/hands/sign1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 185
+            },
+            "model": "custom/rides/legacy/atis/characters/hands/sign2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 186
+            },
+            "model": "custom/rides/legacy/atis/characters/hands/sign3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 187
+            },
+            "model": "custom/rides/legacy/atis/characters/hands/sign4"
         }
     ]
 }
