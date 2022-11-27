@@ -1131,6 +1131,30 @@
                 "custom_model_data": 187
             },
             "model": "custom/rides/legacy/atis/characters/hands/sign4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 188
+            },
+            "model": "custom/rides/legacy/atis/characters/plane1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 189
+            },
+            "model": "custom/rides/legacy/atis/characters/plane2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 190
+            },
+            "model": "custom/rides/legacy/atis/characters/all/excl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 191
+            },
+            "model": "custom/rides/legacy/atis/characters/all/question"
         }
     ]
 }
