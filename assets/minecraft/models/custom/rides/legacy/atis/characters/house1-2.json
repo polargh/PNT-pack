@@ -204,7 +204,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -12.25, -5]
+			"translation": [0, -12.25, -5],
+			"scale": [1.25, 1.25, 1.25]
 		}
 	},
 	"groups": [
