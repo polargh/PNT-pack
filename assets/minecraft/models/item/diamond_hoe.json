@@ -1269,6 +1269,114 @@
                 "custom_model_data": 210
             },
             "model": "custom/decoration/hub/signs/showcase/sun3"
-        }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 211
+            },
+            "model": "custom/arms/atis/cmarm1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212
+            },
+            "model": "custom/arms/atis/cmarm2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213
+            },
+            "model": "custom/arms/atis/cmarm3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214
+            },
+            "model": "custom/arms/atis/cmarm4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215
+            },
+            "model": "custom/arms/atis/cmarm5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 216
+            },
+            "model": "custom/arms/atis/cmarm6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 217
+            },
+            "model": "custom/arms/atis/cmarm7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 218
+            },
+            "model": "custom/arms/atis/cmarm8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 219
+            },
+            "model": "custom/body/cm_atis_b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220
+            },
+            "model": "custom/body/cm_atis_ll"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221
+            },
+            "model": "custom/body/cm_atis_rl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222
+            },
+            "model": "custom/body/legacy/bust1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223
+            },
+            "model": "custom/body/legacy/bust2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224
+            },
+            "model": "custom/body/legacy/bust3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225
+            },
+            "model": "custom/body/legacy/statue_b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 226
+            },
+            "model": "custom/body/legacy/statue_h"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 227
+            },
+            "model": "custom/body/legacy/statue_ra"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 228
+            },
+            "model": "custom/body/legacy/statue_rl"
+        },
     ]
 }

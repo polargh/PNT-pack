@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"parent": "custom/decoration/hub/signs/showcase/display_1",
 	"textures": {
-		"0": "pnt:custom/signs/hub/legacy/lore/guy3",
-		"1": "pnt:custom/signs/hub/legacy/lore/text2",
+		"1": "pnt:custom/signs/hub/legacy/lore/guy3",
+		"0": "pnt:custom/signs/hub/legacy/lore/text2",
 		"2": "block/white_concrete"
 	}
 }
