@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/decoration/hub/signs/showcase/showcase_1",
+	"parent": "custom/decoration/hub/signs/showcase/display_1",
 	"textures": {
-		"0": "pnt:custom/signs/hub/legacy/lore/guy2"
+		"0": "pnt:custom/signs/hub/legacy/lore/guy2",
+		"1": "pnt:custom/signs/hub/legacy/lore/text4",
+		"2": "block/white_concrete"
 	}
 }

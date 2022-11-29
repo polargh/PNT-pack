@@ -1232,7 +1232,7 @@
             "predicate": {
                 "custom_model_data": 204
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/text2"
+            "model": "OPEN"
         },
         {
             "predicate": {
@@ -1244,13 +1244,13 @@
             "predicate": {
                 "custom_model_data": 206
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/text4"
+            "model": "OPEN"
         },
         {
             "predicate": {
                 "custom_model_data": 207
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/text5"
+            "model": "OPEN"
         },
         {
             "predicate": {
