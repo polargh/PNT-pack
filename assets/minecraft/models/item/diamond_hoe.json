@@ -1377,6 +1377,12 @@
                 "custom_model_data": 228
             },
             "model": "custom/body/legacy/statue_rl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 229
+            },
+            "model": "custom/rides/legacy/americasings/americasingspreview"
         }
     ]
 }
