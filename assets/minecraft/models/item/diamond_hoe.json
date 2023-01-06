@@ -1383,6 +1383,66 @@
                 "custom_model_data": 229
             },
             "model": "custom/rides/legacy/americasings/americasingspreview"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230
+            },
+            "model": "custom/decoration/minigames/groove/howplay"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231
+            },
+            "model": "custom/decoration/minigames/groove/tips"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232
+            },
+            "model": "custom/decoration/minigames/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "custom/decoration/minigames/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "custom/decoration/minigames/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235
+            },
+            "model": "custom/decoration/minigames/begin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 236
+            },
+            "model": "custom/decoration/minigames/gameover"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 237
+            },
+            "model": "custom/decoration/minigames/getready"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 238
+            },
+            "model": "custom/decoration/minigames/howplay"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 239
+            },
+            "model": "custom/decoration/minigames/logo"
         }
     ]
 }
