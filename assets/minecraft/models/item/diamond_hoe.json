@@ -1443,6 +1443,18 @@
                 "custom_model_data": 239
             },
             "model": "custom/decoration/minigames/logo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 240
+            },
+            "model": "custom/decoration/minigames/groove/sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 241
+            },
+            "model": "custom/decoration/hub/signs/gameplex"
         }
     ]
 }
