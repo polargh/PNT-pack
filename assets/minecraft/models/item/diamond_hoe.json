@@ -1455,6 +1455,12 @@
                 "custom_model_data": 241
             },
             "model": "custom/decoration/hub/signs/gameplex"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 242
+            },
+            "model": "custom/decoration/minigames/welcome"
         }
     ]
 }
