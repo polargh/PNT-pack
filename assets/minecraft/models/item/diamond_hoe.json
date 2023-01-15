@@ -1497,6 +1497,12 @@
                 "custom_model_data": 248
             },
             "model": "custom/decoration/minigames/bnl/bigsign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 249
+            },
+            "model": "custom/decoration/minigames/bnl/portrait"
         }
     ]
 }
