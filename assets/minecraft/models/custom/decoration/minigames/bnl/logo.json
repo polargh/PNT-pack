@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"parent": "custom/decoration/hub/signs/showcase/showcase_1",
 	"textures": {
-		"0": "pnt:custom/misc/minigames/3"
+		"0": "pnt:custom/misc/minigames/bnl/logo"
 	}
 }

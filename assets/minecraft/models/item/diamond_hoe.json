@@ -1400,49 +1400,49 @@
             "predicate": {
                 "custom_model_data": 232
             },
-            "model": "custom/decoration/minigames/1"
+            "model": "custom/decoration/minigames/bnl/1"
         },
         {
             "predicate": {
                 "custom_model_data": 233
             },
-            "model": "custom/decoration/minigames/2"
+            "model": "custom/decoration/minigames/bnl/2"
         },
         {
             "predicate": {
                 "custom_model_data": 234
             },
-            "model": "custom/decoration/minigames/3"
+            "model": "custom/decoration/minigames/bnl/3"
         },
         {
             "predicate": {
                 "custom_model_data": 235
             },
-            "model": "custom/decoration/minigames/begin"
+            "model": "custom/decoration/minigames/bnl/begin"
         },
         {
             "predicate": {
                 "custom_model_data": 236
             },
-            "model": "custom/decoration/minigames/gameover"
+            "model": "custom/decoration/minigames/bnl/gameover"
         },
         {
             "predicate": {
                 "custom_model_data": 237
             },
-            "model": "custom/decoration/minigames/getready"
+            "model": "custom/decoration/minigames/bnl/getready"
         },
         {
             "predicate": {
                 "custom_model_data": 238
             },
-            "model": "custom/decoration/minigames/howplay"
+            "model": "custom/decoration/minigames/bnl/howplay"
         },
         {
             "predicate": {
                 "custom_model_data": 239
             },
-            "model": "custom/decoration/minigames/logo"
+            "model": "custom/decoration/minigames/bnl/logo"
         },
         {
             "predicate": {

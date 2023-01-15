@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench and by TheTojoz",
+	"textures": {
+		"0": "pnt:custom/misc/minigames/bnl/1"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 32, 0.05],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -4, 0],
+			"scale": [0.33, 0.51, 1]
+		},
+		"head": {
+			"translation": [0, -40, 30.25],
+			"scale": [3.5, 3.5, 3.5]
+		},
+		"fixed": {
+			"translation": [0, 5.5, 33.95],
+			"scale": [4, 4, 4]
+		}
+	}
+}
