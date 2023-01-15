@@ -1,8 +1,5 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "custom/decoration/minigames/bnl/bnldrillfix"
-    },
+    "parent": "custom/decoration/minigames/bnl/bnldrillfix",
     "overrides": [
         {
             "predicate": {
