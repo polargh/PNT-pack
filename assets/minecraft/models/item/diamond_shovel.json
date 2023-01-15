@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "custom/decoration/minigames/bnl/bnldrillfix"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/diamond_shovel"
+        }
+    ]
+}

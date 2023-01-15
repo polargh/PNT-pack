@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"parent": "custom/decoration/minigames/bnl/1",
 	"textures": {
-		"0": "pnt:custom/misc/minigames/bnl/howplay"
+		"0": "pnt:custom/misc/minigames/bnl/consume"
 	}
 }
