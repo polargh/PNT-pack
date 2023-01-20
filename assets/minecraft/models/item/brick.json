@@ -1,0 +1,56 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/brick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman1-1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman1-2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman1-3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman1-4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman2-1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman2-2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman2-3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/rides/legacy/df/screens/stuntman/screen_stuntman2-4"
+        }
+    ]
+}
