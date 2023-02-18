@@ -201,6 +201,24 @@
                 "custom_model_data": 33
             },
             "model": "custom/gear/parkpals/atisdog"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "custom/gear/parkpals/brerrabbit"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "custom/gear/parkpals/billcipher"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "custom/gear/parkpals/mrbluebird"
         }
     ]
 }

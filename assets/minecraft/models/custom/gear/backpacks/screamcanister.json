@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"1": "pnt:custom/cosmetics/backpacks/screamcanister"
+		"1": "pnt:custom/cosmetics/handhelds/screamcanister"
 	},
 	"elements": [
 		{
@@ -8824,7 +8824,7 @@
 		},
 		"head": {
 			"rotation": [0, 0, -27],
-			"translation": [0, -15.6305, 6.75]
+			"translation": [0, -48.3805, 6.75]
 		},
 		"fixed": {
 			"rotation": [0, 180, 0]
