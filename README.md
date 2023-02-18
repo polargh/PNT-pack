@@ -1,2 +1,2 @@
 # PNT-pack
-Recourse Pack Repository for Project: New Tomorrow
+Resource Pack Repository for Project: New Tomorrow
