@@ -1503,6 +1503,18 @@
                 "custom_model_data": 249
             },
             "model": "custom/decoration/minigames/bnl/portrait"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 250
+            },
+            "model": "custom/decoration/epcotlogo"
+        },
+		 {
+            "predicate": {
+                "custom_model_data": 251
+            },
+            "model": "custom/decoration/fwtrash"
         }
     ]
 }
