@@ -4,6 +4,10 @@
             "type": "directory",
             "source": "custom",
             "prefix": "custom/"
+        },
+        {
+            "type": "single",
+            "resource": "pnt:none"
         }
     ]
 }
