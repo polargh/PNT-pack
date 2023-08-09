@@ -381,6 +381,12 @@
                 "custom_model_data": 63
             },
             "model": "custom/rides/legacy/df/turntable_base"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "custom/rides/legacy/okee/okee_boat"
         }
     ]
 }
