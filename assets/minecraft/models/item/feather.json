@@ -406,11 +406,24 @@
             },
             "model": "custom/rides/legacy/okee/okee_crow_red"
         },
-                {
+        {
             "predicate": {
                 "custom_model_data": 68
             },
             "model": "custom/rides/legacy/okee/okee_crow_tan"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "custom/rides/legacy/okee/okee_crow_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "custom/rides/legacy/okee/okee_crow_brown"
         }
+        
     ]
 }
