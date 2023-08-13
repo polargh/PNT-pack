@@ -423,6 +423,24 @@
                 "custom_model_data": 70
             },
             "model": "custom/rides/legacy/okee/okee_crow_brown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "custom/rides/legacy/okee/okee_entrance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "custom/rides/legacy/okee/okee_ground"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "custom/rides/legacy/okee/okee_logo"
         }
         
     ]
