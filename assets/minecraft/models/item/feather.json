@@ -423,7 +423,108 @@
                 "custom_model_data": 70
             },
             "model": "custom/rides/legacy/okee/okee_crow_brown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "custom/rides/legacy/okee/okee_entrance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "custom/rides/legacy/okee/okee_ground"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "custom/rides/legacy/okee/okee_logo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_foot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_larm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_lbear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_lear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_mrbfoot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_mrbtorso"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_mrhead"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_mrtorso"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_rarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_rbear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_rear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_torso"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_white_torsoblue"
         }
-        
     ]
 }

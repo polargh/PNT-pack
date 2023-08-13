@@ -1515,6 +1515,18 @@
                 "custom_model_data": 251
             },
             "model": "custom/decoration/fwtrash"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 252
+            },
+            "model": "custom/rides/legacy/okee/okee_info"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 253
+            },
+            "model": "custom/rides/legacy/okee/okee_stats"
         }
     ]
 }

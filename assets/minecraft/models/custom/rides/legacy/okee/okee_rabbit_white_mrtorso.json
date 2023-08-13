@@ -1,0 +1,79 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "pnt:custom/rides/legacy/okee/okee_rabbit_white",
+		"particle": "pnt:custom/rides/legacy/okee/okee_rabbit_white"
+	},
+	"elements": [
+		{
+			"from": [4, -8, 5],
+			"to": [12, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [10.5, 0, 12.5, 4], "texture": "#0"},
+				"east": {"uv": [12.5, 8, 14, 4], "texture": "#0"},
+				"south": {"uv": [10.5, 4, 12.5, 8], "texture": "#0"},
+				"west": {"uv": [12.5, 4, 14, 0], "texture": "#0"},
+				"up": {"uv": [10.5, 0, 12.5, 1.25], "texture": "#0"},
+				"down": {"uv": [10.5, 8, 12.5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 8, 6.5],
+			"to": [9.5, 10, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [2.75, 15, 3.5, 15.5], "texture": "#0"},
+				"east": {"uv": [2.5, 14.25, 3.25, 14.75], "texture": "#0"},
+				"south": {"uv": [0.5, 16, 1.25, 15.5], "texture": "#0"},
+				"west": {"uv": [1, 14.25, 1.75, 14.75], "texture": "#0"},
+				"up": {"uv": [1.5, 15.25, 2.25, 16], "texture": "#0"},
+				"down": {"uv": [1.5, 15.25, 2.25, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.75, -6.5, 11],
+			"to": [9.25, -4, 13.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [2.75, 15, 3.5, 15.5], "texture": "#0"},
+				"east": {"uv": [2.5, 14.25, 3.25, 14.75], "texture": "#0"},
+				"south": {"uv": [0.5, 16, 1.25, 15.5], "texture": "#0"},
+				"west": {"uv": [1, 14.25, 1.75, 14.75], "texture": "#0"},
+				"up": {"uv": [1.5, 15.25, 2.25, 16], "texture": "#0"},
+				"down": {"uv": [1.5, 15.25, 2.25, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -1.5, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -1.5, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"translation": [3.75, 3.5, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [3.75, 3.5, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"head": {
+			"translation": [0, -8.25, 0],
+			"scale": [1.44, 1.44, 1.44]
+		}
+	},
+	"groups": [
+		{
+			"name": "Torso",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}
