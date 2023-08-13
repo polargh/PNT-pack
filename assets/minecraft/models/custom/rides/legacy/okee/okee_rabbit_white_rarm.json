@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "pnt:okee_rabbit_white",
-		"particle": "pnt:okee_rabbit_white"
+		"0": "pnt:custom/rides/legacy/okee/okee_rabbit_white",
+		"particle": "pnt:custom/rides/legacy/okee/okee_rabbit_white"
 	},
 	"elements": [
 		{
