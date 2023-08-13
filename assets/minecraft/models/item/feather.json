@@ -525,6 +525,60 @@
                 "custom_model_data": 87
             },
             "model": "custom/rides/legacy/okee/okee_rabbit_white_torsoblue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "custom/rides/legacy/okee/okee_cardboard9"
         }
     ]
 }
