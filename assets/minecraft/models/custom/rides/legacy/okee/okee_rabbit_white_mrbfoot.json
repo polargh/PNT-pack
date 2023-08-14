@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "pnt:custom/rides/legacy/okee/okee_rabbit_white",
-		"particle": "pnt:custom/rides/legacy/okee/okee_rabbit_white"
+		"0": "Oke-Rabbit_White",
+		"particle": "Oke-Rabbit_White"
 	},
 	"elements": [
 		{
@@ -24,12 +24,12 @@
 			"to": [7.75, -13.5, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, 0]},
 			"faces": {
-				"north": {"uv": [5.5, 11, 6, 12], "rotation": 90, "texture": "#0"},
-				"east": {"uv": [4, 12, 6.75, 11.5], "texture": "#0"},
-				"south": {"uv": [4, 11.25, 4.125, 11.75], "texture": "#0"},
-				"west": {"uv": [6.75, 12, 4, 11.5], "texture": "#0"},
+				"north": {"uv": [6.25, 11, 6.75, 12], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [4, 11.5, 6.75, 10.75], "texture": "#0"},
+				"south": {"uv": [4.125, 11.5, 5.125, 10.75], "texture": "#0"},
+				"west": {"uv": [6.75, 11.5, 4, 10.75], "texture": "#0"},
 				"up": {"uv": [6.75, 11, 4, 12], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [4, 11, 6.75, 12], "rotation": 90, "texture": "#0"}
+				"down": {"uv": [4, 10.75, 6.75, 11], "rotation": 90, "texture": "#0"}
 			}
 		}
 	],
