@@ -1516,11 +1516,6 @@
             },
             "model": "custom/decoration/fwtrash"
         },
-		{
-            "predicate": {
-                "custom_model_data": 252
-            },
-            "model": "custom/decoration/goofyabouthealth"
         {
             "predicate": {
                 "custom_model_data": 252
