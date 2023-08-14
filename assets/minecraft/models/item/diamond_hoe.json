@@ -1515,6 +1515,12 @@
                 "custom_model_data": 251
             },
             "model": "custom/decoration/fwtrash"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 252
+            },
+            "model": "custom/decoration/goofyabouthealth"
         }
     ]
 }
