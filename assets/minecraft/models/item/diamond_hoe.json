@@ -1521,6 +1521,23 @@
                 "custom_model_data": 252
             },
             "model": "custom/decoration/goofyabouthealth"
+        {
+            "predicate": {
+                "custom_model_data": 252
+            },
+            "model": "custom/rides/legacy/okee/okee_info"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 253
+            },
+            "model": "custom/rides/legacy/okee/okee_stats"
+        },
+		{
+			"predicate": {
+                "custom_model_data": 254
+            },
+            "model": "custom/decoration/goofyabouthealth"
         }
     ]
 }
