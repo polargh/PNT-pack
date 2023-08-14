@@ -579,6 +579,60 @@
                 "custom_model_data": 96
             },
             "model": "custom/rides/legacy/okee/okee_cardboard9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 97
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_head1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_head2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_larm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_lear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_leg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_rarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_rear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_torso1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "custom/rides/legacy/okee/okee_rabbit_brown_torso2"
         }
     ]
 }
