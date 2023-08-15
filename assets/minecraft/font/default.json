@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "pnt:font/icons/error.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["膣ꑜ鏻鎓矣耩", "纤缎缍绗缴缵"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/black_box.png",
+            "ascent": 250,
+            "height": 1500,
+            "chars": ["勒"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/pnt_arrow.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꈂ"]
+        },
+        {
+            "chars": ["\uE209"],
+            "file": "pnt:font/opening/1.png",
+            "ascent": 7,
+            "height": 7,
+            "size": 10.0,
+            "oversample": 10.0,
+            "type": "bitmap"
+        },
+        {
+            "chars": ["\uE210"],
+            "file": "pnt:font/opening/2.png",
+            "ascent": 7,
+            "height": 7,
+            "size": 10.0,
+            "oversample": 10.0,
+            "type": "bitmap"
+        },
+        {
+            "chars": ["\uE211"],
+            "file": "pnt:font/opening/3.png",
+            "ascent": 7,
+            "height": 7,
+            "size": 10.0,
+            "oversample": 10.0,
+            "type": "bitmap"
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/pixel_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": ["\uE213"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/gui/navigator.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["\uE214"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/gui/generic.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["\uE215"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/gui/spread.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["\uE216"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/gui/generic_small.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["\uE217"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/gui/spread_small.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["\uE218"]
+        }
+    ]
+}
