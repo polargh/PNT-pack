@@ -1,0 +1,7 @@
+{
+    "parent": "custom/decoration/hub/signs/showcase/showcase_1",
+    "textures": {
+        "0": "pnt:custom/rides/legacy/okee/long_image",
+        "1": "pnt:none"
+    }
+}
