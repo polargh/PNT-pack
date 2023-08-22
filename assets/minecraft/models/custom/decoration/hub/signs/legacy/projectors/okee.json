@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "custom/decoration/hub/signs/legacy/projectors/atis",
+	"textures": {
+		"5": "pnt:custom/signs/hub/legacy/projector/okee"
+	}
+}

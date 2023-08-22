@@ -1551,6 +1551,12 @@
                 "custom_model_data": 257
             },
             "model": "custom/rides/legacy/okee/poster"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 258
+            },
+            "model": "custom/decoration/hub/signs/legacy/projectors/okee"
         }
     ]
 }
