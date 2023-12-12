@@ -51,6 +51,7 @@
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"head": {
+			"rotation": [0, 180, 0],
 			"translation": [0, -8.25, 0],
 			"scale": [1.44, 1.44, 1.44]
 		}
@@ -60,6 +61,7 @@
 			"name": "Legs",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1]
 		}
 	]
