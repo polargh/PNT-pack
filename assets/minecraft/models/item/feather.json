@@ -813,6 +813,12 @@
                 "custom_model_data": 135
             },
             "model": "custom/rides/legacy/okee/okee_rabbit_yellow_torsovest"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "custom/rides/legacy/okee/okee_hula"
         }
     ]
 }
