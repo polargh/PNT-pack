@@ -1,0 +1,11 @@
+{
+    "providers": [
+      {
+        "type":"ttf",
+        "file":"itcavantgardestd_demi.ttf",
+        "shift":[0,2],
+        "size":8,
+        "oversample":15
+      }
+    ]
+  }
