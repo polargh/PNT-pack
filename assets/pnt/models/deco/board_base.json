@@ -15,10 +15,14 @@
 		}
 	],
 	"display": {
+		"ground": {
+			"translation": [0, 8, 0],
+			"scale": [0.43555, 0.43555, 0.43555]
+		},
 		"gui": {
-			"rotation": [0, 180, 0],
-			"translation": [0, -4, 0],
-			"scale": [0.33, 0.51, 1]
+			"rotation": [30, -135, 0],
+			"translation": [-2.25, -1.5, 0],
+			"scale": [0.30344, 0.30344, 0.30344]
 		},
 		"head": {
 			"translation": [0, -30.75, 13.25],
