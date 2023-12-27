@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "quartz_block_bottom",
-		"2": "black_concrete",
-		"4": "glass",
-		"particle": "black_concrete"
+		"1": "block/quartz_block_bottom",
+		"2": "block/black_concrete",
+		"4": "block/glass",
+		"particle": "block/black_concrete"
 	},
 	"elements": [
 		{

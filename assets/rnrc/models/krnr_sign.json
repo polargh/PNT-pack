@@ -3,8 +3,8 @@
 	"textures": {
 		"0": "rnrc:custom/krnr1",
 		"1": "rnrc:custom/krnr2",
-		"2": "block/quartz_block_bottom",
-		"3": "block/smooth_stone"
+		"2": "minecraft:block/quartz_block_bottom",
+		"3": "minecraft:block/smooth_stone"
 	},
 	"elements": [
 		{
