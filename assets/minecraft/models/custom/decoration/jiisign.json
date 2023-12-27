@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "epcot/jii"
+		"voxels_palette": "item/pnt/deco/jii"
 	},
 	"elements": [ 	 
 		{
