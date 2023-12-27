@@ -1520,7 +1520,7 @@
             "predicate": {
                 "custom_model_data": 253
             },
-            "model": "custom/rides/legacy/okee/okee_stats"
+            "model": "okee:okee_stats"
         },
 		{
 			"predicate": {
@@ -1532,19 +1532,19 @@
 			"predicate": {
                 "custom_model_data": 255
             },
-            "model": "custom/rides/legacy/okee/okee_photo"
+            "model": "okee:okee_photo"
         },
 		{
 			"predicate": {
                 "custom_model_data": 256
             },
-            "model": "custom/rides/legacy/okee/long_image"
+            "model": "okee:long_image"
         },
 		{
 			"predicate": {
                 "custom_model_data": 257
             },
-            "model": "custom/rides/legacy/okee/poster"
+            "model": "okee:poster"
         },
         {
             "predicate": {
