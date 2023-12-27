@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
 		"0": "pnt:custom/deco/board_base_front",
-		"1": "pnt:custom/signs/hub/info/pntbackground"
+		"1": "hub:custom/info/pntbackground"
 	},
 	"elements": [
 		{
