@@ -1,7 +1,8 @@
+
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "pnt:textures/custom/deco/horizons"
+		"voxels_palette": "epcot:deco/horizons"
 	},
 	"elements": [ 	 
 		{

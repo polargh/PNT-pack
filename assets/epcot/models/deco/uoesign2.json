@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "pnt:textures/custom/deco/uoesign"
+		"voxels_palette": "epcot:deco/uoesign"
 	},
 	"elements": [ 	 
 		{

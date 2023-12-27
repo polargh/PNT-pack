@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "pnt:textures/custom/deco/seassign"
+		"voxels_palette": "epcot:deco/seassign"
 	},
 	"elements": [ 	 
 		{
