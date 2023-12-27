@@ -8,25 +8,25 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/decoration/hub/signs/pnt"
+            "model": "hub:signs/pnt"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/decoration/hub/signs/sign_center"
+            "model": "hub:signs/sign_center"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/decoration/hub/signs/sign_info"
+            "model": "hub:signs/sign_info"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/decoration/hub/signs/sign_shop"
+            "model": "hub:signs/sign_shop"
         },
         {
             "predicate": {
@@ -134,13 +134,13 @@
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "custom/decoration/hub/turntable"
+            "model": "hub:deco/turntable"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "custom/decoration/hub/bench"
+            "model": "hub:deco/bench"
         },
         {
             "predicate": {
@@ -194,7 +194,7 @@
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "custom/decoration/hub/signs/pntbig"
+            "model": "hub:signs/pntbig"
         },
         {
             "predicate": {
@@ -278,91 +278,91 @@
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "custom/decoration/hub/signs/gatewaygoods"
+            "model": "hub:signs/gatewaygoods"
         },
         {
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "custom/decoration/hub/signs/showcase"
+            "model": "hub:signs/showcase"
         },
         {
             "predicate": {
                 "custom_model_data": 48
             },
-            "model": "custom/decoration/hub/signs/legacy"
+            "model": "hub:signs/legacy"
         },
         {
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_spawn"
+            "model": "hub:signs/directory/pntdirect_spawn"
         },
         {
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_dockspawn"
+            "model": "hub:signs/directory/pntdirect_dockspawn"
         },
         {
             "predicate": {
                 "custom_model_data": 51
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_dockemp"
+            "model": "hub:signs/directory/pntdirect_dockemp"
         },
         {
             "predicate": {
                 "custom_model_data": 52
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_dockgate"
+            "model": "hub:signs/directory/pntdirect_dockgate"
         },
         {
             "predicate": {
                 "custom_model_data": 53
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_skytower"
+            "model": "hub:signs/directory/pntdirect_skytower"
         },
         {
             "predicate": {
                 "custom_model_data": 54
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_bridgesfront"
+            "model": "hub:signs/directory/pntdirect_bridgesfront"
         },
         {
             "predicate": {
                 "custom_model_data": 55
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_bridgesback"
+            "model": "hub:signs/directory/pntdirect_bridgesback"
         },
         {
             "predicate": {
                 "custom_model_data": 56
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_custom"
+            "model": "hub:signs/directory/pntdirect_custom"
         },
         {
             "predicate": {
                 "custom_model_data": 57
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_showcase"
+            "model": "hub:signs/directory/pntdirect_showcase"
         },
         {
             "predicate": {
                 "custom_model_data": 58
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_center"
+            "model": "hub:signs/directory/pntdirect_center"
         },
         {
             "predicate": {
                 "custom_model_data": 59
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_legacy"
+            "model": "hub:signs/directory/pntdirect_legacy"
         },
         {
             "predicate": {
                 "custom_model_data": 60
             },
-            "model": "custom/decoration/hub/signs/directory/pntdirect_creative"
+            "model": "hub:signs/directory/pntdirect_creative"
         },
         {
             "predicate": {
@@ -560,25 +560,25 @@
             "predicate": {
                 "custom_model_data": 92
             },
-            "model": "custom/decoration/hub/mini_boat"
+            "model": "hub:deco/mini_boat"
         },
         {
             "predicate": {
                 "custom_model_data": 93
             },
-            "model": "custom/decoration/hub/mini_pm"
+            "model": "hub:deco/mini_pm"
         },
         {
             "predicate": {
                 "custom_model_data": 94
             },
-            "model": "custom/decoration/hub/mini_pmvehicle"
+            "model": "hub:deco/mini_pmvehicle"
         },
         {
             "predicate": {
                 "custom_model_data": 95
             },
-            "model": "custom/decoration/hub/legacy_projector"
+            "model": "hub:deco/legacy_projector"
         },
         {
             "predicate": {
@@ -596,85 +596,85 @@
             "predicate": {
                 "custom_model_data": 98
             },
-            "model": "custom/decoration/hub/signs/showcase/showcase_1"
+            "model": "hub:signs/showcase/showcase_1"
         },
         {
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "custom/decoration/hub/signs/showcase/showcase_2"
+            "model": "hub:signs/showcase/showcase_2"
         },
         {
             "predicate": {
                 "custom_model_data": 100
             },
-            "model": "custom/decoration/hub/signs/showcase/showcase_3"
+            "model": "hub:signs/showcase/showcase_3"
         },
         {
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "custom/decoration/hub/signs/showcase/showcase_4"
+            "model": "hub:signs/showcase/showcase_4"
         },
         {
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "custom/decoration/hub/signs/showcase/showcase_5"
+            "model": "hub:signs/showcase/showcase_5"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "custom/decoration/hub/signs/showcase/showcase_6"
+            "model": "hub:signs/showcase/showcase_6"
         },
         {
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "custom/decoration/hub/signs/showcase/display_1"
+            "model": "hub:signs/showcase/display_1"
         },
         {
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "custom/decoration/hub/signs/showcase/display_2"
+            "model": "hub:signs/showcase/display_2"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "custom/decoration/hub/signs/showcase/display_3"
+            "model": "hub:signs/showcase/display_3"
         },
         {
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "custom/decoration/hub/signs/showcase/display_4"
+            "model": "hub:signs/showcase/display_4"
         },
         {
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "custom/decoration/hub/signs/showcase/panel"
+            "model": "hub:signs/showcase/panel"
         },
         {
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "custom/decoration/hub/signs/showcase/sign_panel"
+            "model": "hub:signs/showcase/sign_panel"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "custom/decoration/hub/signs/showcase/exhibit"
+            "model": "hub:signs/showcase/exhibit"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "custom/decoration/hub/signs/showcase/sign_exhibit"
+            "model": "hub:signs/showcase/sign_exhibit"
         },
         {
             "predicate": {
@@ -692,127 +692,127 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "custom/decoration/hub/signs/info/info_attr"
+            "model": "hub:signs/info/info_attr"
         },
         {
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "custom/decoration/hub/signs/info/info_cosm"
+            "model": "hub:signs/info/info_cosm"
         },
         {
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "custom/decoration/hub/signs/info/info_creative"
+            "model": "hub:signs/info/info_creative"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "custom/decoration/hub/signs/info/info_creativerules"
+            "model": "hub:signs/info/info_creativerules"
         },
         {
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "custom/decoration/hub/signs/info/info_perk"
+            "model": "hub:signs/info/info_perk"
         },
         {
             "predicate": {
                 "custom_model_data": 119
             },
-            "model": "custom/decoration/hub/signs/info/info_rules"
+            "model": "hub:signs/info/info_rules"
         },
         {
             "predicate": {
                 "custom_model_data": 120
             },
-            "model": "custom/decoration/hub/signs/info/info_who"
+            "model": "hub:signs/info/info_who"
         },
         {
             "predicate": {
                 "custom_model_data": 121
             },
-            "model": "custom/decoration/hub/signs/info/map"
+            "model": "hub:signs/info/map"
         },
         {
             "predicate": {
                 "custom_model_data": 122
             },
-            "model": "custom/decoration/hub/signs/info/sign_cosm"
+            "model": "hub:signs/info/sign_cosm"
         },
         {
             "predicate": {
                 "custom_model_data": 123
             },
-            "model": "custom/decoration/hub/signs/info/sign_creative"
+            "model": "hub:signs/info/sign_creative"
         },
         {
             "predicate": {
                 "custom_model_data": 124
             },
-            "model": "custom/decoration/hub/signs/info/sign_info"
+            "model": "hub:signs/info/sign_info"
         },
         {
             "predicate": {
                 "custom_model_data": 125
             },
-            "model": "custom/decoration/hub/signs/info/sign_rides"
+            "model": "hub:signs/info/sign_rides"
         },
         {
             "predicate": {
                 "custom_model_data": 126
             },
-            "model": "custom/decoration/hub/signs/legacy/0"
+            "model": "hub:signs/legacy/0"
         },
         {
             "predicate": {
                 "custom_model_data": 127
             },
-            "model": "custom/decoration/hub/signs/legacy/1"
+            "model": "hub:signs/legacy/1"
         },
         {
             "predicate": {
                 "custom_model_data": 128
             },
-            "model": "custom/decoration/hub/signs/legacy/2"
+            "model": "hub:signs/legacy/2"
         },
         {
             "predicate": {
                 "custom_model_data": 129
             },
-            "model": "custom/decoration/hub/signs/legacy/3"
+            "model": "hub:signs/legacy/3"
         },
         {
             "predicate": {
                 "custom_model_data": 130
             },
-            "model": "custom/decoration/hub/signs/legacy/4"
+            "model": "hub:signs/legacy/4"
         },
         {
             "predicate": {
                 "custom_model_data": 131
             },
-            "model": "custom/decoration/hub/signs/legacy/5"
+            "model": "hub:signs/legacy/5"
         },
         {
             "predicate": {
                 "custom_model_data": 132
             },
-            "model": "custom/decoration/hub/signs/legacy/atis_patent"
+            "model": "hub:signs/legacy/atis_patent"
         },
         {
             "predicate": {
                 "custom_model_data": 133
             },
-            "model": "custom/decoration/hub/signs/legacy/atis_poster"
+            "model": "hub:signs/legacy/atis_poster"
         },
         {
             "predicate": {
                 "custom_model_data": 134
             },
-            "model": "custom/decoration/hub/signs/legacy/atis_queue"
+            "model": "hub:signs/legacy/atis_queue"
         },
         {
             "predicate": {
@@ -860,85 +860,85 @@
             "predicate": {
                 "custom_model_data": 142
             },
-            "model": "custom/decoration/hub/signs/legacy/room01"
+            "model": "hub:signs/legacy/room01"
         },
         {
             "predicate": {
                 "custom_model_data": 143
             },
-            "model": "custom/decoration/hub/signs/legacy/room02"
+            "model": "hub:signs/legacy/room02"
         },
         {
             "predicate": {
                 "custom_model_data": 144
             },
-            "model": "custom/decoration/hub/signs/legacy/room03"
+            "model": "hub:signs/legacy/room03"
         },
         {
             "predicate": {
                 "custom_model_data": 145
             },
-            "model": "custom/decoration/hub/signs/legacy/room04"
+            "model": "hub:signs/legacy/room04"
         },
         {
             "predicate": {
                 "custom_model_data": 146
             },
-            "model": "custom/decoration/hub/signs/legacy/room05"
+            "model": "hub:signs/legacy/room05"
         },
         {
             "predicate": {
                 "custom_model_data": 147
             },
-            "model": "custom/decoration/hub/signs/legacy/room06"
+            "model": "hub:signs/legacy/room06"
         },
         {
             "predicate": {
                 "custom_model_data": 148
             },
-            "model": "custom/decoration/hub/signs/legacy/room07"
+            "model": "hub:signs/legacy/room07"
         },
         {
             "predicate": {
                 "custom_model_data": 149
             },
-            "model": "custom/decoration/hub/signs/legacy/room08"
+            "model": "hub:signs/legacy/room08"
         },
         {
             "predicate": {
                 "custom_model_data": 150
             },
-            "model": "custom/decoration/hub/signs/legacy/room09"
+            "model": "hub:signs/legacy/room09"
         },
         {
             "predicate": {
                 "custom_model_data": 151
             },
-            "model": "custom/decoration/hub/signs/legacy/room10"
+            "model": "hub:signs/legacy/room10"
         },
         {
             "predicate": {
                 "custom_model_data": 152
             },
-            "model": "custom/decoration/hub/signs/legacy/room11"
+            "model": "hub:signs/legacy/room11"
         },
         {
             "predicate": {
                 "custom_model_data": 153
             },
-            "model": "custom/decoration/hub/signs/legacy/room12"
+            "model": "hub:signs/legacy/room12"
         },
         {
             "predicate": {
                 "custom_model_data": 154
             },
-            "model": "custom/decoration/hub/signs/legacy/room13"
+            "model": "hub:signs/legacy/room13"
         },
         {
             "predicate": {
                 "custom_model_data": 155
             },
-            "model": "custom/decoration/hub/signs/legacy/room14"
+            "model": "hub:signs/legacy/room14"
         },
         {
             "predicate": {
@@ -986,19 +986,19 @@
             "predicate": {
                 "custom_model_data": 163
             },
-            "model": "custom/decoration/hub/signs/legacy/exhibit"
+            "model": "hub:signs/legacy/exhibit"
         },
         {
             "predicate": {
                 "custom_model_data": 164
             },
-            "model": "custom/decoration/hub/signs/legacy/projectors/atis"
+            "model": "hub:signs/legacy/projectors/atis"
         },
         {
             "predicate": {
                 "custom_model_data": 165
             },
-            "model": "custom/decoration/hub/signs/legacy/projectors/legacy"
+            "model": "hub:signs/legacy/projectors/legacy"
         },
         {
             "predicate": {
@@ -1172,61 +1172,61 @@
             "predicate": {
                 "custom_model_data": 194
             },
-            "model": "custom/decoration/hub/signs/legacy/1st"
+            "model": "hub:signs/legacy/1st"
         },
         {
             "predicate": {
                 "custom_model_data": 195
             },
-            "model": "custom/decoration/hub/signs/legacy/2nd"
+            "model": "hub:signs/legacy/2nd"
         },
         {
             "predicate": {
                 "custom_model_data": 196
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/direct"
+            "model": "hub:signs/legacy/lore/direct"
         },
         {
             "predicate": {
                 "custom_model_data": 197
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/guy1"
+            "model": "hub:signs/legacy/lore/guy1"
         },
         {
             "predicate": {
                 "custom_model_data": 198
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/guy2"
+            "model": "hub:signs/legacy/lore/guy2"
         },
         {
             "predicate": {
                 "custom_model_data": 199
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/guy3"
+            "model": "hub:signs/legacy/lore/guy3"
         },
         {
             "predicate": {
                 "custom_model_data": 200
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/port1"
+            "model": "hub:signs/legacy/lore/port1"
         },
         {
             "predicate": {
                 "custom_model_data": 201
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/port2"
+            "model": "hub:signs/legacy/lore/port2"
         },
         {
             "predicate": {
                 "custom_model_data": 202
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/port3"
+            "model": "hub:signs/legacy/lore/port3"
         },
         {
             "predicate": {
                 "custom_model_data": 203
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/text1"
+            "model": "hub:signs/legacy/lore/text1"
         },
         {
             "predicate": {
@@ -1238,7 +1238,7 @@
             "predicate": {
                 "custom_model_data": 205
             },
-            "model": "custom/decoration/hub/signs/legacy/lore/text3"
+            "model": "hub:signs/legacy/lore/text3"
         },
         {
             "predicate": {
@@ -1256,19 +1256,19 @@
             "predicate": {
                 "custom_model_data": 208
             },
-            "model": "custom/decoration/hub/signs/showcase/sun1"
+            "model": "hub:signs/showcase/sun1"
         },
         {
             "predicate": {
                 "custom_model_data": 209
             },
-            "model": "custom/decoration/hub/signs/showcase/sun2"
+            "model": "hub:signs/showcase/sun2"
         },
         {
             "predicate": {
                 "custom_model_data": 210
             },
-            "model": "custom/decoration/hub/signs/showcase/sun3"
+            "model": "hub:signs/showcase/sun3"
         },
         {
             "predicate": {
@@ -1454,7 +1454,7 @@
             "predicate": {
                 "custom_model_data": 241
             },
-            "model": "custom/decoration/hub/signs/gameplex"
+            "model": "hub:signs/gameplex"
         },
         {
             "predicate": {
@@ -1550,7 +1550,7 @@
             "predicate": {
                 "custom_model_data": 258
             },
-            "model": "custom/decoration/hub/signs/legacy/projectors/okee"
+            "model": "hub:signs/legacy/projectors/okee"
         },
         {
             "predicate": {
