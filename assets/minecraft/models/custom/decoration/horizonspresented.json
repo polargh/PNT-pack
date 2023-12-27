@@ -1,0 +1,2092 @@
+{
+	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"voxels_palette": "epcot/hpresented"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 1.3115, 14.6885, 7.6066 ],
+			"to": [ 1.573795, 15.99998, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 1.5738, 15.2131, 7.6066 ],
+			"to": [ 2.360685, 15.47539, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 1.5738, 15.7377, 7.6066 ],
+			"to": [ 2.09839, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 2.0984, 15.4754, 7.6066 ],
+			"to": [ 2.360695, 15.73769, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 2.623, 14.6885, 7.6066 ],
+			"to": [ 2.885295, 15.99998, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 2.8852, 15.2131, 7.6066 ],
+			"to": [ 3.147495, 15.47539, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 2.8852, 15.7377, 7.6066 ],
+			"to": [ 3.40979, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 3.1475, 14.6885, 7.6066 ],
+			"to": [ 3.409795, 15.21309, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 3.1475, 15.4754, 7.6066 ],
+			"to": [ 3.409795, 15.73769, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 3.6721, 14.6885, 7.6066 ],
+			"to": [ 4.72128, 14.95079, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 3.6721, 14.9508, 7.6066 ],
+			"to": [ 3.934395, 15.99998, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 3.9344, 7.8689, 7.6066 ],
+			"to": [ 4.196694, 10.49185, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 3.9344, 15.2131, 7.6066 ],
+			"to": [ 4.721285, 15.47539, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 3.9344, 15.7377, 7.6066 ],
+			"to": [ 4.721285, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.1967, 7.3443, 7.6066 ],
+			"to": [ 4.458995, 7.86889, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 4.1967, 7.8689, 7.6066 ],
+			"to": [ 12.06555, 10.49185, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.1967, 10.4918, 7.6066 ],
+			"to": [ 4.458995, 11.01639, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.459, 6.8197, 7.6066 ],
+			"to": [ 4.721295, 7.34429, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 4.459, 7.3443, 7.6066 ],
+			"to": [ 11.80326, 7.86889, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.459, 7.8689, 7.8689 ],
+			"to": [ 5.770475, 8.655785, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.459, 8.6557, 7.8689 ],
+			"to": [ 4.721295, 8.917994, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 4.459, 10.4918, 7.6066 ],
+			"to": [ 11.80326, 11.01639, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.459, 11.0164, 7.6066 ],
+			"to": [ 4.721295, 11.54099, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.7213, 6.5574, 7.6066 ],
+			"to": [ 4.983594, 6.819695, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 4.7213, 6.8197, 7.6066 ],
+			"to": [ 11.54097, 7.34429, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.7213, 7.3443, 7.8689 ],
+			"to": [ 5.77048, 7.86889, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.7213, 9.7049, 7.8689 ],
+			"to": [ 6.29507, 9.967195, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.7213, 9.967199, 7.8689 ],
+			"to": [ 6.032774, 10.49179, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 4.7213, 11.0164, 7.6066 ],
+			"to": [ 11.54097, 11.54099, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.7213, 11.541, 7.6066 ],
+			"to": [ 4.983594, 11.80329, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 6.2951, 7.6066 ],
+			"to": [ 5.245894, 6.557395, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 4.9836, 6.5574, 7.6066 ],
+			"to": [ 11.27868, 6.819695, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 6.8197, 7.8689 ],
+			"to": [ 11.01639, 7.081995, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 7.082, 7.8689 ],
+			"to": [ 6.03278, 7.344295, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 9.1803, 7.8689 ],
+			"to": [ 7.344254, 9.442595, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 9.442599, 7.8689 ],
+			"to": [ 6.55737, 9.704894, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 10.4918, 7.8689 ],
+			"to": [ 6.03278, 11.27868, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 4.9836, 11.541, 7.6066 ],
+			"to": [ 11.27868, 11.80329, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 11.8033, 7.6066 ],
+			"to": [ 5.245894, 12.06559, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 14.6885, 7.6066 ],
+			"to": [ 6.03278, 14.95079, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 15.2131, 7.6066 ],
+			"to": [ 6.03278, 15.47539, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 4.9836, 15.4754, 7.6066 ],
+			"to": [ 5.245894, 15.99999, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.2459, 6.0328, 7.6066 ],
+			"to": [ 5.508194, 6.295094, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 5.2459, 6.2951, 7.6066 ],
+			"to": [ 11.01639, 6.557395, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.2459, 6.5574, 7.8689 ],
+			"to": [ 11.01639, 6.819695, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.2459, 8.6557, 7.8689 ],
+			"to": [ 6.557374, 9.18029, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.2459, 11.2787, 7.8689 ],
+			"to": [ 7.34426, 11.54099, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 5.2459, 11.8033, 7.6066 ],
+			"to": [ 11.01639, 12.06559, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.2459, 12.0656, 7.6066 ],
+			"to": [ 5.508194, 12.32789, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.2459, 15.7377, 7.6066 ],
+			"to": [ 6.032784, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.5082, 5.7705, 7.6066 ],
+			"to": [ 5.770494, 6.032794, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 5.5082, 6.0328, 7.6066 ],
+			"to": [ 10.7541, 6.295094, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.5082, 6.2951, 7.8689 ],
+			"to": [ 10.7541, 6.557395, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.5082, 11.541, 7.8689 ],
+			"to": [ 11.0164, 11.80329, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.5082, 11.8033, 7.8689 ],
+			"to": [ 10.49181, 12.06559, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 5.5082, 12.0656, 7.6066 ],
+			"to": [ 10.7541, 12.32789, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.5082, 12.3279, 7.6066 ],
+			"to": [ 5.770494, 12.59019, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.7705, 5.5082, 7.6066 ],
+			"to": [ 6.29509, 5.770494, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 5.7705, 5.7705, 7.6066 ],
+			"to": [ 10.49181, 6.032794, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.7705, 8.1311, 7.8689 ],
+			"to": [ 6.032794, 8.65569, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.7705, 12.0656, 7.8689 ],
+			"to": [ 7.606565, 12.32789, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 5.7705, 12.3279, 7.6066 ],
+			"to": [ 10.49181, 12.59019, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.7705, 12.5902, 7.6066 ],
+			"to": [ 6.29509, 12.85249, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 5.7705, 14.9508, 7.6066 ],
+			"to": [ 6.032794, 15.21309, 7.868895 ],
+			"faces": {
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.0328, 6.0328, 7.8689 ],
+			"to": [ 8.131161, 6.295094, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.0328, 8.3934, 7.8689 ],
+			"to": [ 6.295094, 8.655695, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.0328, 10.7541, 7.8689 ],
+			"to": [ 6.819685, 11.27869, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.2951, 5.2459, 7.6066 ],
+			"to": [ 6.81969, 5.508194, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 6.2951, 5.5082, 7.6066 ],
+			"to": [ 9.96723, 5.770494, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.2951, 7.3443, 7.8689 ],
+			"to": [ 6.81969, 8.131185, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.2951, 9.967199, 7.8689 ],
+			"to": [ 6.557395, 10.75408, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.2951, 12.3279, 7.8689 ],
+			"to": [ 7.606575, 12.59019, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 6.2951, 12.5902, 7.6066 ],
+			"to": [ 9.96723, 12.85249, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.2951, 12.8525, 7.6066 ],
+			"to": [ 6.81969, 13.11479, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.2951, 14.6885, 7.6066 ],
+			"to": [ 7.344279, 14.95079, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.2951, 14.9508, 7.6066 ],
+			"to": [ 6.557395, 15.99998, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.5574, 8.1311, 7.8689 ],
+			"to": [ 7.344285, 8.393394, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.5574, 8.918, 7.8689 ],
+			"to": [ 7.081989, 9.180295, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.5574, 15.2131, 7.6066 ],
+			"to": [ 7.344285, 15.47539, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.5574, 15.7377, 7.6066 ],
+			"to": [ 7.344285, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.8197, 4.9836, 7.6066 ],
+			"to": [ 9.44265, 5.245894, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 6.8197, 5.2459, 7.6066 ],
+			"to": [ 9.44265, 5.508194, 7.868895 ],
+			"faces": {
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.8197, 5.7705, 7.8689 ],
+			"to": [ 7.86888, 6.032794, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.8197, 7.6066, 7.8689 ],
+			"to": [ 7.081995, 8.13119, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.8197, 8.3934, 7.8689 ],
+			"to": [ 7.34429, 8.655695, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.8197, 10.2295, 7.8689 ],
+			"to": [ 7.081995, 10.49179, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.8197, 12.5902, 7.8689 ],
+			"to": [ 7.86888, 12.85249, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFFFF",
+			"from": [ 6.8197, 12.8525, 7.6066 ],
+			"to": [ 9.44265, 13.11479, 7.868895 ],
+			"faces": {
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 6.8197, 13.1148, 7.6066 ],
+			"to": [ 9.44265, 13.37709, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.082, 7.082, 7.8689 ],
+			"to": [ 8.65577, 7.344295, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.082, 9.7049, 7.8689 ],
+			"to": [ 7.60659, 9.967195, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.082, 10.4918, 7.8689 ],
+			"to": [ 7.344295, 11.01639, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.3443, 7.3443, 7.8689 ],
+			"to": [ 8.39348, 7.606595, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.3443, 9.967199, 7.8689 ],
+			"to": [ 7.606595, 10.22949, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.3443, 10.7541, 7.8689 ],
+			"to": [ 7.606595, 11.27869, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.6066, 7.6066, 7.8689 ],
+			"to": [ 8.13119, 8.65578, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.6066, 10.2295, 7.8689 ],
+			"to": [ 7.868895, 10.49179, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.6066, 11.2787, 7.8689 ],
+			"to": [ 9.18037, 11.54099, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.6066, 14.6885, 7.6066 ],
+			"to": [ 7.868895, 15.99998, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.8689, 8.6557, 7.8689 ],
+			"to": [ 8.131195, 9.18029, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.8689, 9.442599, 7.8689 ],
+			"to": [ 8.131195, 9.96719, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.8689, 10.4918, 7.8689 ],
+			"to": [ 8.655785, 11.27868, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 7.8689, 15.2131, 7.6066 ],
+			"to": [ 8.131195, 15.99998, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.1311, 8.918, 7.8689 ],
+			"to": [ 8.393394, 9.442591, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.1311, 9.7049, 7.8689 ],
+			"to": [ 8.393394, 10.49179, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.1311, 12.0656, 7.8689 ],
+			"to": [ 10.22946, 12.32789, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.1311, 14.6885, 7.6066 ],
+			"to": [ 8.65569, 15.21309, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.3934, 5.5082, 7.8689 ],
+			"to": [ 9.44258, 5.770494, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.3934, 9.1803, 7.8689 ],
+			"to": [ 8.655695, 9.442595, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.3934, 9.967199, 7.8689 ],
+			"to": [ 8.655695, 10.49179, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.3934, 15.2131, 7.6066 ],
+			"to": [ 8.655695, 15.99998, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.6557, 5.7705, 7.8689 ],
+			"to": [ 9.967175, 6.29509, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.6557, 7.6066, 7.8689 ],
+			"to": [ 9.967175, 7.868895, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.6557, 7.8689, 7.8689 ],
+			"to": [ 9.18029, 8.131195, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.6557, 8.1311, 7.8689 ],
+			"to": [ 8.917994, 8.917985, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.6557, 9.442599, 7.8689 ],
+			"to": [ 8.917994, 9.704894, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.6557, 10.7541, 7.8689 ],
+			"to": [ 8.917994, 11.27869, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.6557, 12.3279, 7.8689 ],
+			"to": [ 9.442585, 12.59019, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.918, 7.3443, 7.8689 ],
+			"to": [ 9.704885, 7.606595, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.918, 8.6557, 7.8689 ],
+			"to": [ 9.180295, 9.18029, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 8.918, 15.7377, 7.6066 ],
+			"to": [ 9.704885, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.1803, 8.918, 7.8689 ],
+			"to": [ 11.27866, 9.180295, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.1803, 9.1803, 7.8689 ],
+			"to": [ 11.01637, 9.442595, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.1803, 9.7049, 7.8689 ],
+			"to": [ 11.80325, 9.967195, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.1803, 10.4918, 7.8689 ],
+			"to": [ 9.442595, 11.01639, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.1803, 14.6885, 7.6066 ],
+			"to": [ 9.442595, 15.73768, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.442599, 5.2459, 7.6066 ],
+			"to": [ 9.96719, 5.508194, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.442599, 7.8689, 7.8689 ],
+			"to": [ 9.96719, 8.655785, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.442599, 9.967199, 7.8689 ],
+			"to": [ 11.80326, 10.22949, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.442599, 10.7541, 7.8689 ],
+			"to": [ 9.704894, 11.27869, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.442599, 12.8525, 7.6066 ],
+			"to": [ 9.96719, 13.11479, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.7049, 10.2295, 7.8689 ],
+			"to": [ 11.80326, 10.49179, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.7049, 10.4918, 7.8689 ],
+			"to": [ 11.54097, 10.75409, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.7049, 11.2787, 7.8689 ],
+			"to": [ 11.27867, 11.54099, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 5.5082, 7.6066 ],
+			"to": [ 10.49179, 5.770494, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 6.0328, 7.8689 ],
+			"to": [ 10.49179, 6.295094, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 7.082, 7.8689 ],
+			"to": [ 11.27868, 7.344295, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 9.442599, 7.8689 ],
+			"to": [ 11.01638, 9.704894, 8.131195 ],
+			"faces": {
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 10.7541, 7.8689 ],
+			"to": [ 11.54097, 11.01639, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 11.0164, 7.8689 ],
+			"to": [ 11.27868, 11.27869, 8.131195 ],
+			"faces": {
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 12.5902, 7.6066 ],
+			"to": [ 10.49179, 12.85249, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 14.6885, 7.6066 ],
+			"to": [ 10.75408, 14.95079, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 9.967199, 14.9508, 7.6066 ],
+			"to": [ 10.22949, 15.99998, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.2295, 7.3443, 7.8689 ],
+			"to": [ 11.27868, 7.606595, 8.131195 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.2295, 8.6557, 7.8689 ],
+			"to": [ 11.27868, 8.917994, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.2295, 15.2131, 7.6066 ],
+			"to": [ 10.75409, 15.47539, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.2295, 15.7377, 7.6066 ],
+			"to": [ 10.75409, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.4918, 5.7705, 7.6066 ],
+			"to": [ 10.75409, 6.032794, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.4918, 7.6066, 7.8689 ],
+			"to": [ 11.27868, 8.65578, 8.131195 ],
+			"faces": {
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.4918, 12.3279, 7.6066 ],
+			"to": [ 10.75409, 12.59019, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.7541, 6.0328, 7.6066 ],
+			"to": [ 11.01639, 6.295094, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 10.7541, 12.0656, 7.6066 ],
+			"to": [ 11.01639, 12.32789, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.0164, 6.2951, 7.6066 ],
+			"to": [ 11.27869, 6.557395, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.0164, 11.8033, 7.6066 ],
+			"to": [ 11.27869, 12.06559, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.0164, 14.6885, 7.6066 ],
+			"to": [ 12.06558, 14.95079, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.0164, 14.9508, 7.6066 ],
+			"to": [ 11.27869, 15.99998, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.2787, 6.5574, 7.6066 ],
+			"to": [ 11.54099, 6.819695, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.2787, 7.8689, 7.8689 ],
+			"to": [ 11.54099, 8.655785, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.2787, 11.541, 7.6066 ],
+			"to": [ 11.54099, 11.80329, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.2787, 15.7377, 7.6066 ],
+			"to": [ 12.06559, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.541, 6.8197, 7.6066 ],
+			"to": [ 11.80329, 7.34429, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.541, 9.442599, 7.8689 ],
+			"to": [ 11.80329, 9.704894, 8.131195 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.541, 11.0164, 7.6066 ],
+			"to": [ 11.80329, 11.54099, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.8033, 7.3443, 7.6066 ],
+			"to": [ 12.06559, 7.86889, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 11.8033, 10.4918, 7.6066 ],
+			"to": [ 12.06559, 11.01639, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 12.0656, 7.8689, 7.6066 ],
+			"to": [ 12.32789, 10.49185, 8.13119 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 12.0656, 14.9508, 7.6066 ],
+			"to": [ 12.32789, 15.73769, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 12.8525, 14.6885, 7.6066 ],
+			"to": [ 13.63939, 14.95079, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 12.8525, 14.9508, 7.6066 ],
+			"to": [ 13.11479, 15.99998, 7.868895 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 13.1148, 15.2131, 7.6066 ],
+			"to": [ 13.63939, 15.47539, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 13.1148, 15.7377, 7.6066 ],
+			"to": [ 13.63939, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 13.6393, 14.9508, 7.6066 ],
+			"to": [ 13.90159, 15.21309, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 13.6393, 15.4754, 7.6066 ],
+			"to": [ 13.90159, 15.73769, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 14.1639, 15.4754, 7.6066 ],
+			"to": [ 14.42619, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 14.4262, 14.6885, 7.6066 ],
+			"to": [ 14.68849, 15.47538, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		},
+		{
+			"__comment": "Voxels-0054DE",
+			"from": [ 14.6885, 15.4754, 7.6066 ],
+			"to": [ 14.95079, 15.99999, 7.868895 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation":  [ 0, 180, 0 ]
+		}
+	}
+}
