@@ -3,5 +3,5 @@
 	"parent": "poster_base",
 	"textures": {
 		"4": "poster_3"
-	},
+	}
 }
