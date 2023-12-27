@@ -824,19 +824,19 @@
             "predicate": {
                 "custom_model_data": 137
             },
-            "model": "pnt:rnrc/rnrc_lc_1"
+            "model": "rnrc:legacy_1"
         },
 		{
             "predicate": {
                 "custom_model_data": 138
             },
-            "model": "pnt:rnrc/rnrc_lc_2"
+            "model": "rnrc:legacy_2"
         },
 		{
             "predicate": {
                 "custom_model_data": 139
             },
-            "model": "pnt:rnrc/rnrc_lc_3"
+            "model": "rnrc:legacy_3"
         }
     ]
 }

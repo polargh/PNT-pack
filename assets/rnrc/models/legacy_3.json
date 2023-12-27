@@ -1,6 +1,6 @@
 {
     "parent": "pnt:deco/poster_portrait",
     "textures": {
-        "image": "pnt:custom/rides/legacy/rnrc/rnrc_lc_3"
+        "image": "rnrc:custom/legacy_3"
     }
 }

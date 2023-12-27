@@ -1,6 +1,6 @@
 {
     "parent": "pnt:deco/poster_landscape",
     "textures": {
-        "image": "pnt:custom/rides/legacy/rnrc/rnrc_lc_2"
+        "image": "rnrc:custom/legacy_2"
     }
 }

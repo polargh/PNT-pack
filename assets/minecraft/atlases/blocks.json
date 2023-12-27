@@ -6,6 +6,16 @@
             "prefix": "custom/"
         },
         {
+            "type": "directory",
+            "source": "ride",
+            "prefix": "ride/"
+        },
+        {
+            "type": "directory",
+            "source": "deco",
+            "prefix": "deco/"
+        },
+        {
             "type": "single",
             "resource": "entity/lead_knot"
         },
