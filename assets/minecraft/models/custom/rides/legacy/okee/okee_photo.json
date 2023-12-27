@@ -1,7 +1,1 @@
-{
-    "parent": "custom/decoration/hub/signs/showcase/showcase_1",
-    "textures": {
-        "0": "pnt:custom/rides/legacy/okee/photo",
-        "1": "pnt:none"
-    }
-}
+{"parent": "hub:signs/showcase/showcase_1", "textures": {"0": "pnt:custom/rides/legacy/okee/photo", "1": "pnt:none"}}
