@@ -819,6 +819,24 @@
                 "custom_model_data": 136
             },
             "model": "custom/rides/legacy/okee/okee_hula"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "pnt:rnrc/rnrc_lc_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 138
+            },
+            "model": "pnt:rnrc/rnrc_lc_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 139
+            },
+            "model": "pnt:rnrc/rnrc_lc_3"
         }
     ]
 }
