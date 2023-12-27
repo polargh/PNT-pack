@@ -122,7 +122,7 @@
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "custom/rides/epcot/horizons/horizonsvehicle"
+            "model": "epcot:horizons/horizonsvehicle"
         },
         {
             "predicate": {

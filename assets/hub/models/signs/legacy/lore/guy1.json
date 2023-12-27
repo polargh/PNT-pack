@@ -1,9 +1,1 @@
-{
-	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/decoration/hub/signs/showcase/display_1",
-	"textures": {
-		"1": "pnt:custom/signs/hub/legacy/lore/guy1",
-		"0": "pnt:custom/signs/hub/legacy/lore/text5",
-		"2": "block/white_concrete"
-	}
-}
+{"credit": "Made with Blockbench and by TheTojoz", "parent": "hub:signs/showcase/display_1", "textures": {"1": "pnt:custom/signs/hub/legacy/lore/guy1", "0": "pnt:custom/signs/hub/legacy/lore/text5", "2": "block/white_concrete"}}
