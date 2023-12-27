@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "epcot/cmwest"
+		"voxels_palette": "item/pnt/deco/cmwest"
 	},
 	"elements": [ 	 
 		{
