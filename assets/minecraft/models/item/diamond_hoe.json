@@ -1749,6 +1749,12 @@
                 "custom_model_data": 291
             },
             "model": "rnrc:posters/poster_21"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 292
+            },
+            "model": "rnrc:krnr_sign"
         }
     ]
 }
