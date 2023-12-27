@@ -1508,13 +1508,13 @@
             "predicate": {
                 "custom_model_data": 250
             },
-            "model": "custom/decoration/epcotlogo"
+            "model": "custom/decoration/epcot/epcotlogo"
         },
 		 {
             "predicate": {
                 "custom_model_data": 251
             },
-            "model": "custom/decoration/fwtrash"
+            "model": "custom/decoration/epcot/fwtrash"
         },
         {
             "predicate": {
@@ -1526,7 +1526,7 @@
 			"predicate": {
                 "custom_model_data": 254
             },
-            "model": "custom/decoration/goofyabouthealth"
+            "model": "custom/decoration/epcot/goofyabouthealth"
         },
 		{
 			"predicate": {
@@ -1551,6 +1551,78 @@
                 "custom_model_data": 258
             },
             "model": "custom/decoration/hub/signs/legacy/projectors/okee"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 259
+            },
+            "model": "custom/decoration/epcot/cmeastsign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 260
+            },
+            "model": "custom/decoration/epcot/cmwestsign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 261
+            },
+            "model": "custom/decoration/epcot/gesign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 262
+            },
+            "model": "custom/decoration/epcot/horizonsign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 263
+            },
+            "model": "custom/decoration/epcot/jiisign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 264
+            },
+            "model": "custom/decoration/epcot/landsign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 265
+            },
+            "model": "custom/decoration/epcot/motionsign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 266
+            },
+            "model": "custom/decoration/epcot/seassign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 267
+            },
+            "model": "custom/decoration/epcot/ssesign"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 268
+            },
+            "model": "custom/decoration/epcot/uoesign1"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 269
+            },
+            "model": "custom/decoration/epcot/uoesign2"
+        },
+	{
+            "predicate": {
+                "custom_model_data": 270
+            },
+            "model": "custom/decoration/epcot/utcsign"
         }
     ]
 }
