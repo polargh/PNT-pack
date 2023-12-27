@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "pnt:custom/rides/lights_skytower",
-		"particle": "pnt:custom/rides/lights_skytower"
+		"0": "hub:custom/lights_skytower",
+		"particle": "hub:custom/lights_skytower"
 	},
 	"elements": [
 		{

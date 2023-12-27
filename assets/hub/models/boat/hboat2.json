@@ -13,7 +13,7 @@
 		"8": "block/spruce_trapdoor",
 		"9": "block/iron_bars",
 		"10": "block/cyan_wool",
-		"11": "pnt:custom/rides/hboat_light"
+		"11": "hub:custom/hboat_light"
 	},
 	"elements": [
 		{

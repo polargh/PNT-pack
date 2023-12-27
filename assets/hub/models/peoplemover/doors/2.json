@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "pnt:custom/rides/main_concrete",
+		"1": "hub:custom/main_concrete",
 		"3": "block/gray_wool",
-		"4": "pnt:custom/rides/edge"
+		"4": "hub:custom/edge"
 	},
 	"elements": [
 		{
