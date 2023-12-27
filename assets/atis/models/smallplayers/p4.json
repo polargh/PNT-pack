@@ -1,7 +1,1 @@
-{
-	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/rides/legacy/atis/smallplayers/p1",
-	"textures": {
-		"0": "pnt:custom/skins/player_yogs"
-	}
-}
+{"credit": "Made with Blockbench and by TheTojoz", "parent": "custom/rides/legacy/atis/smallplayers/p1", "textures": {"0": "pnt:custom/skins/player_yogs"}}
