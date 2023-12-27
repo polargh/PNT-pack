@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/decoration/hub/signs/directory/pntdirect_spawn",
+	"parent": "hub:signs/directory/pntdirect_spawn",
 	"textures": {
 		"0": "pnt:custom/signs/hub/directory/pntdirect_bridgesfront",
 		"1": "block/anvil",

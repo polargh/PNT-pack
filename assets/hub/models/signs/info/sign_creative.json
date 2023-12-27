@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/decoration/hub/signs/info/sign_cosm",
+	"parent": "hub:signs/info/sign_cosm",
 	"textures": {
 		"0": "pnt:custom/signs/hub/info/sign_creative"
 	}
