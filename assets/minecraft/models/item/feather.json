@@ -128,79 +128,79 @@
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "custom/rides/legacy/atis/atis"
+            "model": "atis:atis"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "custom/rides/legacy/atis/atis_door"
+            "model": "atis:atis_door"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "custom/rides/legacy/atis/queue/queue_snowflake1"
+            "model": "atis:queue/queue_snowflake1"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "custom/rides/legacy/atis/queue/queue_snowflake2"
+            "model": "atis:queue/queue_snowflake2"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "custom/rides/legacy/atis/queue/queue_snowflake3"
+            "model": "atis:queue/queue_snowflake3"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "custom/rides/legacy/atis/queue/queue_snowflake4"
+            "model": "atis:queue/queue_snowflake4"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "custom/rides/legacy/atis/microscope"
+            "model": "atis:microscope"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "custom/rides/legacy/atis/atissmall"
+            "model": "atis:atissmall"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "custom/rides/legacy/atis/microscope1"
+            "model": "atis:microscope1"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "custom/rides/legacy/atis/microscope2"
+            "model": "atis:microscope2"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "custom/rides/legacy/atis/microscope3"
+            "model": "atis:microscope3"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "custom/rides/legacy/atis/microscope4"
+            "model": "atis:microscope4"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "custom/rides/legacy/atis/microscope5"
+            "model": "atis:microscope5"
         },
         {
             "predicate": {
@@ -230,7 +230,7 @@
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "custom/rides/legacy/atis/h2o_ring"
+            "model": "atis:h2o_ring"
         },
         {
             "predicate": {
@@ -248,103 +248,103 @@
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop0"
+            "model": "atis:queue/atisdisplayprop0"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop1"
+            "model": "atis:queue/atisdisplayprop1"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop2"
+            "model": "atis:queue/atisdisplayprop2"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop3"
+            "model": "atis:queue/atisdisplayprop3"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop4"
+            "model": "atis:queue/atisdisplayprop4"
         },
         {
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop5"
+            "model": "atis:queue/atisdisplayprop5"
         },
         {
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop6"
+            "model": "atis:queue/atisdisplayprop6"
         },
         {
             "predicate": {
                 "custom_model_data": 48
             },
-            "model": "custom/rides/legacy/atis/queue/atisdisplayprop7"
+            "model": "atis:queue/atisdisplayprop7"
         },
         {
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "custom/rides/legacy/atis/microscopelight"
+            "model": "atis:microscopelight"
         },
         {
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "custom/rides/legacy/atis/microscopelight2"
+            "model": "atis:microscopelight2"
         },
         {
             "predicate": {
                 "custom_model_data": 51
             },
-            "model": "custom/rides/legacy/atis/snowflake"
+            "model": "atis:snowflake"
         },
         {
             "predicate": {
                 "custom_model_data": 52
             },
-            "model": "custom/rides/legacy/atis/eye"
+            "model": "atis:eye"
         },
         {
             "predicate": {
                 "custom_model_data": 53
             },
-            "model": "custom/rides/legacy/atis/zip1"
+            "model": "atis:zip1"
         },
         {
             "predicate": {
                 "custom_model_data": 54
             },
-            "model": "custom/rides/legacy/atis/zip2"
+            "model": "atis:zip2"
         },
         {
             "predicate": {
                 "custom_model_data": 55
             },
-            "model": "custom/rides/legacy/atis/zip3"
+            "model": "atis:zip3"
         },
         {
             "predicate": {
                 "custom_model_data": 56
             },
-            "model": "custom/rides/legacy/atis/zip4"
+            "model": "atis:zip4"
         },
         {
             "predicate": {
                 "custom_model_data": 57
             },
-            "model": "custom/rides/legacy/atis/nucleus"
+            "model": "atis:nucleus"
         },
         {
             "predicate": {
