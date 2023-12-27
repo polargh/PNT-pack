@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "pnt:custom/signs/hub/sign_skytower",
+		"0": "hub:custom/sign_skytower",
 		"1": "block/calcite"
 	},
 	"elements": [

@@ -3,10 +3,10 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "pnt:custom/brand/white",
-		"1": "pnt:custom/rides/main_concrete",
-		"2": "pnt:custom/rides/dark_concrete",
+		"1": "hub:custom/main_concrete",
+		"2": "hub:custom/dark_concrete",
 		"3": "block/gray_wool",
-		"4": "pnt:custom/rides/edge"
+		"4": "hub:custom/edge"
 	},
 	"elements": [
 		{

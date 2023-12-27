@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "pnt:custom/signs/hub/dock_pix",
+		"0": "hub:custom/dock_pix",
 		"1": "block/anvil"
 	},
 	"elements": [
