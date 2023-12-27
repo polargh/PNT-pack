@@ -1,1 +1,1 @@
-{"credit": "Made with Blockbench and by TheTojoz", "parent": "hub:signs/directory/pntdirect_spawn", "textures": {"0": "pnt:custom/signs/hub/directory/pntdirect_creative", "1": "block/anvil", "3": "pnt:custom/brand/white"}}
+{"credit": "Made with Blockbench and by TheTojoz", "parent": "hub:signs/directory/pntdirect_spawn", "textures": {"0": "hub:custom/directory/pntdirect_creative", "1": "block/anvil", "3": "pnt:custom/brand/white"}}
