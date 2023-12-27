@@ -1564,65 +1564,197 @@
             },
             "model": "epcot:deco/cmwestsign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 261
             },
             "model": "epcot:deco/gesign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 262
             },
             "model": "epcot:deco/horizonsign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 263
             },
             "model": "epcot:deco/jiisign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 264
             },
             "model": "epcot:deco/landsign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 265
             },
             "model": "epcot:deco/motionsign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 266
             },
             "model": "epcot:deco/seassign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 267
             },
             "model": "epcot:deco/ssesign"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 268
             },
             "model": "epcot:deco/uoesign1"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 269
             },
             "model": "epcot:deco/uoesign2"
         },
-	{
+		{
             "predicate": {
                 "custom_model_data": 270
             },
             "model": "epcot:deco/utcsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 271
+            },
+            "model": "rnrc:posters/poster_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 272
+            },
+            "model": "rnrc:posters/poster_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 273
+            },
+            "model": "rnrc:posters/poster_3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 274
+            },
+            "model": "rnrc:posters/poster_4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 275
+            },
+            "model": "rnrc:posters/poster_5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 276
+            },
+            "model": "rnrc:posters/poster_6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 277
+            },
+            "model": "rnrc:posters/poster_7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 278
+            },
+            "model": "rnrc:posters/poster_8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 279
+            },
+            "model": "rnrc:posters/poster_9"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 280
+            },
+            "model": "rnrc:posters/poster_10"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 281
+            },
+            "model": "rnrc:posters/poster_11"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 282
+            },
+            "model": "rnrc:posters/poster_12"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 283
+            },
+            "model": "rnrc:posters/poster_13"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 284
+            },
+            "model": "rnrc:posters/poster_14"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 285
+            },
+            "model": "rnrc:posters/poster_15"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 286
+            },
+            "model": "rnrc:posters/poster_16"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 287
+            },
+            "model": "rnrc:posters/poster_17"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 288
+            },
+            "model": "rnrc:posters/poster_18"
+        }
+		{
+            "predicate": {
+                "custom_model_data": 289
+            },
+            "model": "rnrc:posters/poster_19"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 290
+            },
+            "model": "rnrc:posters/poster_20"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 291
+            },
+            "model": "rnrc:posters/poster_21"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 292
+            },
+            "model": "rnrc:krnr_sign"
         }
     ]
 }
