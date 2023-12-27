@@ -1,7 +1,7 @@
 {
 	"credit": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "item/pnt/deco/epcot"
+		"voxels_palette": "pnt:textures/custom/deco/epcot"
 	},
 	"elements": [
 		{
