@@ -1382,7 +1382,7 @@
             "predicate": {
                 "custom_model_data": 229
             },
-            "model": "custom/rides/legacy/americasings/americasingspreview"
+            "model": "americasings:americasingspreview"
         },
         {
             "predicate": {
