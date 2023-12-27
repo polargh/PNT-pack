@@ -1,8 +1,1 @@
-{
-	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "epcot:horizons/futureport/mesa",
-	"ambientocclusion": false,
-	"textures": {
-		"0": "pnt:custom/rides/epcot/horizons/mesa2"
-	}
-}
+{"credit": "Made with Blockbench and by TheTojoz", "parent": "epcot:horizons/futureport/mesa", "ambientocclusion": false, "textures": {"0": "epcot:ride/horizons/mesa2"}}
