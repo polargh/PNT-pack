@@ -8,685 +8,685 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/gear/hats/aviators"
+            "model": "cosmetic:hats/aviators"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/gear/hats/bender"
+            "model": "cosmetic:hats/bender"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/gear/hats/bobross"
+            "model": "cosmetic:hats/bobross"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/gear/hats/bowler"
+            "model": "cosmetic:hats/bowler"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/gear/hats/captainhat"
+            "model": "cosmetic:hats/captainhat"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/gear/hats/chefhat"
+            "model": "cosmetic:hats/chefhat"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/gear/hats/conehat"
+            "model": "cosmetic:hats/conehat"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/gear/hats/davyjones"
+            "model": "cosmetic:hats/davyjones"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "custom/gear/hats/divehelmet"
+            "model": "cosmetic:hats/divehelmet"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/gear/hats/donaldcap"
+            "model": "cosmetic:hats/donaldcap"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "custom/gear/hats/drfhat"
+            "model": "cosmetic:hats/drfhat"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "custom/gear/hats/goofycap"
+            "model": "cosmetic:hats/goofycap"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "custom/gear/hats/hunny"
+            "model": "cosmetic:hats/hunny"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "custom/gear/hats/incredimask"
+            "model": "cosmetic:hats/incredimask"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "custom/gear/hats/jacksparrow"
+            "model": "cosmetic:hats/jacksparrow"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "custom/gear/hats/jafar"
+            "model": "cosmetic:hats/jafar"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "custom/gear/hats/luigihat"
+            "model": "cosmetic:hats/luigihat"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "custom/gear/hats/mannycap"
+            "model": "cosmetic:hats/mannycap"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "custom/gear/hats/matercap"
+            "model": "cosmetic:hats/matercap"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "custom/gear/hats/mistletoehat"
+            "model": "cosmetic:hats/mistletoehat"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "custom/gear/hats/oogiehat"
+            "model": "cosmetic:hats/oogiehat"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "custom/gear/hats/patriotic"
+            "model": "cosmetic:hats/patriotic"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "custom/gear/hats/perrycap"
+            "model": "cosmetic:hats/perrycap"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "custom/gear/hats/plutocap"
+            "model": "cosmetic:hats/plutocap"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "custom/gear/hats/santahat"
+            "model": "cosmetic:hats/santahat"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "custom/gear/hats/snowmancap"
+            "model": "cosmetic:hats/snowmancap"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "custom/gear/hats/soldierhat"
+            "model": "cosmetic:hats/soldierhat"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "custom/gear/hats/tot"
+            "model": "cosmetic:hats/tot"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "custom/gear/hats/turkeyhat"
+            "model": "cosmetic:hats/turkeyhat"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "custom/gear/hats/witchhat"
+            "model": "cosmetic:hats/witchhat"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "custom/gear/hats/squid_hat"
+            "model": "cosmetic:hats/squid_hat"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "custom/gear/headbands/alienhb"
+            "model": "cosmetic:headbands/alienhb"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "custom/gear/headbands/arielhb"
+            "model": "cosmetic:headbands/arielhb"
         },
         {
             "predicate": {
                 "custom_model_data": 34
             },
-            "model": "custom/gear/headbands/bingbonghb"
+            "model": "cosmetic:headbands/bingbonghb"
         },
         {
             "predicate": {
                 "custom_model_data": 35
             },
-            "model": "custom/gear/headbands/bwminniehb"
+            "model": "cosmetic:headbands/bwminniehb"
         },
         {
             "predicate": {
                 "custom_model_data": 36
             },
-            "model": "custom/gear/headbands/candycornhb"
+            "model": "cosmetic:headbands/candycornhb"
         },
         {
             "predicate": {
                 "custom_model_data": 37
             },
-            "model": "custom/gear/headbands/caphb"
+            "model": "cosmetic:headbands/caphb"
         },
         {
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "custom/gear/headbands/chernabog"
+            "model": "cosmetic:headbands/chernabog"
         },
         {
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "custom/gear/headbands/classicminniehb"
+            "model": "cosmetic:headbands/classicminniehb"
         },
         {
             "predicate": {
                 "custom_model_data": 40
             },
-            "model": "custom/gear/headbands/devilhb"
+            "model": "cosmetic:headbands/devilhb"
         },
         {
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "custom/gear/headbands/dolehb"
+            "model": "cosmetic:headbands/dolehb"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "custom/gear/headbands/donaldbutthb"
+            "model": "cosmetic:headbands/donaldbutthb"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "custom/gear/headbands/donaldhb2"
+            "model": "cosmetic:headbands/donaldhb2"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "custom/gear/headbands/donuthb"
+            "model": "cosmetic:headbands/donuthb"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
-            "model": "custom/gear/headbands/dumbohb"
+            "model": "cosmetic:headbands/dumbohb"
         },
         {
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "custom/gear/headbands/gingerbreadhb"
+            "model": "cosmetic:headbands/gingerbreadhb"
         },
         {
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "custom/gear/headbands/millenialpinkhb"
+            "model": "cosmetic:headbands/millenialpinkhb"
         },
         {
             "predicate": {
                 "custom_model_data": 48
             },
-            "model": "custom/gear/headbands/ortensiahb"
+            "model": "cosmetic:headbands/ortensiahb"
         },
         {
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "custom/gear/headbands/ortensiahb1"
+            "model": "cosmetic:headbands/ortensiahb1"
         },
         {
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "custom/gear/headbands/oswaldhb"
+            "model": "cosmetic:headbands/oswaldhb"
         },
         {
             "predicate": {
                 "custom_model_data": 51
             },
-            "model": "custom/gear/headbands/pepperminthb"
+            "model": "cosmetic:headbands/pepperminthb"
         },
         {
             "predicate": {
                 "custom_model_data": 52
             },
-            "model": "custom/gear/headbands/tothb2"
+            "model": "cosmetic:headbands/tothb2"
         },
         {
             "predicate": {
                 "custom_model_data": 53
             },
-            "model": "custom/gear/hats/clown"
+            "model": "cosmetic:hats/clown"
         },
         {
             "predicate": {
                 "custom_model_data": 54
             },
-            "model": "custom/gear/hats/gmrcast"
+            "model": "cosmetic:hats/gmrcast"
         },
         {
             "predicate": {
                 "custom_model_data": 55
             },
-            "model": "custom/gear/hats/halloween"
+            "model": "cosmetic:hats/halloween"
         },
         {
             "predicate": {
                 "custom_model_data": 56
             },
-            "model": "custom/gear/hats/happymeal"
+            "model": "cosmetic:hats/happymeal"
         },
         {
             "predicate": {
                 "custom_model_data": 57
             },
-            "model": "custom/gear/hats/harryhat"
+            "model": "cosmetic:hats/harryhat"
         },
         {
             "predicate": {
                 "custom_model_data": 58
             },
-            "model": "custom/gear/hats/homer_head"
+            "model": "cosmetic:hats/homer_head"
         },
         {
             "predicate": {
                 "custom_model_data": 59
             },
-            "model": "custom/gear/hats/loki"
+            "model": "cosmetic:hats/loki"
         },
         {
             "predicate": {
                 "custom_model_data": 60
             },
-            "model": "custom/gear/hats/longhornhat"
+            "model": "cosmetic:hats/longhornhat"
         },
         {
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "custom/gear/hats/luxo"
+            "model": "cosmetic:hats/luxo"
         },
         {
             "predicate": {
                 "custom_model_data": 62
             },
-            "model": "custom/gear/hats/magicianhat"
+            "model": "cosmetic:hats/magicianhat"
         },
         {
             "predicate": {
                 "custom_model_data": 63
             },
-            "model": "custom/gear/hats/maleficent"
+            "model": "cosmetic:hats/maleficent"
         },
         {
             "predicate": {
                 "custom_model_data": 64
             },
-            "model": "custom/gear/headbands/patriotichb"
+            "model": "cosmetic:headbands/patriotichb"
         },
         {
             "predicate": {
                 "custom_model_data": 65
             },
-            "model": "custom/gear/hats/pilot"
+            "model": "cosmetic:hats/pilot"
         },
         {
             "predicate": {
                 "custom_model_data": 66
             },
-            "model": "custom/gear/hats/racoonhat"
+            "model": "cosmetic:hats/racoonhat"
         },
         {
             "predicate": {
                 "custom_model_data": 67
             },
-            "model": "custom/gear/hats/doryearhat"
+            "model": "cosmetic:hats/doryearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 68
             },
-            "model": "custom/gear/hats/sidbaby"
+            "model": "cosmetic:hats/sidbaby"
         },
         {
             "predicate": {
                 "custom_model_data": 69
             },
-            "model": "custom/gear/hats/angelmickeyearhat"
+            "model": "cosmetic:hats/angelmickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 70
             },
-            "model": "custom/gear/hats/baymaxearhat"
+            "model": "cosmetic:hats/baymaxearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 71
             },
-            "model": "custom/gear/hats/bellhopearhat"
+            "model": "cosmetic:hats/bellhopearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 72
             },
-            "model": "custom/gear/hats/bluemickeyearhat"
+            "model": "cosmetic:hats/bluemickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 73
             },
-            "model": "custom/gear/hats/buzzearhat"
+            "model": "cosmetic:hats/buzzearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 74
             },
-            "model": "custom/gear/hats/chipearhat"
+            "model": "cosmetic:hats/chipearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 75
             },
-            "model": "custom/gear/hats/daleearhat"
+            "model": "cosmetic:hats/daleearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 76
             },
-            "model": "custom/gear/hats/dolewhipearhat"
+            "model": "cosmetic:hats/dolewhipearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 77
             },
-            "model": "custom/gear/hats/eveearhat"
+            "model": "cosmetic:hats/eveearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 78
             },
-            "model": "custom/gear/hats/icecreamearhat"
+            "model": "cosmetic:hats/icecreamearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 79
             },
-            "model": "custom/gear/hats/jackskellingtonearhat"
+            "model": "cosmetic:hats/jackskellingtonearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 80
             },
-            "model": "custom/gear/hats/kermitearhat"
+            "model": "cosmetic:hats/kermitearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 81
             },
-            "model": "custom/gear/hats/limemickeyearhat"
+            "model": "cosmetic:hats/limemickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 82
             },
-            "model": "custom/gear/hats/mickeyfaceearhat"
+            "model": "cosmetic:hats/mickeyfaceearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 83
             },
-            "model": "custom/gear/hats/mickeymouseclubearhat"
+            "model": "cosmetic:hats/mickeymouseclubearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 84
             },
-            "model": "custom/gear/hats/pinkmickeyearhat"
+            "model": "cosmetic:hats/pinkmickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 85
             },
-            "model": "custom/gear/hats/poohearhat"
+            "model": "cosmetic:hats/poohearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 86
             },
-            "model": "custom/gear/hats/purplemickeyearhat"
+            "model": "cosmetic:hats/purplemickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 87
             },
-            "model": "custom/gear/hats/r2d2mickeyearhat"
+            "model": "cosmetic:hats/r2d2mickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 88
             },
-            "model": "custom/gear/hats/redmickeyearhat"
+            "model": "cosmetic:hats/redmickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 89
             },
-            "model": "custom/gear/hats/remyearhat"
+            "model": "cosmetic:hats/remyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 90
             },
-            "model": "custom/gear/hats/retroearhat"
+            "model": "cosmetic:hats/retroearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 91
             },
-            "model": "custom/gear/hats/steamboatwillieearhat"
+            "model": "cosmetic:hats/steamboatwillieearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 92
             },
-            "model": "custom/gear/hats/steamboatwilliefaceearhat"
+            "model": "cosmetic:hats/steamboatwilliefaceearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 93
             },
-            "model": "custom/gear/hats/stitchmickeyearhat"
+            "model": "cosmetic:hats/stitchmickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 94
             },
-            "model": "custom/gear/hats/tealmickeyearhat"
+            "model": "cosmetic:hats/tealmickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 95
             },
-            "model": "custom/gear/hats/yodaearhat"
+            "model": "cosmetic:hats/yodaearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 96
             },
-            "model": "custom/gear/hats/zombiemickeyearhat"
+            "model": "cosmetic:hats/zombiemickeyearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 97
             },
-            "model": "custom/gear/hats/spacemtn"
+            "model": "cosmetic:hats/spacemtn"
         },
         {
             "predicate": {
                 "custom_model_data": 98
             },
-            "model": "custom/gear/hats/spongetophat"
+            "model": "cosmetic:hats/spongetophat"
         },
         {
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "custom/gear/headbands/lightyearhb"
+            "model": "cosmetic:headbands/lightyearhb"
         },
         {
             "predicate": {
                 "custom_model_data": 100
             },
-            "model": "custom/gear/headbands/figmenthb"
+            "model": "cosmetic:headbands/figmenthb"
         },
         {
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "custom/gear/hats/oswaldfaceearhat"
+            "model": "cosmetic:hats/oswaldfaceearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "custom/gear/hats/pntcap"
+            "model": "cosmetic:hats/pntcap"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "custom/gear/hats/pntearhat"
+            "model": "cosmetic:hats/pntearhat"
         },
         {
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "custom/gear/headbands/pnthb"
+            "model": "cosmetic:headbands/pnthb"
         },
         {
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "custom/gear/headbands/dclhb"
+            "model": "cosmetic:headbands/dclhb"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "custom/gear/headbands/101dalmatiansheadband"
+            "model": "cosmetic:headbands/101dalmatiansheadband"
         },
         {
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "custom/gear/headbands/atisheadband"
+            "model": "cosmetic:headbands/atisheadband"
         },
         {
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "custom/gear/headbands/dclheadband2"
+            "model": "cosmetic:headbands/dclheadband2"
         },
         {
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "custom/gear/headbands/dfheadband"
+            "model": "cosmetic:headbands/dfheadband"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "custom/gear/headbands/mickeybarheadband"
+            "model": "cosmetic:headbands/mickeybarheadband"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "custom/gear/headbands/minniefaceheadband"
+            "model": "cosmetic:headbands/minniefaceheadband"
         },
         {
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "custom/gear/headbands/mmcpinkheadband"
+            "model": "cosmetic:headbands/mmcpinkheadband"
         },
         {
             "predicate": {
                 "custom_model_data": 113
             },
-            "model": "custom/gear/headbands/mtwheadband"
+            "model": "cosmetic:headbands/mtwheadband"
         },
         {
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "custom/gear/headbands/familybandhb"
+            "model": "cosmetic:headbands/familybandhb"
         }
     ]
 }

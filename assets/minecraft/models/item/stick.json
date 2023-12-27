@@ -8,205 +8,205 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/gear/handhelds/capshield"
+            "model": "cosmetic:handhelds/capshield"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/gear/handhelds/genielamp"
+            "model": "cosmetic:handhelds/genielamp"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/gear/handhelds/hook"
+            "model": "cosmetic:handhelds/hook"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/gear/handhelds/ironmanhand"
+            "model": "cosmetic:handhelds/ironmanhand"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/gear/handhelds/mjolnir"
+            "model": "cosmetic:handhelds/mjolnir"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/gear/handhelds/screamcanister"
+            "model": "cosmetic:handhelds/screamcanister"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/gear/handhelds/usflag"
+            "model": "cosmetic:handhelds/usflag"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/gear/handhelds/seasonal/eggone"
+            "model": "cosmetic:handhelds/seasonal/eggone"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "custom/gear/handhelds/seasonal/eggtwo"
+            "model": "cosmetic:handhelds/seasonal/eggtwo"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/gear/handhelds/seasonal/eggthree"
+            "model": "cosmetic:handhelds/seasonal/eggthree"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "custom/gear/handhelds/seasonal/eggfour"
+            "model": "cosmetic:handhelds/seasonal/eggfour"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "custom/gear/handhelds/seasonal/eggfive"
+            "model": "cosmetic:handhelds/seasonal/eggfive"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "custom/gear/handhelds/seasonal/eggsix"
+            "model": "cosmetic:handhelds/seasonal/eggsix"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "custom/gear/handhelds/seasonal/eggseven"
+            "model": "cosmetic:handhelds/seasonal/eggseven"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "custom/gear/handhelds/seasonal/eggeight"
+            "model": "cosmetic:handhelds/seasonal/eggeight"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "custom/gear/handhelds/seasonal/eggnine"
+            "model": "cosmetic:handhelds/seasonal/eggnine"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "custom/gear/handhelds/seasonal/eggten"
+            "model": "cosmetic:handhelds/seasonal/eggten"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "custom/gear/handhelds/seasonal/eggeleven"
+            "model": "cosmetic:handhelds/seasonal/eggeleven"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "custom/gear/handhelds/seasonal/eggtwelve"
+            "model": "cosmetic:handhelds/seasonal/eggtwelve"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "custom/gear/handhelds/seasonal/eggthirteen"
+            "model": "cosmetic:handhelds/seasonal/eggthirteen"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "custom/gear/handhelds/seasonal/eggfourteen"
+            "model": "cosmetic:handhelds/seasonal/eggfourteen"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "custom/gear/handhelds/seasonal/eggfifteen"
+            "model": "cosmetic:handhelds/seasonal/eggfifteen"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "custom/gear/handhelds/musketeersword"
+            "model": "cosmetic:handhelds/musketeersword"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "custom/gear/handhelds/panchitogun"
+            "model": "cosmetic:handhelds/panchitogun"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "custom/gear/handhelds/spatula"
+            "model": "cosmetic:handhelds/spatula"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "custom/gear/handhelds/pntgrandkey"
+            "model": "cosmetic:handhelds/pntgrandkey"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "custom/gear/handhelds/"
+            "model": "cosmetic:handhelds/"
         }
     ]
 }

@@ -8,314 +8,314 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/gear/backpacks/bobafettbackpack"
+            "model": "cosmetic:backpacks/bobafettbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/gear/backpacks/bopeepbackpack"
+            "model": "cosmetic:backpacks/bopeepbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/gear/backpacks/buzzbackpack"
+            "model": "cosmetic:backpacks/buzzbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/gear/backpacks/capbackpack"
+            "model": "cosmetic:backpacks/capbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/gear/backpacks/cauldronpack"
+            "model": "cosmetic:backpacks/cauldronpack"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/gear/backpacks/coffinbackpack"
+            "model": "cosmetic:backpacks/coffinbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/gear/backpacks/cptnmarvelbag"
+            "model": "cosmetic:backpacks/cptnmarvelbag"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/gear/backpacks/donaldpack"
+            "model": "cosmetic:backpacks/donaldpack"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "custom/gear/backpacks/ghostmickpack"
+            "model": "cosmetic:backpacks/ghostmickpack"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/gear/backpacks/goofybackpack"
+            "model": "cosmetic:backpacks/goofybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "custom/gear/backpacks/heimlichbackpack"
+            "model": "cosmetic:backpacks/heimlichbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "custom/gear/backpacks/kermitbackpack"
+            "model": "cosmetic:backpacks/kermitbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "custom/gear/backpacks/mickeybackpack"
+            "model": "cosmetic:backpacks/mickeybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "custom/gear/backpacks/mikebackpack"
+            "model": "cosmetic:backpacks/mikebackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "custom/gear/backpacks/minniebackpack"
+            "model": "cosmetic:backpacks/minniebackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "custom/gear/backpacks/oogiebackpack"
+            "model": "cosmetic:backpacks/oogiebackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "custom/gear/backpacks/pineapplebackpack"
+            "model": "cosmetic:backpacks/pineapplebackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "custom/gear/backpacks/plutobackpack"
+            "model": "cosmetic:backpacks/plutobackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "custom/gear/backpacks/polkaminniebackpack"
+            "model": "cosmetic:backpacks/polkaminniebackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "custom/gear/backpacks/poohbackpack"
+            "model": "cosmetic:backpacks/poohbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "custom/gear/backpacks/pumpkinpack"
+            "model": "cosmetic:backpacks/pumpkinpack"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "custom/gear/backpacks/r2d2backpack"
+            "model": "cosmetic:backpacks/r2d2backpack"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "custom/gear/backpacks/saildonaldbackpack"
+            "model": "cosmetic:backpacks/saildonaldbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "custom/gear/backpacks/santapack"
+            "model": "cosmetic:backpacks/santapack"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "custom/gear/backpacks/threemusketeersbackpack"
+            "model": "cosmetic:backpacks/threemusketeersbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "custom/gear/backpacks/snakebackpack"
+            "model": "cosmetic:backpacks/snakebackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "custom/gear/backpacks/spidermanpack"
+            "model": "cosmetic:backpacks/spidermanpack"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "custom/gear/backpacks/stitchbackpack"
+            "model": "cosmetic:backpacks/stitchbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "custom/gear/backpacks/sullybackpack"
+            "model": "cosmetic:backpacks/sullybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "custom/gear/backpacks/thorbackpack"
+            "model": "cosmetic:backpacks/thorbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "custom/gear/backpacks/woodybackpack"
+            "model": "cosmetic:backpacks/woodybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "custom/gear/backpacks/xmasbackpack"
+            "model": "cosmetic:backpacks/xmasbackpack"
         },
 
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "custom/gear/backpacks/americanflagbackpack"
+            "model": "cosmetic:backpacks/americanflagbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 34
             },
-            "model": "custom/gear/backpacks/beachesbackpack"
+            "model": "cosmetic:backpacks/beachesbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 35
             },
-            "model": "custom/gear/backpacks/brerrabbitbackpack"
+            "model": "cosmetic:backpacks/brerrabbitbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 36
             },
-            "model": "custom/gear/backpacks/daisybackpack"
+            "model": "cosmetic:backpacks/daisybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 37
             },
-            "model": "custom/gear/backpacks/deadpoolbackpack"
+            "model": "cosmetic:backpacks/deadpoolbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "custom/gear/backpacks/duffybackpack"
+            "model": "cosmetic:backpacks/duffybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "custom/gear/backpacks/easterbunnybackpack"
+            "model": "cosmetic:backpacks/easterbunnybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 40
             },
-            "model": "custom/gear/backpacks/maxharebackpack"
+            "model": "cosmetic:backpacks/maxharebackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "custom/gear/backpacks/oswaldbackpack"
+            "model": "cosmetic:backpacks/oswaldbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "custom/gear/backpacks/perrybackpack"
+            "model": "cosmetic:backpacks/perrybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "custom/gear/backpacks/professorowlbackpack"
+            "model": "cosmetic:backpacks/professorowlbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "custom/gear/backpacks/rabbitbackpack"
+            "model": "cosmetic:backpacks/rabbitbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
-            "model": "custom/gear/backpacks/rogerrabbitbackpack"
+            "model": "cosmetic:backpacks/rogerrabbitbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "custom/gear/backpacks/testdummybackpack"
+            "model": "cosmetic:backpacks/testdummybackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "custom/gear/backpacks/thumperbackpack"
+            "model": "cosmetic:backpacks/thumperbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 48
             },
-            "model": "custom/gear/backpacks/yodabackpack"
+            "model": "cosmetic:backpacks/yodabackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "custom/gear/backpacks/tntbarrel"
+            "model": "cosmetic:backpacks/tntbarrel"
         },
         {
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "custom/gear/backpacks/remybag"
+            "model": "cosmetic:backpacks/remybag"
         },
         {
             "predicate": {
                 "custom_model_data": 51
             },
-            "model": "custom/gear/backpacks/pntbackpack"
+            "model": "cosmetic:backpacks/pntbackpack"
         },
         {
             "predicate": {
                 "custom_model_data": 52
             },
-            "model": "custom/gear/backpacks/biddlebag"
+            "model": "cosmetic:backpacks/biddlebag"
         }
     ]
 }
