@@ -2,9 +2,9 @@
 	"credit": "Made for use on MCA/HP",
 	"textures": {
 		"2": "block/cyan_shulker_box",
-		"3": "pnt:custom/cosmetics/heads/mickmouth",
+		"3": "cosmetic:custom/heads/mickmouth",
 		"4": "block/red_terracotta",
-		"10": "pnt:custom/cosmetics/heads/goofy",
+		"10": "cosmetic:custom/heads/goofy",
 		"particle": "block/cyan_shulker_box"
 	},
 	"elements": [
