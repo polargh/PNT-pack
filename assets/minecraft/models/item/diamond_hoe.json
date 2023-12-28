@@ -1232,7 +1232,7 @@
             "predicate": {
                 "custom_model_data": 204
             },
-            "model": "custom/rides/legacy/df/chicken_scared"
+            "model": "df:chicken_scared"
         },
         {
             "predicate": {
@@ -1244,13 +1244,13 @@
             "predicate": {
                 "custom_model_data": 206
             },
-            "model": "custom/rides/legacy/df/chicken_scared"
+            "model": "df:chicken_scared"
         },
         {
             "predicate": {
                 "custom_model_data": 207
             },
-            "model": "custom/rides/legacy/df/chicken_scared"
+            "model": "df:chicken_scared"
         },
         {
             "predicate": {

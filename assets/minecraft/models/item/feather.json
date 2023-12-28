@@ -86,37 +86,37 @@
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "custom/rides/legacy/mtw/theater/mtw1"
+            "model": "mtw:theater/mtw1"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "custom/rides/legacy/mtw/theater/mtw2"
+            "model": "mtw:theater/mtw2"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "custom/rides/legacy/mtw/theater/mtw3"
+            "model": "mtw:theater/mtw3"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "custom/rides/legacy/mtw/theater/mtw4"
+            "model": "mtw:theater/mtw4"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "custom/rides/legacy/mtw/theater/mtwwall1"
+            "model": "mtw:theater/mtwwall1"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "custom/rides/legacy/mtw/theater/mtwwall2"
+            "model": "mtw:theater/mtwwall2"
         },
         {
             "predicate": {
@@ -350,37 +350,37 @@
             "predicate": {
                 "custom_model_data": 58
             },
-            "model": "custom/rides/legacy/df/chicken_lbody"
+            "model": "df:chicken_lbody"
         },
         {
             "predicate": {
                 "custom_model_data": 59
             },
-            "model": "custom/rides/legacy/df/chicken_lhead"
+            "model": "df:chicken_lhead"
         },
         {
             "predicate": {
                 "custom_model_data": 60
             },
-            "model": "custom/rides/legacy/df/chicken_rbody"
+            "model": "df:chicken_rbody"
         },
         {
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "custom/rides/legacy/df/chicken_rhead"
+            "model": "df:chicken_rhead"
         },
         {
             "predicate": {
                 "custom_model_data": 62
             },
-            "model": "custom/rides/legacy/df/chicken_scared"
+            "model": "df:chicken_scared"
         },
         {
             "predicate": {
                 "custom_model_data": 63
             },
-            "model": "custom/rides/legacy/df/turntable_base"
+            "model": "df:turntable_base"
         },
         {
             "predicate": {
