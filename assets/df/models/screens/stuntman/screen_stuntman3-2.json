@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/rides/legacy/df/screens/stuntman/screen_stuntman1-2",
+	"parent": "df:screens/stuntman/screen_stuntman1-2",
 	"textures": {
 		"0": "pnt:custom/rides/legacy/df/screens/stuntman/screen_stuntman03"
 	}
