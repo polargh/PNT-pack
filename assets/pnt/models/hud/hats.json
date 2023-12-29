@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
-	"parent": "custom/hud/bags",
+	"parent": "pnt:hud/bags",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "pnt:custom/hud/no"
+		"0": "pnt:custom/hud/hats"
 	}
 }

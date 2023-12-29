@@ -8,67 +8,67 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/hud/bags"
+            "model": "pnt:hud/bags"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/hud/hand"
+            "model": "pnt:hud/hand"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/hud/hats"
+            "model": "pnt:hud/hats"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/hud/left"
+            "model": "pnt:hud/left"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/hud/no"
+            "model": "pnt:hud/no"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/hud/pals"
+            "model": "pnt:hud/pals"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/hud/restricted"
+            "model": "pnt:hud/restricted"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/hud/right"
+            "model": "pnt:hud/right"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "custom/hud/yes"
+            "model": "pnt:hud/yes"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/hud/blank"
+            "model": "pnt:hud/blank"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "custom/hud/logo"
+            "model": "pnt:hud/logo"
         }
     ]
 }
