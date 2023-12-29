@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pnt:custom/misc/christmas/leaves_spruce",
-		"1": "pnt:custom/misc/christmas/orn_blue",
-		"2": "pnt:custom/misc/christmas/orn_gold",
-		"3": "pnt:custom/misc/christmas/orn_green",
-		"4": "pnt:custom/misc/christmas/orn_red",
-		"5": "pnt:custom/misc/christmas/orn_silver",
-		"6": "pnt:custom/misc/christmas/tree_base"
+		"0": "christmas:custom/leaves_spruce",
+		"1": "christmas:custom/orn_blue",
+		"2": "christmas:custom/orn_gold",
+		"3": "christmas:custom/orn_green",
+		"4": "christmas:custom/orn_red",
+		"5": "christmas:custom/orn_silver",
+		"6": "christmas:custom/tree_base"
 	},
 	"elements": [
 		{

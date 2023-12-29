@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"0": "pnt:custom/misc/minigames/bnl/sign0",
-		"1": "pnt:custom/misc/minigames/bnl/sign1",
-		"2": "pnt:custom/misc/minigames/bnl/sign2",
-		"3": "pnt:custom/misc/minigames/bnl/sign3"
+		"0": "minigames:custom/bnl/sign0",
+		"1": "minigames:custom/bnl/sign1",
+		"2": "minigames:custom/bnl/sign2",
+		"3": "minigames:custom/bnl/sign3"
 	},
 	"elements": [
 		{

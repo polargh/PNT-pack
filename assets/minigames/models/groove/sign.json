@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"1": "pnt:custom/misc/minigames/groove/sign0",
-		"2": "pnt:custom/misc/minigames/groove/sign1"
+		"1": "minigames:custom/groove/sign0",
+		"2": "minigames:custom/groove/sign1"
 	},
 	"elements": [
 		{

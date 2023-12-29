@@ -1,5 +1,5 @@
 {
-    "parent": "custom/decoration/minigames/bnl/bnldrillfix",
+    "parent": "minigames:bnl/bnldrillfix",
     "overrides": [
         {
             "predicate": {

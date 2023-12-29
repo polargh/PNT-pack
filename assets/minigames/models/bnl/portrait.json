@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
-		"0": "pnt:custom/misc/minigames/bnl/portrait",
+		"0": "minigames:custom/bnl/portrait",
 		"1": "block/scaffolding_bottom"
 	},
 	"elements": [

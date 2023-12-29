@@ -1,7 +1,7 @@
 {
 	"credit": "Designed exclusively for and by the Project: New Tomorrow team.",
 	"textures": {
-		"mesh_atlas": "pnt:custom/misc/minigames/bnl/bnldrillfix"
+		"mesh_atlas": "minigames:custom/bnl/bnldrillfix"
 	},
 	"elements": [
 		{
