@@ -1,0 +1,23 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "d4350eb8-c7df-86f5-141c-1ace11e97273": {
+            "project_name": "rrc_preshow",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\rrc_preshow\\set.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\bone2.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\bone3.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\bone.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\head.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\body.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\rightarm.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\leftarm.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\rightleg.json",
+                "assets\\animated_java\\models\\item\\rrc_preshow\\leftleg.json",
+                "assets\\animated_java\\textures\\item\\rrc_preshow\\texture.png",
+                "assets\\animated_java\\textures\\item\\rrc_preshow\\mixer.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}
