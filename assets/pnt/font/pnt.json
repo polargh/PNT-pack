@@ -12,17 +12,17 @@
             "file": "pnt:font/ui/black_box.png",
             "ascent": 250,
             "height": 1500,
-            "chars": ["勒"]
+            "chars": ["b"]
         },
         {
             "type": "bitmap",
             "file": "pnt:font/ui/pnt_arrow.png",
             "ascent": 7,
             "height": 7,
-            "chars": ["ꈂ"]
+            "chars": [">"]
         },
         {
-            "chars": ["\uE209"],
+            "chars": ["1"],
             "file": "pnt:font/opening/1.png",
             "ascent": 7,
             "height": 7,
@@ -31,7 +31,7 @@
             "type": "bitmap"
         },
         {
-            "chars": ["\uE210"],
+            "chars": ["2"],
             "file": "pnt:font/opening/2.png",
             "ascent": 7,
             "height": 7,
@@ -40,7 +40,7 @@
             "type": "bitmap"
         },
         {
-            "chars": ["\uE211"],
+            "chars": ["3"],
             "file": "pnt:font/opening/3.png",
             "ascent": 7,
             "height": 7,
