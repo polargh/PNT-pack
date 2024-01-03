@@ -47,48 +47,6 @@
             "size": 10.0,
             "oversample": 10.0,
             "type": "bitmap"
-        },
-        {
-            "type": "bitmap",
-            "file": "pnt:font/ui/pixel_nosplit.png",
-            "ascent": -32768,
-            "height": -10,
-            "chars": ["\uE213"]
-        },
-        {
-            "type": "bitmap",
-            "file": "pnt:font/ui/navigator.png",
-            "ascent": 19,
-            "height": 256,
-            "chars": ["\uE214"]
-        },
-        {
-            "type": "bitmap",
-            "file": "pnt:font/ui/generic.png",
-            "ascent": 19,
-            "height": 256,
-            "chars": ["\uE215"]
-        },
-        {
-            "type": "bitmap",
-            "file": "pnt:font/ui/spread.png",
-            "ascent": 19,
-            "height": 256,
-            "chars": ["\uE216"]
-        },
-        {
-            "type": "bitmap",
-            "file": "pnt:font/ui/generic_small.png",
-            "ascent": 19,
-            "height": 256,
-            "chars": ["\uE217"]
-        },
-        {
-            "type": "bitmap",
-            "file": "pnt:font/ui/spread_small.png",
-            "ascent": 19,
-            "height": 256,
-            "chars": ["\uE218"]
         }
     ]
 }
