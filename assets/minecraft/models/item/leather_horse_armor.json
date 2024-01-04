@@ -9,6 +9,30 @@
                 "custom_model_data": 1
             },
             "model": "pnt:rrc/music/acoustic_guitar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "pnt:rrc/music/amp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "pnt:rrc/music/drumkit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "pnt:rrc/music/drumkit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "pnt:rrc/music/record_player"
         }
     ]
 }
