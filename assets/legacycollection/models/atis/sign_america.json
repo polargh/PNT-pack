@@ -1,0 +1,1 @@
+{"credit": "Made with Blockbench and by TheTojoz", "ambientocclusion": false, "textures": {"1": "legacycollection:custom/atis/sign_america"}, "elements": [{"from": [-7.45, -3.65, 0], "to": [24.55, 28.35, 1], "faces": {"north": {"uv": [0, 0, 16, 16], "texture": "#1"}}}], "display": {"head": {"translation": [0, -38, 11], "scale": [4, 4, 1]}}}

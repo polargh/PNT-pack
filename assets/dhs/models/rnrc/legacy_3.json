@@ -1,0 +1,6 @@
+{
+    "parent": "pnt:deco/poster_portrait",
+    "textures": {
+        "image": "dhs:custom/rnrc/legacy_3"
+    }
+}
