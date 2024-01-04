@@ -69,6 +69,42 @@
 				"custom_model_data": 11
 			},
 			"model": "animated_java:item/rrc_preshow/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:item/rrc_preshow/head2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:item/rrc_preshow/body2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "animated_java:item/rrc_preshow/rightarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "animated_java:item/rrc_preshow/leftarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "animated_java:item/rrc_preshow/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "animated_java:item/rrc_preshow/leftleg2"
 		}
 	],
 	"animated_java": {
@@ -84,7 +120,13 @@
 					8,
 					9,
 					10,
-					11
+					11,
+					12,
+					13,
+					14,
+					15,
+					16,
+					17
 				]
 			}
 		}
