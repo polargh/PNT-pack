@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "rnrc:custom/krnr1",
-		"1": "rnrc:custom/krnr2",
+		"0": "dhs:custom/rnrc/krnr1",
+		"1": "dhs:custom/rnrc/krnr2",
 		"2": "minecraft:block/quartz_block_bottom",
 		"3": "minecraft:block/smooth_stone"
 	},

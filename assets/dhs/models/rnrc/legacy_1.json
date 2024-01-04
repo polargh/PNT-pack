@@ -1,6 +1,6 @@
 {
     "parent": "pnt:deco/poster_square",
     "textures": {
-        "image": "rnrc:custom/legacy_1"
+        "image": "dhs:custom/rnrc/legacy_1"
     }
 }
