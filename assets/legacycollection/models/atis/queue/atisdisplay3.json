@@ -1,1 +1,1 @@
-{"credit": "Made with Blockbench and by TheTojoz", "parent": "atis:queue/atisdisplay0", "textures": {"0": "legacycollection:custom/atis/queuesigns/atisqueue3", "1": "legacycollection:custom/atis/atoms"}}
+{"credit": "Made with Blockbench and by TheTojoz", "parent": "legacycollection:atis/queue/atisdisplay0", "textures": {"0": "legacycollection:custom/atis/queuesigns/atisqueue3", "1": "legacycollection:custom/atis/atoms"}}
