@@ -86,37 +86,37 @@
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "mtw:theater/mtw1"
+            "model": "legacycollection:mtw/theater/mtw1"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "mtw:theater/mtw2"
+            "model": "legacycollection:mtw/theater/mtw2"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "mtw:theater/mtw3"
+            "model": "legacycollection:mtw/theater/mtw3"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "mtw:theater/mtw4"
+            "model": "legacycollection:mtw/theater/mtw4"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "mtw:theater/mtwwall1"
+            "model": "legacycollection:mtw/theater/mtwwall1"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "mtw:theater/mtwwall2"
+            "model": "legacycollection:mtw/theater/mtwwall2"
         },
         {
             "predicate": {
@@ -128,79 +128,79 @@
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "atis:atis"
+            "model": "legacycollection:atis/atis"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "atis:atis_door"
+            "model": "legacycollection:atis/atis_door"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "atis:queue/queue_snowflake1"
+            "model": "legacycollection:atis/queue/queue_snowflake1"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "atis:queue/queue_snowflake2"
+            "model": "legacycollection:atis/queue/queue_snowflake2"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "atis:queue/queue_snowflake3"
+            "model": "legacycollection:atis/queue/queue_snowflake3"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "atis:queue/queue_snowflake4"
+            "model": "legacycollection:atis/queue/queue_snowflake4"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "atis:microscope"
+            "model": "legacycollection:atis/microscope"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "atis:atissmall"
+            "model": "legacycollection:atis/atissmall"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "atis:microscope1"
+            "model": "legacycollection:atis/microscope1"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "atis:microscope2"
+            "model": "legacycollection:atis/microscope2"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "atis:microscope3"
+            "model": "legacycollection:atis/microscope3"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "atis:microscope4"
+            "model": "legacycollection:atis/microscope4"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "atis:microscope5"
+            "model": "legacycollection:atis/microscope5"
         },
         {
             "predicate": {
@@ -230,7 +230,7 @@
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "atis:h2o_ring"
+            "model": "legacycollection:atis/h2o_ring"
         },
         {
             "predicate": {
@@ -248,577 +248,577 @@
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "atis:queue/atisdisplayprop0"
+            "model": "legacycollection:atis/queue/atisdisplayprop0"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "atis:queue/atisdisplayprop1"
+            "model": "legacycollection:atis/queue/atisdisplayprop1"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "atis:queue/atisdisplayprop2"
+            "model": "legacycollection:atis/queue/atisdisplayprop2"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "atis:queue/atisdisplayprop3"
+            "model": "legacycollection:atis/queue/atisdisplayprop3"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
-            "model": "atis:queue/atisdisplayprop4"
+            "model": "legacycollection:atis/queue/atisdisplayprop4"
         },
         {
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "atis:queue/atisdisplayprop5"
+            "model": "legacycollection:atis/queue/atisdisplayprop5"
         },
         {
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "atis:queue/atisdisplayprop6"
+            "model": "legacycollection:atis/queue/atisdisplayprop6"
         },
         {
             "predicate": {
                 "custom_model_data": 48
             },
-            "model": "atis:queue/atisdisplayprop7"
+            "model": "legacycollection:atis/queue/atisdisplayprop7"
         },
         {
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "atis:microscopelight"
+            "model": "legacycollection:atis/microscopelight"
         },
         {
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "atis:microscopelight2"
+            "model": "legacycollection:atis/microscopelight2"
         },
         {
             "predicate": {
                 "custom_model_data": 51
             },
-            "model": "atis:snowflake"
+            "model": "legacycollection:atis/snowflake"
         },
         {
             "predicate": {
                 "custom_model_data": 52
             },
-            "model": "atis:eye"
+            "model": "legacycollection:atis/eye"
         },
         {
             "predicate": {
                 "custom_model_data": 53
             },
-            "model": "atis:zip1"
+            "model": "legacycollection:atis/zip1"
         },
         {
             "predicate": {
                 "custom_model_data": 54
             },
-            "model": "atis:zip2"
+            "model": "legacycollection:atis/zip2"
         },
         {
             "predicate": {
                 "custom_model_data": 55
             },
-            "model": "atis:zip3"
+            "model": "legacycollection:atis/zip3"
         },
         {
             "predicate": {
                 "custom_model_data": 56
             },
-            "model": "atis:zip4"
+            "model": "legacycollection:atis/zip4"
         },
         {
             "predicate": {
                 "custom_model_data": 57
             },
-            "model": "atis:nucleus"
+            "model": "legacycollection:atis/nucleus"
         },
         {
             "predicate": {
                 "custom_model_data": 58
             },
-            "model": "df:chicken_lbody"
+            "model": "legacycollection:df/chicken_lbody"
         },
         {
             "predicate": {
                 "custom_model_data": 59
             },
-            "model": "df:chicken_lhead"
+            "model": "legacycollection:df/chicken_lhead"
         },
         {
             "predicate": {
                 "custom_model_data": 60
             },
-            "model": "df:chicken_rbody"
+            "model": "legacycollection:df/chicken_rbody"
         },
         {
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "df:chicken_rhead"
+            "model": "legacycollection:df/chicken_rhead"
         },
         {
             "predicate": {
                 "custom_model_data": 62
             },
-            "model": "df:chicken_scared"
+            "model": "legacycollection:df/chicken_scared"
         },
         {
             "predicate": {
                 "custom_model_data": 63
             },
-            "model": "df:turntable_base"
+            "model": "legacycollection:df/turntable_base"
         },
         {
             "predicate": {
                 "custom_model_data": 64
             },
-            "model": "okee:okee_boat"
+            "model": "legacycollection:okee/okee_boat"
         },
         {
             "predicate": {
                 "custom_model_data": 65
             },
-            "model": "okee:okee_crow_beak"
+            "model": "legacycollection:okee/okee_crow_beak"
         },
         {
             "predicate": {
                 "custom_model_data": 66
             },
-            "model": "okee:okee_crow_legs"
+            "model": "legacycollection:okee/okee_crow_legs"
         },
         {
             "predicate": {
                 "custom_model_data": 67
             },
-            "model": "okee:okee_crow_red"
+            "model": "legacycollection:okee/okee_crow_red"
         },
         {
             "predicate": {
                 "custom_model_data": 68
             },
-            "model": "okee:okee_crow_tan"
+            "model": "legacycollection:okee/okee_crow_tan"
         },
         {
             "predicate": {
                 "custom_model_data": 69
             },
-            "model": "okee:okee_crow_blue"
+            "model": "legacycollection:okee/okee_crow_blue"
         },
         {
             "predicate": {
                 "custom_model_data": 70
             },
-            "model": "okee:okee_crow_brown"
+            "model": "legacycollection:okee/okee_crow_brown"
         },
         {
             "predicate": {
                 "custom_model_data": 71
             },
-            "model": "okee:okee_entrance"
+            "model": "legacycollection:okee/okee_entrance"
         },
         {
             "predicate": {
                 "custom_model_data": 72
             },
-            "model": "okee:okee_ground"
+            "model": "legacycollection:okee/okee_ground"
         },
         {
             "predicate": {
                 "custom_model_data": 73
             },
-            "model": "okee:okee_logo"
+            "model": "legacycollection:okee/okee_logo"
         },
         {
             "predicate": {
                 "custom_model_data": 74
             },
-            "model": "okee:okee_rabbit_white_foot"
+            "model": "legacycollection:okee/okee_rabbit_white_foot"
         },
         {
             "predicate": {
                 "custom_model_data": 75
             },
-            "model": "okee:okee_rabbit_white_head"
+            "model": "legacycollection:okee/okee_rabbit_white_head"
         },
         {
             "predicate": {
                 "custom_model_data": 76
             },
-            "model": "okee:okee_rabbit_white_larm"
+            "model": "legacycollection:okee/okee_rabbit_white_larm"
         },
         {
             "predicate": {
                 "custom_model_data": 77
             },
-            "model": "okee:okee_rabbit_white_lbear"
+            "model": "legacycollection:okee/okee_rabbit_white_lbear"
         },
         {
             "predicate": {
                 "custom_model_data": 78
             },
-            "model": "okee:okee_rabbit_white_lear"
+            "model": "legacycollection:okee/okee_rabbit_white_lear"
         },
         {
             "predicate": {
                 "custom_model_data": 79
             },
-            "model": "okee:okee_rabbit_white_mrbfoot"
+            "model": "legacycollection:okee/okee_rabbit_white_mrbfoot"
         },
         {
             "predicate": {
                 "custom_model_data": 80
             },
-            "model": "okee:okee_rabbit_white_mrbtorso"
+            "model": "legacycollection:okee/okee_rabbit_white_mrbtorso"
         },
         {
             "predicate": {
                 "custom_model_data": 81
             },
-            "model": "okee:okee_rabbit_white_mrhead"
+            "model": "legacycollection:okee/okee_rabbit_white_mrhead"
         },
         {
             "predicate": {
                 "custom_model_data": 82
             },
-            "model": "okee:okee_rabbit_white_mrtorso"
+            "model": "legacycollection:okee/okee_rabbit_white_mrtorso"
         },
         {
             "predicate": {
                 "custom_model_data": 83
             },
-            "model": "okee:okee_rabbit_white_rarm"
+            "model": "legacycollection:okee/okee_rabbit_white_rarm"
         },
         {
             "predicate": {
                 "custom_model_data": 84
             },
-            "model": "okee:okee_rabbit_white_rbear"
+            "model": "legacycollection:okee/okee_rabbit_white_rbear"
         },
         {
             "predicate": {
                 "custom_model_data": 85
             },
-            "model": "okee:okee_rabbit_white_rear"
+            "model": "legacycollection:okee/okee_rabbit_white_rear"
         },
         {
             "predicate": {
                 "custom_model_data": 86
             },
-            "model": "okee:okee_rabbit_white_torso"
+            "model": "legacycollection:okee/okee_rabbit_white_torso"
         },
         {
             "predicate": {
                 "custom_model_data": 87
             },
-            "model": "okee:okee_rabbit_white_torsoblue"
+            "model": "legacycollection:okee/okee_rabbit_white_torsoblue"
         },
         {
             "predicate": {
                 "custom_model_data": 88
             },
-            "model": "okee:okee_cardboard1"
+            "model": "legacycollection:okee/okee_cardboard1"
         },
         {
             "predicate": {
                 "custom_model_data": 89
             },
-            "model": "okee:okee_cardboard2"
+            "model": "legacycollection:okee/okee_cardboard2"
         },
         {
             "predicate": {
                 "custom_model_data": 90
             },
-            "model": "okee:okee_cardboard3"
+            "model": "legacycollection:okee/okee_cardboard3"
         },
         {
             "predicate": {
                 "custom_model_data": 91
             },
-            "model": "okee:okee_cardboard4"
+            "model": "legacycollection:okee/okee_cardboard4"
         },
         {
             "predicate": {
                 "custom_model_data": 92
             },
-            "model": "okee:okee_cardboard5"
+            "model": "legacycollection:okee/okee_cardboard5"
         },
         {
             "predicate": {
                 "custom_model_data": 93
             },
-            "model": "okee:okee_cardboard6"
+            "model": "legacycollection:okee/okee_cardboard6"
         },
         {
             "predicate": {
                 "custom_model_data": 94
             },
-            "model": "okee:okee_cardboard7"
+            "model": "legacycollection:okee/okee_cardboard7"
         },
         {
             "predicate": {
                 "custom_model_data": 95
             },
-            "model": "okee:okee_cardboard8"
+            "model": "legacycollection:okee/okee_cardboard8"
         },
         {
             "predicate": {
                 "custom_model_data": 96
             },
-            "model": "okee:okee_cardboard9"
+            "model": "legacycollection:okee/okee_cardboard9"
         },
         {
             "predicate": {
                 "custom_model_data": 97
             },
-            "model": "okee:okee_rabbit_brown_head1"
+            "model": "legacycollection:okee/okee_rabbit_brown_head1"
         },
         {
             "predicate": {
                 "custom_model_data": 98
             },
-            "model": "okee:okee_rabbit_brown_head2"
+            "model": "legacycollection:okee/okee_rabbit_brown_head2"
         },
         {
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "okee:okee_rabbit_brown_larm"
+            "model": "legacycollection:okee/okee_rabbit_brown_larm"
         },
         {
             "predicate": {
                 "custom_model_data": 100
             },
-            "model": "okee:okee_rabbit_brown_lear"
+            "model": "legacycollection:okee/okee_rabbit_brown_lear"
         },
         {
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "okee:okee_rabbit_brown_leg"
+            "model": "legacycollection:okee/okee_rabbit_brown_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "okee:okee_rabbit_brown_rarm"
+            "model": "legacycollection:okee/okee_rabbit_brown_rarm"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "okee:okee_rabbit_brown_rear"
+            "model": "legacycollection:okee/okee_rabbit_brown_rear"
         },
         {
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "okee:okee_rabbit_brown_torso1"
+            "model": "legacycollection:okee/okee_rabbit_brown_torso1"
         },
         {
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "okee:okee_rabbit_brown_torso2"
+            "model": "legacycollection:okee/okee_rabbit_brown_torso2"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "okee:okee_rabbit_pink_fhead"
+            "model": "legacycollection:okee/okee_rabbit_pink_fhead"
         },
         {
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "okee:okee_rabbit_pink_foot"
+            "model": "legacycollection:okee/okee_rabbit_pink_foot"
         },
         {
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "okee:okee_rabbit_pink_larm"
+            "model": "legacycollection:okee/okee_rabbit_pink_larm"
         },
         {
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "okee:okee_rabbit_pink_lbear"
+            "model": "legacycollection:okee/okee_rabbit_pink_lbear"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "okee:okee_rabbit_pink_lear"
+            "model": "legacycollection:okee/okee_rabbit_pink_lear"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "okee:okee_rabbit_pink_mhead"
+            "model": "legacycollection:okee/okee_rabbit_pink_mhead"
         },
         {
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "okee:okee_rabbit_pink_mrstorso"
+            "model": "legacycollection:okee/okee_rabbit_pink_mrstorso"
         },
         {
             "predicate": {
                 "custom_model_data": 113
             },
-            "model": "okee:okee_rabbit_pink_rarm"
+            "model": "legacycollection:okee/okee_rabbit_pink_rarm"
         },
         {
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "okee:okee_rabbit_pink_rbear"
+            "model": "legacycollection:okee/okee_rabbit_pink_rbear"
         },
         {
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "okee:okee_rabbit_pink_rear"
+            "model": "legacycollection:okee/okee_rabbit_pink_rear"
         },
         {
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "okee:okee_rabbit_pink_shead"
+            "model": "legacycollection:okee/okee_rabbit_pink_shead"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "okee:okee_rabbit_pink_torsoblue"
+            "model": "legacycollection:okee/okee_rabbit_pink_torsoblue"
         },
         {
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "okee:okee_rabbit_pink_torsobrown"
+            "model": "legacycollection:okee/okee_rabbit_pink_torsobrown"
         },
         {
             "predicate": {
                 "custom_model_data": 119
             },
-            "model": "okee:okee_rabbit_pink_torsogray"
+            "model": "legacycollection:okee/okee_rabbit_pink_torsogray"
         },
         {
             "predicate": {
                 "custom_model_data": 120
             },
-            "model": "okee:okee_rabbit_yellow_fhead"
+            "model": "legacycollection:okee/okee_rabbit_yellow_fhead"
         },
         {
             "predicate": {
                 "custom_model_data": 121
             },
-            "model": "okee:okee_rabbit_yellow_foot"
+            "model": "legacycollection:okee/okee_rabbit_yellow_foot"
         },
         {
             "predicate": {
                 "custom_model_data": 122
             },
-            "model": "okee:okee_rabbit_yellow_larm"
+            "model": "legacycollection:okee/okee_rabbit_yellow_larm"
         },
         {
             "predicate": {
                 "custom_model_data": 123
             },
-            "model": "okee:okee_rabbit_yellow_lbear"
+            "model": "legacycollection:okee/okee_rabbit_yellow_lbear"
         },
         {
             "predicate": {
                 "custom_model_data": 124
             },
-            "model": "okee:okee_rabbit_yellow_lear"
+            "model": "legacycollection:okee/okee_rabbit_yellow_lear"
         },
         {
             "predicate": {
                 "custom_model_data": 125
             },
-            "model": "okee:okee_rabbit_yellow_lsarm"
+            "model": "legacycollection:okee/okee_rabbit_yellow_lsarm"
         },
         {
             "predicate": {
                 "custom_model_data": 126
             },
-            "model": "okee:okee_rabbit_yellow_mhead"
+            "model": "legacycollection:okee/okee_rabbit_yellow_mhead"
         },
         {
             "predicate": {
                 "custom_model_data": 127
             },
-            "model": "okee:okee_rabbit_yellow_rarm"
+            "model": "legacycollection:okee/okee_rabbit_yellow_rarm"
         },
         {
             "predicate": {
                 "custom_model_data": 128
             },
-            "model": "okee:okee_rabbit_yellow_rbear"
+            "model": "legacycollection:okee/okee_rabbit_yellow_rbear"
         },
         {
             "predicate": {
                 "custom_model_data": 129
             },
-            "model": "okee:okee_rabbit_yellow_rear"
+            "model": "legacycollection:okee/okee_rabbit_yellow_rear"
         },
         {
             "predicate": {
                 "custom_model_data": 130
             },
-            "model": "okee:okee_rabbit_yellow_rsarm"
+            "model": "legacycollection:okee/okee_rabbit_yellow_rsarm"
         },
         {
             "predicate": {
                 "custom_model_data": 131
             },
-            "model": "okee:okee_rabbit_yellow_torsoblue"
+            "model": "legacycollection:okee/okee_rabbit_yellow_torsoblue"
         },
         {
             "predicate": {
                 "custom_model_data": 132
             },
-            "model": "okee:okee_rabbit_yellow_torsodress"
+            "model": "legacycollection:okee/okee_rabbit_yellow_torsodress"
         },
         {
             "predicate": {
                 "custom_model_data": 133
             },
-            "model": "okee:okee_rabbit_yellow_torsogray"
+            "model": "legacycollection:okee/okee_rabbit_yellow_torsogray"
         },
         {
             "predicate": {
                 "custom_model_data": 134
             },
-            "model": "okee:okee_rabbit_yellow_torsored"
+            "model": "legacycollection:okee/okee_rabbit_yellow_torsored"
         },
         {
             "predicate": {
                 "custom_model_data": 135
             },
-            "model": "okee:okee_rabbit_yellow_torsovest"
+            "model": "legacycollection:okee/okee_rabbit_yellow_torsovest"
         },
 		{
             "predicate": {
                 "custom_model_data": 136
             },
-            "model": "okee:okee_hula"
+            "model": "legacycollection:okee/okee_hula"
         },
 		{
             "predicate": {

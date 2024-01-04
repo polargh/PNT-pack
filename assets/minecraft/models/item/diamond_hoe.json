@@ -182,7 +182,7 @@
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "atis:sign_atis"
+            "model": "legacycollection:atis/sign_atis"
         },
         {
             "predicate": {
@@ -200,79 +200,79 @@
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "atis:queue/atisdisplay0"
+            "model": "legacycollection:atis/queue/atisdisplay0"
         },
         {
             "predicate": {
                 "custom_model_data": 34
             },
-            "model": "atis:queue/atisdisplay1"
+            "model": "legacycollection:atis/queue/atisdisplay1"
         },
         {
             "predicate": {
                 "custom_model_data": 35
             },
-            "model": "atis:queue/atisdisplay2"
+            "model": "legacycollection:atis/queue/atisdisplay2"
         },
         {
             "predicate": {
                 "custom_model_data": 36
             },
-            "model": "atis:queue/atisdisplay3"
+            "model": "legacycollection:atis/queue/atisdisplay3"
         },
         {
             "predicate": {
                 "custom_model_data": 37
             },
-            "model": "atis:queue/atisdisplay4"
+            "model": "legacycollection:atis/queue/atisdisplay4"
         },
         {
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "atis:queue/atisdisplay5"
+            "model": "legacycollection:atis/queue/atisdisplay5"
         },
         {
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "atis:queue/atisdisplay6"
+            "model": "legacycollection:atis/queue/atisdisplay6"
         },
         {
             "predicate": {
                 "custom_model_data": 40
             },
-            "model": "atis:queue/atisdisplay7"
+            "model": "legacycollection:atis/queue/atisdisplay7"
         },
         {
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "atis:queue/minicontrol"
+            "model": "legacycollection:atis/queue/minicontrol"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "atis:queue/monsanto"
+            "model": "legacycollection:atis/queue/monsanto"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "atis:queue/welcomesyou"
+            "model": "legacycollection:atis/queue/welcomesyou"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "atis:queue/atismagnify1"
+            "model": "legacycollection:atis/queue/atismagnify1"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
-            "model": "atis:queue/atismagnify2"
+            "model": "legacycollection:atis/queue/atismagnify2"
         },
         {
             "predicate": {
@@ -440,109 +440,109 @@
             "predicate": {
                 "custom_model_data": 73
             },
-            "model": "atis:monsantoext"
+            "model": "legacycollection:atis/monsantoext"
         },
         {
             "predicate": {
                 "custom_model_data": 74
             },
-            "model": "atis:smallplayers/p1"
+            "model": "legacycollection:atis/smallplayers/p1"
         },
         {
             "predicate": {
                 "custom_model_data": 75
             },
-            "model": "atis:smallplayers/p2"
+            "model": "legacycollection:atis/smallplayers/p2"
         },
         {
             "predicate": {
                 "custom_model_data": 76
             },
-            "model": "atis:smallplayers/p3"
+            "model": "legacycollection:atis/smallplayers/p3"
         },
         {
             "predicate": {
                 "custom_model_data": 77
             },
-            "model": "atis:smallplayers/p4"
+            "model": "legacycollection:atis/smallplayers/p4"
         },
         {
             "predicate": {
                 "custom_model_data": 78
             },
-            "model": "atis:smallplayers/p5"
+            "model": "legacycollection:atis/smallplayers/p5"
         },
         {
             "predicate": {
                 "custom_model_data": 79
             },
-            "model": "atis:smallplayers/p6"
+            "model": "legacycollection:atis/smallplayers/p6"
         },
         {
             "predicate": {
                 "custom_model_data": 80
             },
-            "model": "atis:smallplayers/p7"
+            "model": "legacycollection:atis/smallplayers/p7"
         },
         {
             "predicate": {
                 "custom_model_data": 81
             },
-            "model": "atis:smallplayers/p8"
+            "model": "legacycollection:atis/smallplayers/p8"
         },
         {
             "predicate": {
                 "custom_model_data": 82
             },
-            "model": "atis:smallplayers/p9"
+            "model": "legacycollection:atis/smallplayers/p9"
         },
         {
             "predicate": {
                 "custom_model_data": 82
             },
-            "model": "atis:smallplayers/p10"
+            "model": "legacycollection:atis/smallplayers/p10"
         },
         {
             "predicate": {
                 "custom_model_data": 83
             },
-            "model": "atis:smallplayers/p11"
+            "model": "legacycollection:atis/smallplayers/p11"
         },
         {
             "predicate": {
                 "custom_model_data": 84
             },
-            "model": "atis:smallplayers/p12"
+            "model": "legacycollection:atis/smallplayers/p12"
         },
         {
             "predicate": {
                 "custom_model_data": 85
             },
-            "model": "atis:smallplayers/p13"
+            "model": "legacycollection:atis/smallplayers/p13"
         },
         {
             "predicate": {
                 "custom_model_data": 86
             },
-            "model": "atis:smallplayers/p14"
+            "model": "legacycollection:atis/smallplayers/p14"
         },
         {
             "predicate": {
                 "custom_model_data": 87
             },
-            "model": "atis:smallplayers/p15"
+            "model": "legacycollection:atis/smallplayers/p15"
         },
         {
             "predicate": {
                 "custom_model_data": 88
             },
-            "model": "atis:smallplayers/p16"
+            "model": "legacycollection:atis/smallplayers/p16"
         },
         {
             "predicate": {
                 "custom_model_data": 89
             },
-            "model": "atis:smallplayers/p17"
+            "model": "legacycollection:atis/smallplayers/p17"
         },
         {
             "predicate": {
@@ -554,7 +554,7 @@
             "predicate": {
                 "custom_model_data": 91
             },
-            "model": "atis:extsign"
+            "model": "legacycollection:atis/extsign"
         },
         {
             "predicate": {
@@ -818,43 +818,43 @@
             "predicate": {
                 "custom_model_data": 135
             },
-            "model": "atis:characters/farmer1"
+            "model": "legacycollection:atis/characters/farmer1"
         },
         {
             "predicate": {
                 "custom_model_data": 136
             },
-            "model": "atis:characters/farmer2"
+            "model": "legacycollection:atis/characters/farmer2"
         },
         {
             "predicate": {
                 "custom_model_data": 137
             },
-            "model": "atis:characters/horse1"
+            "model": "legacycollection:atis/characters/horse1"
         },
         {
             "predicate": {
                 "custom_model_data": 138
             },
-            "model": "atis:characters/horse2"
+            "model": "legacycollection:atis/characters/horse2"
         },
         {
             "predicate": {
                 "custom_model_data": 139
             },
-            "model": "atis:characters/horse3"
+            "model": "legacycollection:atis/characters/horse3"
         },
         {
             "predicate": {
                 "custom_model_data": 140
             },
-            "model": "atis:this_is_monsanto"
+            "model": "legacycollection:atis/this_is_monsanto"
         },
         {
             "predicate": {
                 "custom_model_data": 141
             },
-            "model": "atis:characters/horse4"
+            "model": "legacycollection:atis/characters/horse4"
         },
         {
             "predicate": {
@@ -944,31 +944,31 @@
             "predicate": {
                 "custom_model_data": 156
             },
-            "model": "atis:smallplayers/p18"
+            "model": "legacycollection:atis/smallplayers/p18"
         },
         {
             "predicate": {
                 "custom_model_data": 157
             },
-            "model": "atis:sign_america"
+            "model": "legacycollection:atis/sign_america"
         },
         {
             "predicate": {
                 "custom_model_data": 158
             },
-            "model": "atis:monsantopost"
+            "model": "legacycollection:atis/monsantopost"
         },
         {
             "predicate": {
                 "custom_model_data": 159
             },
-            "model": "atis:stats1"
+            "model": "legacycollection:atis/stats1"
         },
         {
             "predicate": {
                 "custom_model_data": 160
             },
-            "model": "atis:stats2"
+            "model": "legacycollection:atis/stats2"
         },
         {
             "predicate": {
@@ -980,7 +980,7 @@
             "predicate": {
                 "custom_model_data": 162
             },
-            "model": "atis:oil"
+            "model": "legacycollection:atis/oil"
         },
                 {
             "predicate": {
@@ -1004,169 +1004,169 @@
             "predicate": {
                 "custom_model_data": 166
             },
-            "model": "atis:characters/farmer3"
+            "model": "legacycollection:atis/characters/farmer3"
         },
         {
             "predicate": {
                 "custom_model_data": 167
             },
-            "model": "atis:characters/farmer4"
+            "model": "legacycollection:atis/characters/farmer4"
         },
         {
             "predicate": {
                 "custom_model_data": 168
             },
-            "model": "atis:characters/horse5"
+            "model": "legacycollection:atis/characters/horse5"
         },
         {
             "predicate": {
                 "custom_model_data": 169
             },
-            "model": "atis:characters/house1-1"
+            "model": "legacycollection:atis/characters/house1-1"
         },
         {
             "predicate": {
                 "custom_model_data": 170
             },
-            "model": "atis:characters/house1-2"
+            "model": "legacycollection:atis/characters/house1-2"
         },
         {
             "predicate": {
                 "custom_model_data": 171
             },
-            "model": "atis:characters/house2"
+            "model": "legacycollection:atis/characters/house2"
         },
         {
             "predicate": {
                 "custom_model_data": 172
             },
-            "model": "atis:characters/house3"
+            "model": "legacycollection:atis/characters/house3"
         },
         {
             "predicate": {
                 "custom_model_data": 173
             },
-            "model": "atis:characters/house4"
+            "model": "legacycollection:atis/characters/house4"
         },
         {
             "predicate": {
                 "custom_model_data": 174
             },
-            "model": "atis:characters/house5"
+            "model": "legacycollection:atis/characters/house5"
         },
         {
             "predicate": {
                 "custom_model_data": 175
             },
-            "model": "atis:characters/house6-1"
+            "model": "legacycollection:atis/characters/house6-1"
         },
         {
             "predicate": {
                 "custom_model_data": 176
             },
-            "model": "atis:characters/house6-2"
+            "model": "legacycollection:atis/characters/house6-2"
         },
         {
             "predicate": {
                 "custom_model_data": 177
             },
-            "model": "atis:characters/married1"
+            "model": "legacycollection:atis/characters/married1"
         },
         {
             "predicate": {
                 "custom_model_data": 178
             },
-            "model": "atis:characters/married2-1"
+            "model": "legacycollection:atis/characters/married2-1"
         },
         {
             "predicate": {
                 "custom_model_data": 179
             },
-            "model": "atis:characters/married2-2_3"
+            "model": "legacycollection:atis/characters/married2-2_3"
         },
         {
             "predicate": {
                 "custom_model_data": 180
             },
-            "model": "atis:characters/married4"
+            "model": "legacycollection:atis/characters/married4"
         },
         {
             "predicate": {
                 "custom_model_data": 181
             },
-            "model": "atis:characters/married5"
+            "model": "legacycollection:atis/characters/married5"
         },
         {
             "predicate": {
                 "custom_model_data": 182
             },
-            "model": "atis:characters/atis_hand"
+            "model": "legacycollection:atis/characters/atis_hand"
         },
         {
             "predicate": {
                 "custom_model_data": 183
             },
-            "model": "atis:characters/hands/sign0"
+            "model": "legacycollection:atis/characters/hands/sign0"
         },
         {
             "predicate": {
                 "custom_model_data": 184
             },
-            "model": "atis:characters/hands/sign1"
+            "model": "legacycollection:atis/characters/hands/sign1"
         },
         {
             "predicate": {
                 "custom_model_data": 185
             },
-            "model": "atis:characters/hands/sign2"
+            "model": "legacycollection:atis/characters/hands/sign2"
         },
         {
             "predicate": {
                 "custom_model_data": 186
             },
-            "model": "atis:characters/hands/sign3"
+            "model": "legacycollection:atis/characters/hands/sign3"
         },
         {
             "predicate": {
                 "custom_model_data": 187
             },
-            "model": "atis:characters/hands/sign4"
+            "model": "legacycollection:atis/characters/hands/sign4"
         },
         {
             "predicate": {
                 "custom_model_data": 188
             },
-            "model": "atis:characters/plane1"
+            "model": "legacycollection:atis/characters/plane1"
         },
         {
             "predicate": {
                 "custom_model_data": 189
             },
-            "model": "atis:characters/plane2"
+            "model": "legacycollection:atis/characters/plane2"
         },
         {
             "predicate": {
                 "custom_model_data": 190
             },
-            "model": "atis:characters/all/excl"
+            "model": "legacycollection:atis/characters/all/excl"
         },
         {
             "predicate": {
                 "custom_model_data": 191
             },
-            "model": "atis:characters/all/question"
+            "model": "legacycollection:atis/characters/all/question"
         },
         {
             "predicate": {
                 "custom_model_data": 192
             },
-            "model": "atis:fountain"
+            "model": "legacycollection:atis/fountain"
         },
         {
             "predicate": {
                 "custom_model_data": 193
             },
-            "model": "atis:aroundclock"
+            "model": "legacycollection:atis/aroundclock"
         },
         {
             "predicate": {
@@ -1232,7 +1232,7 @@
             "predicate": {
                 "custom_model_data": 204
             },
-            "model": "df:chicken_scared"
+            "model": "legacycollection:df/chicken_scared"
         },
         {
             "predicate": {
@@ -1244,13 +1244,13 @@
             "predicate": {
                 "custom_model_data": 206
             },
-            "model": "df:chicken_scared"
+            "model": "legacycollection:df/chicken_scared"
         },
         {
             "predicate": {
                 "custom_model_data": 207
             },
-            "model": "df:chicken_scared"
+            "model": "legacycollection:df/chicken_scared"
         },
         {
             "predicate": {
@@ -1382,7 +1382,7 @@
             "predicate": {
                 "custom_model_data": 229
             },
-            "model": "americasings:americasingspreview"
+            "model": "legacycollection:americasings/americasingspreview"
         },
         {
             "predicate": {
@@ -1520,7 +1520,7 @@
             "predicate": {
                 "custom_model_data": 253
             },
-            "model": "okee:okee_stats"
+            "model": "legacycollection:okee/okee_stats"
         },
 		{
 			"predicate": {
@@ -1532,19 +1532,19 @@
 			"predicate": {
                 "custom_model_data": 255
             },
-            "model": "okee:okee_photo"
+            "model": "legacycollection:okee/okee_photo"
         },
 		{
 			"predicate": {
                 "custom_model_data": 256
             },
-            "model": "okee:long_image"
+            "model": "legacycollection:okee/long_image"
         },
 		{
 			"predicate": {
                 "custom_model_data": 257
             },
-            "model": "okee:poster"
+            "model": "legacycollection:okee/poster"
         },
         {
             "predicate": {
