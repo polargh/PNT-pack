@@ -1755,6 +1755,12 @@
                 "custom_model_data": 292
             },
             "model": "dhs:rnrc/krnr_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 293
+            },
+            "model": "dhs:rnrc/fan"
         }
     ]
 }
