@@ -9,6 +9,12 @@
                 "custom_model_data": 1
             },
             "model": "pnt:deco/board_base"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "pnt:deco/ride_stats_generic"
         }
     ]
 }

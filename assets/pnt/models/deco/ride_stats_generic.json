@@ -1,0 +1,6 @@
+{
+    "parent": "pnt:deco/board_base",
+    "textures": {
+        "0": "pnt:custom/deco/ride_stats_background"
+    }
+}
