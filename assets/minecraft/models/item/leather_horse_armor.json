@@ -33,6 +33,66 @@
                 "custom_model_data": 4
             },
             "model": "pnt:rrc/music/record_player"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100001
+            },
+            "model": "mclivefx:fixtures/light_beam_01"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100002
+            },
+            "model": "mclivefx:fixtures/light_beam_02"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100003
+            },
+            "model": "mclivefx:fixtures/light_beam_03"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100004
+            },
+            "model": "mclivefx:fixtures/light_beam_04"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100005
+            },
+            "model": "mclivefx:fixtures/light_beam_05"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100006
+            },
+            "model": "mclivefx:fixtures/light_beam_06"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100007
+            },
+            "model": "mclivefx:fixtures/light_beam_07"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100008
+            },
+            "model": "mclivefx:fixtures/light_beam_08"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100009
+            },
+            "model": "mclivefx:fixtures/light_beam_09"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100010
+            },
+            "model": "mclivefx:fixtures/light_beam_10"
         }
     ]
 }
