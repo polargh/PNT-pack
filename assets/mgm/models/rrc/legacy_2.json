@@ -1,0 +1,6 @@
+{
+    "parent": "pnt:deco/poster_landscape",
+    "textures": {
+        "image": "mgm:custom/rrc/legacy_2"
+    }
+}

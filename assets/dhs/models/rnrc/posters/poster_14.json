@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "dhs:rnrc/poster_base",
-	"textures": {
-		"4": "dhs:custom/rnrc/poster/poster14"
-	}
-}
