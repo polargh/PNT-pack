@@ -36,6 +36,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "pnt:rrc/music/mic"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100001
             },
             "model": "mclivefx:fixtures/light_beam_01"
