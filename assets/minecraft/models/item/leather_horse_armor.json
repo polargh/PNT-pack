@@ -42,6 +42,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "pnt:rrc/alley/light"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "pnt:rrc/alley/neon_sign_1"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100001
             },
             "model": "mclivefx:fixtures/light_beam_01"
