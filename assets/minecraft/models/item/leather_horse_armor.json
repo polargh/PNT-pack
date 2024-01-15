@@ -54,6 +54,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "pnt:rrc/alley/gutter_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "pnt:rrc/alley/gutter_2"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100001
             },
             "model": "mclivefx:fixtures/light_beam_01"
