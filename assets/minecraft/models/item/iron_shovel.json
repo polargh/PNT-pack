@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/diamond_shovel"
+            "model": "item/iron_shovel"
         }
     ]
 }
