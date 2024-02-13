@@ -316,6 +316,12 @@
                 "custom_model_data": 52
             },
             "model": "cosmetic:backpacks/biddlebag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "pnt:statues/silacide"
         }
     ]
 }
