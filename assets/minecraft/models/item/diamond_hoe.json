@@ -1695,6 +1695,12 @@
                 "custom_model_data": 293
             },
             "model": "mgm:rrc/fan"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 294
+            },
+            "model": "epcot:deco/fig_topiary"
         }
     ]
 }
