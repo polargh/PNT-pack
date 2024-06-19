@@ -1,2 +1,2 @@
 # PNT-pack
-Resource Pack Repository for Project: New Tomorrow Minecraft Server
+Resource Pack Repository for Project New Tomorrow Minecraft Server
