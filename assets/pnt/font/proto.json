@@ -5,7 +5,7 @@
         "file":"pnt:prototype.ttf",
         "shift":[0,1],
         "size":10,
-        "oversample":16
+        "oversample":5
       }
     ]
   }
