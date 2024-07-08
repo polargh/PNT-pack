@@ -1707,6 +1707,24 @@
                 "custom_model_data": 295
             },
             "model": "epcot:deco/jumping_fountains"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 296
+            },
+            "model": "epcot:deco/granite_bench"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 297
+            },
+            "model": "epcot:deco/metal_bench"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 298
+            },
+            "model": "epcot:deco/turnstile"
         }
     ]
 }
