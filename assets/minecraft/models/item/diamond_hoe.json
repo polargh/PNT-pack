@@ -1731,6 +1731,12 @@
                 "custom_model_data": 299
             },
             "model": "epcot:deco/turnstile_bar"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 300
+            },
+            "model": "epcot:deco/gateway_gifts"
         }
     ]
 }
