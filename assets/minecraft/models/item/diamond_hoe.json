@@ -1767,6 +1767,12 @@
                 "custom_model_data": 305
             },
             "model": "epcot:deco/centorium"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 306
+            },
+            "model": "epcot:deco/centorium_large"
         }
     ]
 }
