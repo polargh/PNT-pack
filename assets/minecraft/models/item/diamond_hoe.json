@@ -1737,6 +1737,24 @@
                 "custom_model_data": 300
             },
             "model": "epcot:deco/gateway_gifts"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 301
+            },
+            "model": "epcot:deco/gateway_gifts1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 302
+            },
+            "model": "epcot:deco/camera_center"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 303
+            },
+            "model": "epcot:deco/camera_center1"
         }
     ]
 }
