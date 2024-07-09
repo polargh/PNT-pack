@@ -1725,6 +1725,12 @@
                 "custom_model_data": 298
             },
             "model": "epcot:deco/turnstile"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 299
+            },
+            "model": "epcot:deco/turnstile_bar"
         }
     ]
 }
