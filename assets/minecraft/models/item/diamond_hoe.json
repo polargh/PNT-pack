@@ -1755,6 +1755,12 @@
                 "custom_model_data": 303
             },
             "model": "epcot:deco/camera_center1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 304
+            },
+            "model": "epcot:deco/stargate_sign"
         }
     ]
 }
