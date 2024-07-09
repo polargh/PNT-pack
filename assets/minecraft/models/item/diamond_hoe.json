@@ -1761,6 +1761,12 @@
                 "custom_model_data": 304
             },
             "model": "epcot:deco/stargate_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 305
+            },
+            "model": "epcot:deco/centorium"
         }
     ]
 }
