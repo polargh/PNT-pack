@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/stripped_dark_oak_log",
 		"1": "block/gray_stained_glass",
-		"2": "item/spoke",
+		"2": "epcot:deco/spoke",
 		"particle": "block/stripped_dark_oak_log"
 	},
 	"elements": [

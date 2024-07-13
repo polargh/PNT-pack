@@ -1773,6 +1773,12 @@
                 "custom_model_data": 306
             },
             "model": "epcot:deco/centorium_large"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 306
+            },
+            "model": "epcot:deco/ws_lamp"
         }
     ]
 }
