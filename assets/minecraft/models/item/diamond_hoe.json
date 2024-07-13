@@ -1776,9 +1776,33 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 306
+                "custom_model_data": 307
             },
-            "model": "epcot:deco/ws_lamp"
+            "model": "minigames:8cubes/8_cubes"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 308
+            },
+            "model": "minigames:8cubes/8_cubes_credits"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 309
+            },
+            "model": "minigames:8cubes/8_cubes_instruct"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 310
+            },
+            "model": "minigames:8cubes/8_tips"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 311
+            },
+            "model": "minigames:8cubes/8_title"
         }
     ]
 }
