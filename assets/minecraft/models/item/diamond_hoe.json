@@ -1796,13 +1796,13 @@
             "predicate": {
                 "custom_model_data": 310
             },
-            "model": "minigames:8cubes/8_tips"
+            "model": "minigames:8cubes/8_cubes_tips"
         },
 		{
             "predicate": {
                 "custom_model_data": 311
             },
-            "model": "minigames:8cubes/8_title"
+            "model": "minigames:8cubes/8_cubes_title"
         }
     ]
 }
