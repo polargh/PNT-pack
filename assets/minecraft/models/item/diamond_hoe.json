@@ -1773,6 +1773,36 @@
                 "custom_model_data": 306
             },
             "model": "epcot:deco/centorium_large"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 307
+            },
+            "model": "minigames:8cubes/8_cubes"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 308
+            },
+            "model": "minigames:8cubes/8_cubes_credits"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 309
+            },
+            "model": "minigames:8cubes/8_cubes_instruct"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 310
+            },
+            "model": "minigames:8cubes/8_cubes_tips"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 311
+            },
+            "model": "minigames:8cubes/8_cubes_title"
         }
     ]
 }
