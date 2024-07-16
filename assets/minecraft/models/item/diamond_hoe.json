@@ -1803,6 +1803,12 @@
                 "custom_model_data": 311
             },
             "model": "minigames:8cubes/8_cubes_title"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 312
+            },
+            "model": "epcot:deco/logo_planter"
         }
     ]
 }
