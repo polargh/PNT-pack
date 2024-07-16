@@ -1,8 +1,8 @@
 {
 	"credit": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"1": "block/spruce_leaves",
-		"particle": "block/spruce_leaves"
+		"1": "epcot:deco/spruce_leaves",
+		"particle": "epcot:deco/spruce_leaves"
 	},
 	"elements": [
 		{
