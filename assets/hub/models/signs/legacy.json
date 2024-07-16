@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pnt_legacy_collection_updated",
-		"particle": "pnt_legacy_collection_updated"
+		"0": "hub:custom/legacy",
+		"particle": "hub:custom/legacy"
 	},
 	"elements": [
 		{
