@@ -54,7 +54,13 @@
             "file": "pnt:font/icons/sc.png",
             "ascent": 7,
             "height": 7
-            
+        },
+        {
+            "type": "bitmap",
+            "chars": ["d"],
+            "file": "pnt:font/icons/dm.png",
+            "ascent": 7,
+            "height": 7
         }
     ]
 }
