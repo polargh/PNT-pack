@@ -47,6 +47,14 @@
             "size": 10.0,
             "oversample": 10.0,
             "type": "bitmap"
+        },
+        {
+            "type": "bitmap",
+            "chars": ["s"],
+            "file": "pnt:font/icons/sc.png",
+            "ascent": 7,
+            "height": 7
+            
         }
     ]
 }
