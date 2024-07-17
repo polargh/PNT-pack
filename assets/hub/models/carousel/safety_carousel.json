@@ -1,0 +1,6 @@
+{
+    "parent": "hub:skytower/safety_skytower",
+    "textures": {
+        "0": "hub:custom/safety_carousel"
+    }
+}

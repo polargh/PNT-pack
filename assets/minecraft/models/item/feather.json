@@ -837,6 +837,8 @@
                 "custom_model_data": 139
             },
             "model": "mgm:rrc/legacy_3"
-        }
+        },
+        {"predicate": {"custom_model_data": 140}, "model": "hub:boat/safety_boats"},
+        {"predicate": {"custom_model_data": 141}, "model": "hub:carousel/safety_carousel"}
     ]
 }
