@@ -1538,7 +1538,7 @@
             "predicate": {
                 "custom_model_data": 267
             },
-            "model": "epcot:deco/ssesign"
+            "model": "epcot:deco/sselogo"
         },
 		{
             "predicate": {
@@ -1814,7 +1814,8 @@
             "predicate": {
                 "custom_model_data": 313
             },
-            "model": "epcot:deco/turnstile_base"
-        }
+            "model": "hub:skytower/sign_1"
+        },
+        {"predicate": {"custom_model_data": 414}, "model": "epcot:deco/turnstile_base"}
     ]
 }

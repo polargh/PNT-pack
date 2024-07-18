@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pnt_boat_transport_updated",
-		"particle": "pnt_boat_transport_updated"
+		"0": "hub:custom/dock_pix",
+		"particle": "hub:custom/dock_pix"
 	},
 	"elements": [
 		{
