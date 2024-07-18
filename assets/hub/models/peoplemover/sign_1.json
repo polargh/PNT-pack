@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pnt_peoplemover_updated_2",
-		"particle": "pnt_peoplemover_updated_2"
+		"0": "hub:custom/pm_sign1",
+		"particle": "hub:custom/pm_sign1"
 	},
 	"elements": [
 		{

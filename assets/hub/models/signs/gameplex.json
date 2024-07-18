@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pnt_gameplex_updated",
-		"particle": "pnt_gameplex_updated"
+		"0": "hub:custom/gameplex",
+		"particle": "hub:custom/gameplex"
 	},
 	"elements": [
 		{

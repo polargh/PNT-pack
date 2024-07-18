@@ -1809,6 +1809,12 @@
                 "custom_model_data": 312
             },
             "model": "epcot:deco/logo_planter"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 313
+            },
+            "model": "hub:skytower/sign_1"
         }
     ]
 }
