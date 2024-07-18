@@ -2,3 +2,4 @@ pack.zip
 .DS_Store
 .git
 *.ini
+assets/minecraft/textures/block/*

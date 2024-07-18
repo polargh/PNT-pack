@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "item/handheld",
     "textures": {
-        "layer0": "item/feather"
+        "layer0": "item/diamond_hoe"
     },
     "overrides": [
         {
@@ -1809,6 +1809,12 @@
                 "custom_model_data": 312
             },
             "model": "epcot:deco/logo_planter"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 313
+            },
+            "model": "epcot:deco/turnstile_base"
         }
     ]
 }
