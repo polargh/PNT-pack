@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "epcot:deco/ssemural",
+		"particle": "epcot:deco/ssemural"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15.9],
+			"to": [16, 20.9, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

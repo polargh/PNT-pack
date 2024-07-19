@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "odysseysmall",
-		"particle": "odysseysmall"
+		"0": "epcot:deco/odyssey",
+		"particle": "epcot:deco/odyssey"
 	},
 	"elements": [
 		{

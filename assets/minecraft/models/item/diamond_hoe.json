@@ -1833,6 +1833,12 @@
 				"custom_model_data": 316
 			}, 
 			"model": "epcot:deco/fountain"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 317
+			}, 
+			"model": "epcot:deco/sse_mural"
 		}
 		
     ]
