@@ -1816,6 +1816,18 @@
             },
             "model": "hub:skytower/sign_1"
         },
-        {"predicate": {"custom_model_data": 414}, "model": "epcot:deco/turnstile_base"}
+		{
+            "predicate": {
+                "custom_model_data": 314
+            },
+            "model": "epcot:deco/odyssey"
+        },
+        {
+			"predicate": {
+				"custom_model_data": 414
+			}, 
+			"model": "epcot:deco/turnstile_base"
+		},
+		
     ]
 }
