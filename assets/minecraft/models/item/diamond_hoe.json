@@ -1839,6 +1839,18 @@
 				"custom_model_data": 317
 			}, 
 			"model": "epcot:deco/sse_mural"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 318
+			}, 
+			"model": "epcot:deco/wonders_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 319
+			}, 
+			"model": "epcot:deco/futurecom"
 		}
 		
     ]
