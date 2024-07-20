@@ -1,8 +1,0 @@
-{
-    "8cubes.checkpoint": {
-        "sounds": ["minigames:8cubes/checkpoint"]
-    },
-    "8cubes.fail": {
-        "sounds": ["minigames:8cubes/fail"]
-    }
-}
