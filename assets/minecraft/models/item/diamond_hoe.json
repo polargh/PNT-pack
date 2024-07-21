@@ -1851,6 +1851,24 @@
 				"custom_model_data": 319
 			}, 
 			"model": "epcot:deco/futurecom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 320
+			}, 
+			"model": "minigames:tag/tag_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 321
+			}, 
+			"model": "minigames:tag/tag_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 322
+			}, 
+			"model": "minigames:tag/tag_sign"
 		}
 		
     ]
