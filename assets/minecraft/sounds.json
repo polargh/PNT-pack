@@ -1,5 +1,3 @@
 {
-	"chime": {"sounds": ["chime"]},
-	"entity.warden.hurt": {"sounds": ["minigames:8cubes/checkpoint"], "replace": true},
-	"entity.warden.death": {"sounds": ["minigames:8cubes/fail"], "replace": true}
+	"chime": {"sounds": ["chime"]}
 }
