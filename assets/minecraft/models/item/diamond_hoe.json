@@ -1869,6 +1869,12 @@
 				"custom_model_data": 322
 			}, 
 			"model": "minigames:tag/tag_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 323
+			}, 
+			"model": "epcot:deco/jumping_fountains_1"
 		}
 		
     ]
