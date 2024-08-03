@@ -1875,6 +1875,24 @@
 				"custom_model_data": 323
 			}, 
 			"model": "epcot:deco/granite_bench_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 324
+			}, 
+			"model": "epcot:deco/ccw_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 325
+			}, 
+			"model": "epcot:deco/cce_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 326
+			}, 
+			"model": "epcot:deco/metlife"
 		}
 		
     ]
