@@ -1556,7 +1556,7 @@
             "predicate": {
                 "custom_model_data": 270
             },
-            "model": "epcot:deco/utcsign"
+            "model": "epcot:deco/uoesign3"
         },
 		{
             "predicate": {
