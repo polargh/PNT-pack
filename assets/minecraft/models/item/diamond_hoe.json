@@ -916,7 +916,7 @@
             },
             "model": "legacycollection:atis/oil"
         },
-                {
+        {
             "predicate": {
                 "custom_model_data": 163
             },
@@ -1438,13 +1438,13 @@
             },
             "model": "minigames:bnl/portrait"
         },
-		 {
+        {
             "predicate": {
                 "custom_model_data": 250
             },
             "model": "epcot:deco/epcotlogo"
         },
-		 {
+        {
             "predicate": {
                 "custom_model_data": 251
             },
@@ -1456,26 +1456,26 @@
             },
             "model": "legacycollection:okee/okee_stats"
         },
-		{
-			"predicate": {
+        {
+            "predicate": {
                 "custom_model_data": 254
             },
             "model": "epcot:deco/goofyabouthealth"
         },
-		{
-			"predicate": {
+        {
+            "predicate": {
                 "custom_model_data": 255
             },
             "model": "legacycollection:okee/okee_photo"
         },
-		{
-			"predicate": {
+        {
+            "predicate": {
                 "custom_model_data": 256
             },
             "model": "legacycollection:okee/long_image"
         },
-		{
-			"predicate": {
+        {
+            "predicate": {
                 "custom_model_data": 257
             },
             "model": "legacycollection:okee/poster"
@@ -1498,408 +1498,425 @@
             },
             "model": "epcot:deco/cmwestsign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 261
             },
             "model": "epcot:deco/gesign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 262
             },
             "model": "epcot:deco/horizonsign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 263
             },
             "model": "epcot:deco/jiisign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 264
             },
             "model": "epcot:deco/land_sign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 265
             },
             "model": "epcot:deco/motionsign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 266
             },
             "model": "epcot:deco/seassign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 267
             },
             "model": "epcot:deco/sselogo"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 268
             },
             "model": "epcot:deco/uoesign1"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 269
             },
             "model": "epcot:deco/uoesign2"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 270
             },
             "model": "epcot:deco/uoesign3"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 271
             },
             "model": "mgm:rrc/posters/poster_1"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 272
             },
             "model": "mgm:rrc/posters/poster_2"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 273
             },
             "model": "mgm:rrc/posters/poster_3"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 274
             },
             "model": "mgm:rrc/posters/poster_4"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 275
             },
             "model": "mgm:rrc/posters/poster_5"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 276
             },
             "model": "mgm:rrc/posters/poster_6"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 277
             },
             "model": "mgm:rrc/posters/poster_7"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 278
             },
             "model": "mgm:rrc/posters/poster_8"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 279
             },
             "model": "mgm:rrc/posters/poster_9"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 280
             },
             "model": "mgm:rrc/posters/poster_10"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 281
             },
             "model": "mgm:rrc/posters/poster_11"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 282
             },
             "model": "mgm:rrc/posters/poster_12"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 283
             },
             "model": "mgm:rrc/posters/poster_13"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 284
             },
             "model": "mgm:rrc/posters/poster_14"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 285
             },
             "model": "mgm:rrc/posters/poster_15"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 286
             },
             "model": "mgm:rrc/posters/poster_16"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 287
             },
             "model": "mgm:rrc/posters/poster_17"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 288
             },
             "model": "mgm:rrc/posters/poster_18"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 289
             },
             "model": "mgm:rrc/posters/poster_19"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 290
             },
             "model": "mgm:rrc/posters/poster_20"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 291
             },
             "model": "mgm:rrc/posters/poster_21"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 292
             },
             "model": "mgm:rrc/krnr_sign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 293
             },
             "model": "mgm:rrc/fan"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 294
             },
             "model": "epcot:deco/fig_topiary"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 295
             },
             "model": "epcot:deco/jumping_fountains"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 296
             },
             "model": "epcot:deco/granite_bench"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 297
             },
             "model": "epcot:deco/metal_bench"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 298
             },
             "model": "epcot:deco/turnstile"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 299
             },
             "model": "epcot:deco/turnstile_bar"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 300
             },
             "model": "epcot:deco/gateway_gifts"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 301
             },
             "model": "epcot:deco/gateway_gifts1"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 302
             },
             "model": "epcot:deco/camera_center"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 303
             },
             "model": "epcot:deco/camera_center1"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 304
             },
             "model": "epcot:deco/stargate_sign"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 305
             },
             "model": "epcot:deco/centorium"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 306
             },
             "model": "epcot:deco/centorium_large"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 307
             },
             "model": "minigames:8cubes/8_cubes"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 308
             },
             "model": "minigames:8cubes/8_cubes_credits"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 309
             },
             "model": "minigames:8cubes/8_cubes_instruct"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 310
             },
             "model": "minigames:8cubes/8_cubes_tips"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 311
             },
             "model": "minigames:8cubes/8_cubes_title"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 312
             },
             "model": "epcot:deco/logo_planter"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 313
             },
             "model": "hub:skytower/sign_1"
         },
-		{
-			"predicate": {
-				"custom_model_data": 314
-			}, 
-			"model": "epcot:deco/turnstile_base"
-		},
-		{
+        {
+            "predicate": {
+                "custom_model_data": 314
+            },
+            "model": "epcot:deco/turnstile_base"
+        },
+        {
             "predicate": {
                 "custom_model_data": 315
             },
             "model": "epcot:deco/odyssey"
         },
         {
-			"predicate": {
-				"custom_model_data": 316
-			}, 
-			"model": "epcot:deco/fountain"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 317
-			}, 
-			"model": "epcot:deco/sse_mural"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 318
-			}, 
-			"model": "epcot:deco/wonders_sign"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 319
-			}, 
-			"model": "epcot:deco/futurecom"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 320
-			}, 
-			"model": "minigames:tag/tag_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 321
-			}, 
-			"model": "minigames:tag/tag_2"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 322
-			}, 
-			"model": "minigames:tag/tag_sign"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 323
-			}, 
-			"model": "epcot:deco/granite_bench_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 324
-			}, 
-			"model": "epcot:deco/ccw_sign"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 325
-			}, 
-			"model": "epcot:deco/cce_sign"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 326
-			}, 
-			"model": "epcot:deco/metlife"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 327
-			}, 
-			"model": "hub:signs/epcot_gateway"
-		}
-		
+            "predicate": {
+                "custom_model_data": 316
+            },
+            "model": "epcot:deco/fountain"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 317
+            },
+            "model": "epcot:deco/sse_mural"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 318
+            },
+            "model": "epcot:deco/wonders_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 319
+            },
+            "model": "epcot:deco/futurecom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 320
+            },
+            "model": "minigames:tag/tag_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 321
+            },
+            "model": "minigames:tag/tag_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 322
+            },
+            "model": "minigames:tag/tag_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 323
+            },
+            "model": "epcot:deco/granite_bench_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 324
+            },
+            "model": "epcot:deco/ccw_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 325
+            },
+            "model": "epcot:deco/cce_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 326
+            },
+            "model": "epcot:deco/metlife"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 327
+            },
+            "model": "hub:signs/epcot_gateway"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 328
+            },
+            "model": "pnt:rrc/vehicle/front"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 329
+            },
+            "model": "pnt:rrc/vehicle/front"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 330
+            },
+            "model": "pnt:rrc/vehicle/front"
+        }
     ]
 }
