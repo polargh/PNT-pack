@@ -1893,6 +1893,12 @@
 				"custom_model_data": 326
 			}, 
 			"model": "epcot:deco/metlife"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 327
+			}, 
+			"model": "hub:signs/epcot_gateway"
 		}
 		
     ]
