@@ -1,6 +1,6 @@
 {
    "parent": "epcot:cc/backstage/bck1",
    "textures": {
-		"0": "epcot:show/backstage/s09"
+		"0": "epcot:deco/backstage/s09"
    }
 }

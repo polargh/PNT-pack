@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "epcot:show/backstage/s01",
-		"1": "block/black_concrete",
+		"0": "epcot:deco/backstage/s01",
+		"1": "minecraft:block/black_concrete",
 		"particle": "epcot:show/backstage/s01"
 	},
 	"elements": [
