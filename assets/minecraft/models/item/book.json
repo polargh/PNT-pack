@@ -27,6 +27,18 @@
                 "custom_model_data": 4
             },
             "model": "cosmetic:heads/donaldhead_suit"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "cosmetic:heads/donaldhead_nohat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "cosmetic:heads/mickeyhead"
         }
     ]
 }
