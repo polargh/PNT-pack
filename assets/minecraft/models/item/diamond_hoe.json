@@ -1929,6 +1929,18 @@
                 "custom_model_data": 332
             },
             "model": "epcot:deco/figship"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "epcot:deco/sse_poster"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "epcot:deco/motionsign_small"
         }
     ]
 }
