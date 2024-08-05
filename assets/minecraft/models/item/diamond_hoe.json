@@ -1938,7 +1938,7 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 333
+                "custom_model_data": 334
             },
             "model": "epcot:deco/motionsign_small"
         }
