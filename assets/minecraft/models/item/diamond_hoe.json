@@ -1910,33 +1910,33 @@
             "predicate": {
                 "custom_model_data": 329
             },
-            "model": "pnt:rrc/vehicle/front"
+            "model": "pnt:rrc/vehicle/mid"
         },
         {
             "predicate": {
                 "custom_model_data": 330
             },
-            "model": "pnt:rrc/vehicle/front"
+            "model": "pnt:rrc/vehicle/end"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 331
             },
             "model": "epcot:deco/pop_clock1"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 332
             },
             "model": "epcot:deco/figship"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 333
             },
             "model": "epcot:deco/sse_poster"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 334
             },
