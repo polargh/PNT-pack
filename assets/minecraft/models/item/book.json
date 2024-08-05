@@ -15,6 +15,30 @@
                 "custom_model_data": 2
             },
             "model": "pnt:deco/ride_stats_generic"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "cosmetic:heads/mickeyhead_suit"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "cosmetic:heads/donaldhead_suit"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "cosmetic:heads/donaldhead_nohat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "cosmetic:heads/mickeyhead"
         }
     ]
 }

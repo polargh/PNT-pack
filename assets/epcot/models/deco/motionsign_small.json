@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "epcot:deco/motionsign",
+		"particle": "epcot:deco/motionsign"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7.9],
+			"to": [16, 8.2, 7.91],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 6.1]},
+			"faces": {
+				"south": {"uv": [0, 8.525, 16, 15.6875], "texture": "#0"}
+			}
+		}
+	]
+}

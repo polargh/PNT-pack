@@ -1,0 +1,290 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/sugar"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "epcot:cc/backstage/bck0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "epcot:cc/backstage/bck1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "epcot:cc/backstage/bck2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "epcot:cc/backstage/bck3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "epcot:cc/backstage/bck4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "epcot:cc/backstage/bck5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "epcot:cc/backstage/bck6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "epcot:cc/backstage/bck7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "epcot:cc/backstage/bck8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "epcot:cc/backstage/bck9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "epcot:cc/backstage/bck10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "epcot:cc/backstage/bck11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "epcot:cc/backstage/bck12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "epcot:cc/backstage/bck13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "epcot:cc/backstage/bck14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "epcot:cc/backstage/bck15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "epcot:cc/backstage/bck16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "epcot:cc/backstage/bck17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "epcot:cc/backstage/bck18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "epcot:cc/backstage/bck19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "epcot:cc/backstage/bck20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "epcot:cc/backstage/bck21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "epcot:cc/backstage/bck22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "epcot:cc/backstage/bck23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "epcot:cc/backstage/bck24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "epcot:cc/backstage/bck25"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "epcot:cc/backstage/bck26"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "epcot:cc/backstage/bck27"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "epcot:cc/backstage/bck28"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "epcot:cc/backstage/bck29"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "epcot:cc/backstage/bck30"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "epcot:cc/backstage/bck31"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "epcot:cc/backstage/bck32"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "epcot:cc/backstage/bck33"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "epcot:cc/backstage/bck34"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "epcot:cc/backstage/bck35"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "epcot:cc/backstage/bck36"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "epcot:cc/backstage/bck37"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "epcot:cc/backstage/bck38"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "epcot:cc/backstage/bck39"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "epcot:cc/backstage/bck40"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "epcot:cc/backstage/bck41"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "epcot:cc/backstage/bck42"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "epcot:cc/backstage/bck43"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "epcot:cc/backstage/bck44"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "epcot:cc/backstage/bck45"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "epcot:cc/backstage/bck46"
+        }
+    ]
+}
