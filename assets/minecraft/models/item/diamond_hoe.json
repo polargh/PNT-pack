@@ -1965,6 +1965,12 @@
                 "custom_model_data": 338
             },
             "model": "epcot:deco/airplane_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 339
+            },
+            "model": "epcot:deco/amex_wood"
         }
     ]
 }
