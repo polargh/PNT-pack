@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "airplane",
+		"0": "epcot:deco/airplane",
 		"1": "block/black_stained_glass",
 		"2": "block/furnace_side",
-		"particle": "airplane"
+		"particle": "epcot:deco/airplane"
 	},
 	"elements": [
 		{
