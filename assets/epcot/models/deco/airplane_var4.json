@@ -1,0 +1,6 @@
+{
+   "parent": "epcot:deco/airplane",
+   "textures": {
+		"0": "epcot:deco/airplane5"
+   }
+}
