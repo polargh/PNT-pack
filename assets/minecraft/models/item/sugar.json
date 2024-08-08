@@ -285,6 +285,12 @@
                 "custom_model_data": 47
             },
             "model": "epcot:cc/backstage/bck46"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "epcot:deco/earth_station"
         }
     ]
 }
