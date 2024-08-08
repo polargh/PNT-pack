@@ -2037,6 +2037,36 @@
                 "custom_model_data": 350
             },
             "model": "epcot:deco/dir/epcot_dir_k"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 351
+            },
+            "model": "epcot:deco/airplane_var1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 352
+            },
+            "model": "epcot:deco/airplane_var2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 353
+            },
+            "model": "epcot:deco/airplane_var3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 354
+            },
+            "model": "epcot:deco/airplane_var4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 355
+            },
+            "model": "epcot:deco/roads"
         }
     ]
 }
