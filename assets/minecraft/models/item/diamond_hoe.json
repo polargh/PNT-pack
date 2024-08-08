@@ -1971,6 +1971,72 @@
                 "custom_model_data": 339
             },
             "model": "epcot:deco/amex_wood"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 340
+            },
+            "model": "epcot:deco/dir/epcot_dir_a"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 341
+            },
+            "model": "epcot:deco/dir/epcot_dir_b"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 342
+            },
+            "model": "epcot:deco/dir/epcot_dir_c"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 343
+            },
+            "model": "epcot:deco/dir/epcot_dir_d"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 344
+            },
+            "model": "epcot:deco/dir/epcot_dir_e"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 345
+            },
+            "model": "epcot:deco/dir/epcot_dir_f"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 346
+            },
+            "model": "epcot:deco/dir/epcot_dir_g"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 347
+            },
+            "model": "epcot:deco/dir/epcot_dir_h"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 348
+            },
+            "model": "epcot:deco/dir/epcot_dir_i"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 349
+            },
+            "model": "epcot:deco/dir/epcot_dir_j"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 350
+            },
+            "model": "epcot:deco/dir/epcot_dir_k"
         }
     ]
 }
