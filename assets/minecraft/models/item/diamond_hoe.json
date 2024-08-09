@@ -2067,6 +2067,30 @@
                 "custom_model_data": 355
             },
             "model": "epcot:deco/roads"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 356
+            },
+            "model": "epcot:deco/getsetjet"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 357
+            },
+            "model": "epcot:deco/coaster"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 358
+            },
+            "model": "epcot:deco/puzzle"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 359
+            },
+            "model": "epcot:deco/manufactory"
         }
     ]
 }
