@@ -2091,6 +2091,66 @@
                 "custom_model_data": 359
             },
             "model": "epcot:deco/manufactory"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 360
+            },
+            "model": "epcot:deco/pop_clock2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 361
+            },
+            "model": "minigames:bowl/pin"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 362
+            },
+            "model": "minigames:bowl/bowl_roll"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 363
+            },
+            "model": "minigames:bowl/surfboard_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 364
+            },
+            "model": "minigames:bowl/surfboard_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 365
+            },
+            "model": "minigames:bowl/surfboard_3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 366
+            },
+            "model": "minigames:bowl/bowl_how_to"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 367
+            },
+            "model": "minigames:bowl/bowl_how_to_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 368
+            },
+            "model": "minigames:bowl/bowl_tips"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 369
+            },
+            "model": "minigames:bowl/bowl_tips_sign"
         }
     ]
 }
