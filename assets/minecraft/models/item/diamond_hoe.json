@@ -2151,6 +2151,12 @@
                 "custom_model_data": 369
             },
             "model": "minigames:bowl/bowl_tips_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 370
+            },
+            "model": "epcot:deco/pop_clock3"
         }
     ]
 }
