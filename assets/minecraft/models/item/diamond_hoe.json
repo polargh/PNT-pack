@@ -2157,6 +2157,36 @@
                 "custom_model_data": 370
             },
             "model": "epcot:deco/pop_clock3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 371
+            },
+            "model": "epcot:deco/julie_h"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 372
+            },
+            "model": "epcot:deco/julie_body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 373
+            },
+            "model": "epcot:deco/julie_arm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 374
+            },
+            "model": "epcot:deco/julie_lleg"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 375
+            },
+            "model": "epcot:deco/julie_rleg"
         }
     ]
 }

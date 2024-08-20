@@ -1,0 +1,6 @@
+{
+	"parent": "custom/body/body_la_slim",
+	"textures": {
+		"0": "pnt:custom/skins/julie"
+	}
+}
