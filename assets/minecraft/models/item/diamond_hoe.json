@@ -2180,13 +2180,13 @@
             "predicate": {
                 "custom_model_data": 374
             },
-            "model": "epcot:deco/julie_lleg"
+            "model": "epcot:deco/julie_ll"
         },
 		{
             "predicate": {
                 "custom_model_data": 375
             },
-            "model": "epcot:deco/julie_rleg"
+            "model": "epcot:deco/julie_rl"
         }
     ]
 }
