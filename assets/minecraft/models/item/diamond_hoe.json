@@ -2187,6 +2187,12 @@
                 "custom_model_data": 375
             },
             "model": "epcot:deco/julie_rl"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 376
+            },
+            "model": "epcot:deco/wind_turbine"
         }
     ]
 }
