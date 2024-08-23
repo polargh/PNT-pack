@@ -2235,6 +2235,18 @@
                 "custom_model_data": 383
             },
             "model": "epcot:deco/stargate_large"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 384
+            },
+            "model": "epcot:deco/epcottram_front"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 385
+            },
+            "model": "epcot:deco/epcottram_car"
         }
     ]
 }
