@@ -2193,6 +2193,48 @@
                 "custom_model_data": 376
             },
             "model": "epcot:deco/wind_turbine"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 377
+            },
+            "model": "epcot:deco/energy_exchange_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 378
+            },
+            "model": "epcot:deco/ee_rings"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 379
+            },
+            "model": "epcot:deco/stargate_menu"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 380
+            },
+            "model": "epcot:deco/ee_circle1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 381
+            },
+            "model": "epcot:deco/ee_circle2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 382
+            },
+            "model": "epcot:deco/ee_circle3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 383
+            },
+            "model": "epcot:deco/stargate_large"
         }
     ]
 }
