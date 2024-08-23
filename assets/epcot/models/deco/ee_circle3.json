@@ -1,0 +1,6 @@
+{
+	"parent": "epcot:deco/ee_circle1",
+	"textures": {
+		"0": "epcot:deco/ee_spinner3"
+	}
+}
