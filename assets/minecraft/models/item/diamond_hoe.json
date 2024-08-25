@@ -2247,6 +2247,30 @@
                 "custom_model_data": 385
             },
             "model": "epcot:deco/epcottram_car"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 386
+            },
+            "model": "epcot:deco/earth_station"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 387
+            },
+            "model": "epcot:deco/sse_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 388
+            },
+            "model": "epcot:deco/es_sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 389
+            },
+            "model": "epcot:deco/visit_futurecom"
         }
     ]
 }
