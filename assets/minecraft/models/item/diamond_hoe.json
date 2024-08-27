@@ -2277,6 +2277,18 @@
                 "custom_model_data": 390
             },
             "model": "epcot:deco/neon_mickey"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 391
+            },
+            "model": "epcot:deco/satellite"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 392
+            },
+            "model": "epcot:deco/c_a_c"
         }
     ]
 }
