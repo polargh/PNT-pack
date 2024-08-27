@@ -2271,6 +2271,12 @@
                 "custom_model_data": 389
             },
             "model": "epcot:deco/visit_futurecom"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 390
+            },
+            "model": "epcot:deco/neon_mickey"
         }
     ]
 }
