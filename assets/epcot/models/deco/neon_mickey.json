@@ -2662,12 +2662,7 @@
 			"to": [8.29158, 15.20419, 13.03972],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8.01908, 13.44208, 10.89515]},
 			"faces": {
-				"north": {"uv": [8, 7, 9, 8], "rotation": 90, "texture": "#missing"},
-				"east": {"uv": [8, 7, 9, 8], "texture": "#missing"},
-				"south": {"uv": [8, 7, 9, 8], "rotation": 270, "texture": "#missing"},
-				"west": {"uv": [0, 0, 12.25, 14.875], "rotation": 180, "texture": "#5"},
-				"up": {"uv": [8, 7, 9, 8], "rotation": 270, "texture": "#missing"},
-				"down": {"uv": [8, 7, 9, 8], "rotation": 90, "texture": "#missing"}
+				"west": {"uv": [0, 0, 12.25, 14.875], "rotation": 180, "texture": "#5"}
 			}
 		},
 		{
