@@ -2301,6 +2301,18 @@
                 "custom_model_data": 394
             },
             "model": "epcot:deco/dir/epcot_dir_com2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 395
+            },
+            "model": "epcot:deco/mickey_centorium"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 396
+            },
+            "model": "epcot:deco/dir/donald_centorium"
         }
     ]
 }
