@@ -1,6 +1,6 @@
 {
    "parent": "epcot:deco/dir/epcot_dir_com1",
    "textures": {
-		"0": "epcot:deco/dir/com2"
+		"1": "epcot:deco/dir/epcot_dir_com2"
    }
 }
