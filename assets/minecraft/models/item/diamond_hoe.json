@@ -2319,6 +2319,12 @@
                 "custom_model_data": 397
             },
             "model": "epcot:deco/figment_arm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 398
+            },
+            "model": "epcot:deco/fig_weather"
         }
     ]
 }
