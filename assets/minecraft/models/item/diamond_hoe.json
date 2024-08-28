@@ -2312,7 +2312,7 @@
             "predicate": {
                 "custom_model_data": 396
             },
-            "model": "epcot:deco/dir/donald_centorium"
+            "model": "epcot:deco/donald_centorium"
         }
     ]
 }
