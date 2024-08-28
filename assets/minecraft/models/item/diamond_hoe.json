@@ -2313,6 +2313,12 @@
                 "custom_model_data": 396
             },
             "model": "epcot:deco/donald_centorium"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 397
+            },
+            "model": "epcot:deco/figment_arm"
         }
     ]
 }
