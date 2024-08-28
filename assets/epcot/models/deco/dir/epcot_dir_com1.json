@@ -1,9 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/polished_andesite",
-		"1": "epcot:deco/dir/epcot_dir_com1",
-		"particle": "block/polished_andesite"
+		"0": "minecraft:block/polished_andesite",
+		"1": "epcot:deco/dir/epcot_dir_com1"
 	},
 	"elements": [
 		{

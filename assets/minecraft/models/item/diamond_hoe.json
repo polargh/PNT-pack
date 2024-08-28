@@ -2298,7 +2298,7 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 392
+                "custom_model_data": 394
             },
             "model": "epcot:deco/dir/epcot_dir_com2"
         }
