@@ -2325,6 +2325,24 @@
                 "custom_model_data": 398
             },
             "model": "epcot:deco/fig_weather"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 399
+            },
+            "model": "epcot:deco/smrt1_body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 400
+            },
+            "model": "epcot:deco/smrt1_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 401
+            },
+            "model": "epcot:deco/smrt1_arm"
         }
     ]
 }
