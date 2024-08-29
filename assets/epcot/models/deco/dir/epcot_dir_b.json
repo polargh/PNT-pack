@@ -4,6 +4,9 @@
 		"0": "epcot:deco/dir/epcot_dir_b4",
 		"1": "epcot:deco/dir/epcot_dir_pole",
 		"2": "entity/decorated_pot/decorated_pot_side",
+		"3": "epcot:deco/dir/epcot_dir_b2",
+		"4": "epcot:deco/dir/epcot_dir_b1",
+		"5": "epcot:deco/dir/epcot_dir_b3",
 		"particle": "epcot:deco/dir/epcot_dir_b4"
 	},
 	"elements": [
@@ -12,10 +15,10 @@
 			"to": [11, 19.25, 11],
 			"rotation": {"angle": 0, "axis": "y", "origin": [5, 5.75, 5]},
 			"faces": {
-				"north": {"uv": [0, 0, 6.875, 16], "texture": "#0"},
+				"north": {"uv": [0, 0, 6.875, 16], "texture": "#5"},
 				"east": {"uv": [0, 0, 6.875, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 6.875, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 6.875, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 6.875, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 6.875, 16], "texture": "#3"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
