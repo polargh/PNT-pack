@@ -2343,6 +2343,18 @@
                 "custom_model_data": 401
             },
             "model": "epcot:deco/smrt1_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 402
+            },
+            "model": "epcot:deco/epcottram_back"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 403
+            },
+            "model": "epcot:deco/epcottram_tire"
         }
     ]
 }
