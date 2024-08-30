@@ -2355,6 +2355,19 @@
                 "custom_model_data": 403
             },
             "model": "epcot:deco/epcottram_tire"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 404
+            },
+            "model": "epcot:deco/stargate_menu_l"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 405
+            },
+            "model": "cosmetic:heads/goofyhead"
         }
+		
     ]
 }
