@@ -2433,6 +2433,12 @@
                 "custom_model_data": 416
             },
             "model": "epcot:deco/stars"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 417
+            },
+            "model": "epcot:deco/pilot_bm"
         }
 		
     ]
