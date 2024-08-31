@@ -1,0 +1,6 @@
+{
+   "parent": "epcot:deco/jet_set_1",
+   "textures": {
+		"0": "epcot:deco/jetset_2"
+   }
+}

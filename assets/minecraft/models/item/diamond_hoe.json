@@ -2373,6 +2373,66 @@
                 "custom_model_data": 406
             },
             "model": "epcot:deco/travelport"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 407
+            },
+            "model": "epcot:deco/ee_oilgas"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 408
+            },
+            "model": "epcot:deco/jet_set_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 409
+            },
+            "model": "epcot:deco/jet_set_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 410
+            },
+            "model": "epcot:deco/jet_set_3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 411
+            },
+            "model": "epcot:deco/jet_set_4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 412
+            },
+            "model": "epcot:deco/jet_set_5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 413
+            },
+            "model": "epcot:deco/jet_set_6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 414
+            },
+            "model": "epcot:deco/redstripes"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 415
+            },
+            "model": "epcot:deco/whitestripes"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 416
+            },
+            "model": "epcot:deco/stars"
         }
 		
     ]

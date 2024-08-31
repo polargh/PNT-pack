@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "epcot:deco/redstripes",
+		"particle": "epcot:deco/redstripes"
+	},
+	"elements": [
+		{
+			"from": [3.4, 0, 0],
+			"to": [12.7, 17.3, 0.1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "epcot:deco/redstripes",
+   "textures": {
+		"0": "epcot:deco/whitestripes"
+   }
+}
