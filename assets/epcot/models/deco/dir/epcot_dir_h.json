@@ -1,0 +1,6 @@
+{
+   "parent": "epcot:deco/dir/epcot_dir_c",
+   "textures": {
+		"0": "epcot:deco/dir/epcot_dir_h1",
+		"3": "epcot:deco/dir/epcot_dir_h2"
+}
