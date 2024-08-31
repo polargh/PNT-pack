@@ -2367,6 +2367,12 @@
                 "custom_model_data": 405
             },
             "model": "cosmetic:heads/goofyhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 406
+            },
+            "model": "epcot:deco/travelport"
         }
 		
     ]
