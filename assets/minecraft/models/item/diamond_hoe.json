@@ -2439,6 +2439,12 @@
                 "custom_model_data": 417
             },
             "model": "epcot:deco/pilot_bm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 418
+            },
+            "model": "epcot:deco/imagination_lamp"
         }
 		
     ]
