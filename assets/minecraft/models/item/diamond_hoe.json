@@ -2445,7 +2445,12 @@
                 "custom_model_data": 418
             },
             "model": "epcot:deco/imagination_lamp"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 419
+            },
+            "model": "epcot:deco/figment"
         }
-		
     ]
 }
