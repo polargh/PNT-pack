@@ -2451,6 +2451,48 @@
                 "custom_model_data": 419
             },
             "model": "epcot:deco/figment"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 420
+            },
+            "model": "legacycollection:okee/okeecarrot1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 421
+            },
+            "model": "legacycollection:okee/okeecarrot2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 422
+            },
+            "model": "legacycollection:okee/okeecarrot3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 423
+            },
+            "model": "legacycollection:okee/okeecarrot4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 424
+            },
+            "model": "legacycollection:okee/okeecarrot5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 425
+            },
+            "model": "legacycollection:okee/carrotmouth"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 426
+            },
+            "model": "legacycollection:okee/okeefish"
         }
     ]
 }
