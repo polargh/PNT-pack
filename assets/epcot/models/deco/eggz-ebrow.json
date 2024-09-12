@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "epcot:deco/eggz"
+	},
+	"elements": [
+		{
+			"from": [7.68192, 10.78106, 3.49843],
+			"to": [9.43192, 11.28106, 3.74843],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [9.18192, 4.78106, 6.99843]},
+			"faces": {
+				"north": {"uv": [5.5, 0.75, 5.9375, 0.875], "texture": "#0"},
+				"east": {"uv": [5.5, 0.75, 5.9375, 0.875], "texture": "#0"},
+				"south": {"uv": [5.5, 0.75, 5.9375, 0.875], "texture": "#0"},
+				"west": {"uv": [5.5, 0.75, 5.9375, 0.875], "texture": "#0"},
+				"up": {"uv": [5.5, 0.75, 5.9375, 0.875], "texture": "#0"},
+				"down": {"uv": [5.5, 0.75, 5.9375, 0.875], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.39, 0.39, 0.39]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.39, 0.39, 0.39]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 15, 0],
+			"scale": [0.39, 0.39, 0.39]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 15, 0],
+			"scale": [0.39, 0.39, 0.39]
+		},
+		"ground": {
+			"translation": [0, 10.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [24, 144, 0],
+			"translation": [0, 3.75, 0],
+			"scale": [0.76, 0.76, 0.76]
+		},
+		"head": {
+			"translation": [0, 5.75, 0],
+			"scale": [1.73, 1.73, 1.73]
+		},
+		"fixed": {
+			"translation": [0, 6.25, 0],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "Eyebrow",
+			"origin": [7, 0, 7],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

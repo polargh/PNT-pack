@@ -2493,6 +2493,60 @@
                 "custom_model_data": 426
             },
             "model": "legacycollection:okee/okeefish"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 427
+            },
+            "model": "epcot:deco/eggz-bowtie"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 428
+            },
+            "model": "epcot:deco/eggz-cane"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 429
+            },
+            "model": "epcot:deco/eggz-ebrow"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 430
+            },
+            "model": "epcot:deco/eggz-elid"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 431
+            },
+            "model": "epcot:deco/eggz-foot"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 432
+            },
+            "model": "epcot:deco/eggz-hat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 433
+            },
+            "model": "epcot:deco/eggz-leg"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 434
+            },
+            "model": "epcot:deco/eggz-mouth"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 435
+            },
+            "model": "epcot:deco/eggz-torso"
         }
     ]
 }
