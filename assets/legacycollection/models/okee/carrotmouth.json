@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "carrot",
-		"1": "mouth",
-		"2": "eyes",
-		"3": "stem",
-		"4": "block/carrot bottom",
-		"particle": "carrot"
+		"0": "legacycollection:custom/okee/carrot",
+		"1": "legacycollection:custom/okee/mouth",
+		"2": "legacycollection:custom/okee/eyes",
+		"3": "legacycollection:custom/okee/stem",
+		"4": "legacycollection:custom/okee/carrot_bottom",
+		"particle": "legacycollection:custom/okee/carrot"
 	},
 	"elements": [
 		{
