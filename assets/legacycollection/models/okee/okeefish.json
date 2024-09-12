@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "fish",
+		"0": "legacycollection:custom/okee/fish",
 		"1": "Sign",
-		"2": "okee_no_fishing_sign_grapic",
-		"3": "nails",
-		"particle": "fish"
+		"2": "legacycollection:custom/okee/no_fishing",
+		"3": "legacycollection:custom/okee/nails",
+		"particle": "legacycollection:custom/okee/fish"
 	},
 	"elements": [
 		{
