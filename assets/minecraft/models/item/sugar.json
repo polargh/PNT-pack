@@ -291,6 +291,438 @@
                 "custom_model_data": 48
             },
             "model": "epcot:deco/earth_station"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "epcot:cc/bm_pre/1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "epcot:cc/bm_pre/2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "epcot:cc/bm_pre/3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "epcot:cc/bm_pre/4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "epcot:cc/bm_pre/5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "epcot:cc/bm_pre/6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "epcot:cc/bm_pre/7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "epcot:cc/bm_pre/8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "epcot:cc/bm_pre/9"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "epcot:cc/bm_pre/10"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "epcot:cc/bm_pre/11"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "epcot:cc/bm_pre/12"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "epcot:cc/bm_pre/13"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "epcot:cc/bm_pre/14"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "epcot:cc/bm_pre/15"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "epcot:cc/bm_pre/16"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "epcot:cc/bm_pre/17"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "epcot:cc/bm_pre/18"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "epcot:cc/bm_pre/19"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "epcot:cc/bm_pre/20"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "epcot:cc/bm_pre/21"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "epcot:cc/bm_pre/22"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "epcot:cc/bm_pre/23"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "epcot:cc/bm_pre/24"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "epcot:cc/bm_pre/25"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "epcot:cc/bm_pre/26"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "epcot:cc/bm_pre/27"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "epcot:cc/bm_pre/28"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "epcot:cc/bm_pre/29"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "epcot:cc/bm_pre/30"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "epcot:cc/bm_pre/31"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "epcot:cc/bm_pre/32"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "epcot:cc/bm_pre/33"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "epcot:cc/bm_pre/34"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "epcot:cc/bm_pre/35"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "epcot:cc/bm_pre/36"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "epcot:cc/bm_pre/37"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "epcot:cc/bm_pre/38"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "epcot:cc/bm_pre/39"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "epcot:cc/bm_pre/40"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "epcot:cc/bm_pre/41"
+        }
+		{
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "epcot:cc/bm_pre/42"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "epcot:cc/bm_pre/43"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "epcot:cc/bm_pre/44"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "epcot:cc/bm_pre/45"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "epcot:cc/bm_pre/46"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "epcot:cc/bm_pre/47"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "epcot:cc/bm_pre/48"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 97
+            },
+            "model": "epcot:cc/bm_pre/49"
+        }
+		{
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "epcot:cc/bm_pre/50"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "epcot:cc/bm_pre/51"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "epcot:cc/bm_pre/52"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "epcot:cc/bm_pre/53"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "epcot:cc/bm_pre/54"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "epcot:cc/bm_pre/55"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "epcot:cc/bm_pre/56"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "epcot:cc/bm_pre/57"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "epcot:cc/bm_pre/58"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "epcot:cc/bm_pre/59"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "epcot:cc/bm_pre/60"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "epcot:cc/bm_pre/61"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "epcot:cc/bm_pre/62"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "epcot:cc/bm_pre/63"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "epcot:cc/bm_pre/64"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "epcot:cc/bm_pre/65"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "epcot:cc/bm_pre/66"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "epcot:cc/bm_pre/67"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "epcot:cc/bm_pre/68"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "epcot:cc/bm_pre/69"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "epcot:cc/bm_pre/70"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 119
+            },
+            "model": "epcot:cc/bm_pre/71"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 120
+            },
+            "model": "epcot:cc/bm_pre/72"
         }
     ]
 }
