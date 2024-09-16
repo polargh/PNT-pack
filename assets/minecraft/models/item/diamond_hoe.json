@@ -2547,6 +2547,60 @@
                 "custom_model_data": 435
             },
             "model": "epcot:deco/eggz-torso"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 436
+            },
+            "model": "legacycollection:okee/okeechicken"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 437
+            },
+            "model": "legacycollection:okee/okeeduck"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 438
+            },
+            "model": "legacycollection:okee/screamingchicken"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 439
+            },
+            "model": "legacycollection:okee/okee_melontop1"
+        }
+		{
+            "predicate": {
+                "custom_model_data": 440
+            },
+            "model": "legacycollection:okee/okee_melontop2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 441
+            },
+            "model": "legacycollection:okee/okee_melontop3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 442
+            },
+            "model": "legacycollection:okee/okee_melontop4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 443
+            },
+            "model": "legacycollection:okee/okee_melonbottom"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 444
+            },
+            "model": "legacycollection:okee/chickenwing"
         }
     ]
 }
