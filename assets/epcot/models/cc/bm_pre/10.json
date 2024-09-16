@@ -1,6 +1,6 @@
 {
    "parent": "epcot:cc/bm_pre/1",
    "textures": {
-		"0": "epcot:deco/bm_pre/10"
+		"3": "epcot:deco/bm_pre/10"
    }
 }

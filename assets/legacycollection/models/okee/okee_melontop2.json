@@ -1,6 +1,6 @@
 {
    "parent": "legacycollection:okee/okee_melontop1",
    "textures": {
-		"0": "legacycollection:custom/okee/okee_melontop2"
+		"0": "legacycollection:custom/okee/melontop2"
    }
 }
