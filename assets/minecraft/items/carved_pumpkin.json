@@ -1,0 +1,807 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/aviators"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/bender"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/bobross"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/bowler"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/captainhat"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/chefhat"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/conehat"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/davyjones"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/divehelmet"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/donaldcap"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/drfhat"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/goofycap"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/hunny"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/incredimask"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/jacksparrow"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/jafar"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/luigihat"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/mannycap"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/matercap"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/mistletoehat"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/oogiehat"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/patriotic"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/perrycap"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/plutocap"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/santahat"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/snowmancap"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/soldierhat"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/tot"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/turkeyhat"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/witchhat"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/squid_hat"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/alienhb"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/arielhb"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/bingbonghb"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/bwminniehb"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/candycornhb"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/caphb"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/chernabog"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/classicminniehb"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/devilhb"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/dolehb"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/donaldbutthb"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/donaldhb2"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/donuthb"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/dumbohb"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/gingerbreadhb"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/millenialpinkhb"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/ortensiahb"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/ortensiahb1"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/oswaldhb"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/pepperminthb"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/tothb2"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/clown"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/gmrcast"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/halloween"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/happymeal"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/harryhat"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/homer_head"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/loki"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/longhornhat"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/luxo"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/magicianhat"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/maleficent"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/patriotichb"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/pilot"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/racoonhat"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/doryearhat"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/sidbaby"
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/angelmickeyearhat"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/baymaxearhat"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/bellhopearhat"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/bluemickeyearhat"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/buzzearhat"
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/chipearhat"
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/daleearhat"
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/dolewhipearhat"
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/eveearhat"
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/icecreamearhat"
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/jackskellingtonearhat"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/kermitearhat"
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/limemickeyearhat"
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/mickeyfaceearhat"
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/mickeymouseclubearhat"
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/pinkmickeyearhat"
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/poohearhat"
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/purplemickeyearhat"
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/r2d2mickeyearhat"
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/redmickeyearhat"
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/remyearhat"
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/retroearhat"
+                }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/steamboatwillieearhat"
+                }
+            },
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/steamboatwilliefaceearhat"
+                }
+            },
+            {
+                "threshold": 93,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/stitchmickeyearhat"
+                }
+            },
+            {
+                "threshold": 94,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/tealmickeyearhat"
+                }
+            },
+            {
+                "threshold": 95,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/yodaearhat"
+                }
+            },
+            {
+                "threshold": 96,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/zombiemickeyearhat"
+                }
+            },
+            {
+                "threshold": 97,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/spacemtn"
+                }
+            },
+            {
+                "threshold": 98,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/spongetophat"
+                }
+            },
+            {
+                "threshold": 99,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/lightyearhb"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/figmenthb"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/oswaldfaceearhat"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/pntcap"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:hats/pntearhat"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/pnthb"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/dclhb"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/101dalmatiansheadband"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/atisheadband"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/dclheadband2"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/dfheadband"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/mickeybarheadband"
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/minniefaceheadband"
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/mmcpinkheadband"
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/mtwheadband"
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:headbands/familybandhb"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1017 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:peoplemover/vehicle"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:peoplemover/doors/1"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:peoplemover/doors/2"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/1"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/2"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/seat"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/door"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/center"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/sign"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/light"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/lightlong"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:peoplemover/sign"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:boat/sign"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:mtw/theater/mtw1"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:mtw/theater/mtw2"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:mtw/theater/mtw3"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:mtw/theater/mtw4"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:mtw/theater/mtwwall1"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:mtw/theater/mtwwall2"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:horizons/horizonsvehicle"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/atis"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/atis_door"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/queue_snowflake1"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/queue_snowflake2"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/queue_snowflake3"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/queue_snowflake4"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscope"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/atissmall"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscope1"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscope2"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscope3"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscope4"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscope5"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:boat/hboat1"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:boat/hboat2"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:boat/hboat3"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:boat/hbgate"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/h2o_ring"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:skytower/safety_skytower"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:peoplemover/safety_mover"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop0"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop1"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop2"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop3"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop4"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop5"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop6"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/queue/atisdisplayprop7"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscopelight"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/microscopelight2"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/snowflake"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/eye"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/zip1"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/zip2"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/zip3"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/zip4"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:atis/nucleus"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:df/chicken_lbody"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:df/chicken_lhead"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:df/chicken_rbody"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:df/chicken_rhead"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:df/chicken_scared"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:df/turntable_base"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_boat"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_crow_beak"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_crow_legs"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_crow_red"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_crow_tan"
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_crow_blue"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_crow_brown"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_entrance"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_ground"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_logo"
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_foot"
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_head"
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_larm"
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_lbear"
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_lear"
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_mrbfoot"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_mrbtorso"
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_mrhead"
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_mrtorso"
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_rarm"
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_rbear"
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_rear"
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_torso"
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_white_torsoblue"
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard1"
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard2"
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard3"
+                }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard4"
+                }
+            },
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard5"
+                }
+            },
+            {
+                "threshold": 93,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard6"
+                }
+            },
+            {
+                "threshold": 94,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard7"
+                }
+            },
+            {
+                "threshold": 95,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard8"
+                }
+            },
+            {
+                "threshold": 96,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_cardboard9"
+                }
+            },
+            {
+                "threshold": 97,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_head1"
+                }
+            },
+            {
+                "threshold": 98,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_head2"
+                }
+            },
+            {
+                "threshold": 99,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_larm"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_lear"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_leg"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_rarm"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_rear"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_torso1"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_brown_torso2"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_fhead"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_foot"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_larm"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_lbear"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_lear"
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_mhead"
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_mrstorso"
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_rarm"
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_rbear"
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_rear"
+                }
+            },
+            {
+                "threshold": 116,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_shead"
+                }
+            },
+            {
+                "threshold": 117,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_torsoblue"
+                }
+            },
+            {
+                "threshold": 118,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_torsobrown"
+                }
+            },
+            {
+                "threshold": 119,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_pink_torsogray"
+                }
+            },
+            {
+                "threshold": 120,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_fhead"
+                }
+            },
+            {
+                "threshold": 121,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_foot"
+                }
+            },
+            {
+                "threshold": 122,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_larm"
+                }
+            },
+            {
+                "threshold": 123,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_lbear"
+                }
+            },
+            {
+                "threshold": 124,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_lear"
+                }
+            },
+            {
+                "threshold": 125,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_lsarm"
+                }
+            },
+            {
+                "threshold": 126,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_mhead"
+                }
+            },
+            {
+                "threshold": 127,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_rarm"
+                }
+            },
+            {
+                "threshold": 128,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_rbear"
+                }
+            },
+            {
+                "threshold": 129,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_rear"
+                }
+            },
+            {
+                "threshold": 130,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_rsarm"
+                }
+            },
+            {
+                "threshold": 131,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_torsoblue"
+                }
+            },
+            {
+                "threshold": 132,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_torsodress"
+                }
+            },
+            {
+                "threshold": 133,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_torsogray"
+                }
+            },
+            {
+                "threshold": 134,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_torsored"
+                }
+            },
+            {
+                "threshold": 135,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_rabbit_yellow_torsovest"
+                }
+            },
+            {
+                "threshold": 136,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/okee_hula"
+                }
+            },
+            {
+                "threshold": 137,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mgm:rrc/legacy_1"
+                }
+            },
+            {
+                "threshold": 138,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mgm:rrc/legacy_2"
+                }
+            },
+            {
+                "threshold": 139,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mgm:rrc/legacy_3"
+                }
+            },
+            {
+                "threshold": 140,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:boat/safety_boats"
+                }
+            },
+            {
+                "threshold": 141,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "hub:carousel/safety_carousel"
+                }
+            },
+            {
+                "threshold": 142,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:motion/motion_v"
+                }
+            },
+            {
+                "threshold": 143,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:motion/motiondoorfront"
+                }
+            },
+            {
+                "threshold": 144,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:motion/motiondoorback"
+                }
+            }
+        ]
+    }
+}
