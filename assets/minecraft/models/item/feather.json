@@ -839,6 +839,9 @@
             "model": "mgm:rrc/legacy_3"
         },
         {"predicate": {"custom_model_data": 140}, "model": "hub:boat/safety_boats"},
-        {"predicate": {"custom_model_data": 141}, "model": "hub:carousel/safety_carousel"}
+        {"predicate": {"custom_model_data": 141}, "model": "hub:carousel/safety_carousel"},
+        {"predicate": {"custom_model_data": 142}, "model": "epcot:motion/motion_v"},
+        {"predicate": {"custom_model_data": 143}, "model": "epcot:motion/motiondoorfront"},
+        {"predicate": {"custom_model_data": 144}, "model": "epcot:motion/motiondoorback"}
     ]
 }
