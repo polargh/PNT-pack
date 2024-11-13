@@ -2613,6 +2613,30 @@
                 "custom_model_data": 446
             },
             "model": "hub:carousel/carousel_horse"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 447
+            },
+            "model": "legacycollection:okee/eyelids"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 448
+            },
+            "model": "legacycollection:okee/owl"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 449
+            },
+            "model": "legacycollection:okee/owl2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 450
+            },
+            "model": "legacycollection:okee/owl3"
         }
     ]
 }
