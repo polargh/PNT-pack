@@ -2601,6 +2601,18 @@
                 "custom_model_data": 444
             },
             "model": "legacycollection:okee/chickenwing"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 445
+            },
+            "model": "epcot:deco/bm_cntrl"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 446
+            },
+            "model": "hub:carousel/carousel_horse"
         }
     ]
 }
