@@ -1,0 +1,149 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/music/acoustic_guitar"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/music/amp"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/music/drumkit"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/music/drumkit"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/music/record_player"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/music/mic"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/alley/light"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/alley/neon_sign_1"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/alley/gutter_1"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:rrc/alley/gutter_2"
+                }
+            },
+            {
+                "threshold": 100001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_01"
+                }
+            },
+            {
+                "threshold": 100002,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_02"
+                }
+            },
+            {
+                "threshold": 100003,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_03"
+                }
+            },
+            {
+                "threshold": 100004,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_04"
+                }
+            },
+            {
+                "threshold": 100005,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_05"
+                }
+            },
+            {
+                "threshold": 100006,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_06"
+                }
+            },
+            {
+                "threshold": 100007,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_07"
+                }
+            },
+            {
+                "threshold": 100008,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_08"
+                }
+            },
+            {
+                "threshold": 100009,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_09"
+                }
+            },
+            {
+                "threshold": 100010,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mclivefx:fixtures/light_beam_10"
+                }
+            }
+        ]
+    }
+}
