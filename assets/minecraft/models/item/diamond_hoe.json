@@ -32,85 +32,85 @@
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "body/body_b"
+            "model": "custom/body/body_b"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "body/body_h"
+            "model": "custom/body/body_h"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "body/body_la"
+            "model": "custom/body/body_la"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "body/body_ll"
+            "model": "custom/body/body_ll"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "body/body_ra"
+            "model": "custom/body/body_ra"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "body/body_rl"
+            "model": "custom/body/body_rl"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "arms/cmarm1"
+            "model": "custom/arms/cmarm1"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "arms/cmarm2"
+            "model": "custom/arms/cmarm2"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "arms/cmarm3"
+            "model": "custom/arms/cmarm3"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "arms/cmarm4"
+            "model": "custom/arms/cmarm4"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "arms/cmarm5"
+            "model": "custom/arms/cmarm5"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "arms/cmarm6"
+            "model": "custom/arms/cmarm6"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "arms/cmarm7"
+            "model": "custom/arms/cmarm7"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "arms/cmarm8"
+            "model": "custom/arms/cmarm8"
         },
         {
             "predicate": {
@@ -368,67 +368,67 @@
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "body/player/player_aqua"
+            "model": "custom/body/player/player_aqua"
         },
         {
             "predicate": {
                 "custom_model_data": 62
             },
-            "model": "body/player/player_coolb"
+            "model": "custom/body/player/player_coolb"
         },
         {
             "predicate": {
                 "custom_model_data": 63
             },
-            "model": "body/player/player_gary"
+            "model": "custom/body/player/player_gary"
         },
         {
             "predicate": {
                 "custom_model_data": 64
             },
-            "model": "body/player/player_hunter"
+            "model": "custom/body/player/player_hunter"
         },
         {
             "predicate": {
                 "custom_model_data": 65
             },
-            "model": "body/player/player_jake"
+            "model": "custom/body/player/player_jake"
         },
         {
             "predicate": {
                 "custom_model_data": 66
             },
-            "model": "body/player/player_josh"
+            "model": "custom/body/player/player_josh"
         },
         {
             "predicate": {
                 "custom_model_data": 67
             },
-            "model": "body/player/player_polar"
+            "model": "custom/body/player/player_polar"
         },
         {
             "predicate": {
                 "custom_model_data": 68
             },
-            "model": "body/player/player_supapap"
+            "model": "custom/body/player/player_supapap"
         },
         {
             "predicate": {
                 "custom_model_data": 69
             },
-            "model": "body/player/player_tea"
+            "model": "custom/body/player/player_tea"
         },
         {
             "predicate": {
                 "custom_model_data": 70
             },
-            "model": "body/player/player_tj"
+            "model": "custom/body/player/player_tj"
         },
         {
             "predicate": {
                 "custom_model_data": 71
             },
-            "model": "body/player/player_yogs"
+            "model": "custom/body/player/player_yogs"
         },
         {
             "predicate": {
