@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "legacycollection:okee/hat"
+		"0": "legacycollection:custom/okee/hat"
 	},
 	"elements": [
 		{

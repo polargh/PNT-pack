@@ -3,7 +3,7 @@
 	"parent": "cowbase",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "legacycollection:okee/cowbase"
+		"0": "legacycollection:custom/okee/cowbase"
 	},
 	"elements": [
 		{

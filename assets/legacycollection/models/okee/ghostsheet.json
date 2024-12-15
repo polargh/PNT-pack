@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "legacycollection:okee/ghost"
+		"0": "legacycollection:custom/okee/ghost"
 	},
 	"elements": [
 		{
