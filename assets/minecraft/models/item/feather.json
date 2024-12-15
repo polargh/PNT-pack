@@ -845,7 +845,7 @@
         {"predicate": {"custom_model_data": 144}, "model": "epcot:motion/motiondoorback"},
 		{
             "predicate": {
-                "custom_model_data": 140
+                "custom_model_data": 145
             },
             "model": "epcot:monorail/mnrl_car"
         }
