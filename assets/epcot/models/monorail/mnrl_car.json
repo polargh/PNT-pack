@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "block/quartz_block_bottom",
-		"7": "C:/Users/User/Desktop/monorail_texture",
+		"7": "epcot:ride/mnrl/monorail_texture",
 		"particle": "block/light_gray_stained_glass"
 	},
 	"elements": [
