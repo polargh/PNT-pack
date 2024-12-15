@@ -680,13 +680,13 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "body/player/player_kokomo"
+            "model": "custom/body/player/player_kokomo"
         },
         {
             "predicate": {
                 "custom_model_data": 113
             },
-            "model": "body/player/player_finn"
+            "model": "custom/body/player/player_finn"
         },
         {
             "predicate": {
@@ -1208,109 +1208,109 @@
             "predicate": {
                 "custom_model_data": 211
             },
-            "model": "arms/atis/cmarm1"
+            "model": "custom/arms/atis/cmarm1"
         },
         {
             "predicate": {
                 "custom_model_data": 212
             },
-            "model": "arms/atis/cmarm2"
+            "model": "custom/arms/atis/cmarm2"
         },
         {
             "predicate": {
                 "custom_model_data": 213
             },
-            "model": "arms/atis/cmarm3"
+            "model": "custom/arms/atis/cmarm3"
         },
         {
             "predicate": {
                 "custom_model_data": 214
             },
-            "model": "arms/atis/cmarm4"
+            "model": "custom/arms/atis/cmarm4"
         },
         {
             "predicate": {
                 "custom_model_data": 215
             },
-            "model": "arms/atis/cmarm5"
+            "model": "custom/arms/atis/cmarm5"
         },
         {
             "predicate": {
                 "custom_model_data": 216
             },
-            "model": "arms/atis/cmarm6"
+            "model": "custom/arms/atis/cmarm6"
         },
         {
             "predicate": {
                 "custom_model_data": 217
             },
-            "model": "arms/atis/cmarm7"
+            "model": "custom/arms/atis/cmarm7"
         },
         {
             "predicate": {
                 "custom_model_data": 218
             },
-            "model": "arms/atis/cmarm8"
+            "model": "custom/arms/atis/cmarm8"
         },
         {
             "predicate": {
                 "custom_model_data": 219
             },
-            "model": "body/cm_atis_b"
+            "model": "custom/body/cm_atis_b"
         },
         {
             "predicate": {
                 "custom_model_data": 220
             },
-            "model": "body/cm_atis_ll"
+            "model": "custom/body/cm_atis_ll"
         },
         {
             "predicate": {
                 "custom_model_data": 221
             },
-            "model": "body/cm_atis_rl"
+            "model": "custom/body/cm_atis_rl"
         },
         {
             "predicate": {
                 "custom_model_data": 222
             },
-            "model": "body/legacy/bust1"
+            "model": "custom/body/legacy/bust1"
         },
         {
             "predicate": {
                 "custom_model_data": 223
             },
-            "model": "body/legacy/bust2"
+            "model": "custom/body/legacy/bust2"
         },
         {
             "predicate": {
                 "custom_model_data": 224
             },
-            "model": "body/legacy/bust3"
+            "model": "custom/body/legacy/bust3"
         },
         {
             "predicate": {
                 "custom_model_data": 225
             },
-            "model": "body/legacy/statue_b"
+            "model": "custom/body/legacy/statue_b"
         },
         {
             "predicate": {
                 "custom_model_data": 226
             },
-            "model": "body/legacy/statue_h"
+            "model": "custom/body/legacy/statue_h"
         },
         {
             "predicate": {
                 "custom_model_data": 227
             },
-            "model": "body/legacy/statue_ra"
+            "model": "custom/body/legacy/statue_ra"
         },
         {
             "predicate": {
                 "custom_model_data": 228
             },
-            "model": "body/legacy/statue_rl"
+            "model": "custom/body/legacy/statue_rl"
         },
         {
             "predicate": {
