@@ -116,7 +116,7 @@
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "custom//cm_b"
+            "model": "custom/body/cm_b"
         },
         {
             "predicate": {
@@ -548,7 +548,7 @@
             "predicate": {
                 "custom_model_data": 90
             },
-            "model": "decoration/black"
+            "model": "custom/decoration/black"
         },
         {
             "predicate": {
