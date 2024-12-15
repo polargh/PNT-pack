@@ -116,19 +116,19 @@
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "body/cm_b"
+            "model": "custom//cm_b"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "body/cm_ll"
+            "model": "custom/body/cm_ll"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "body/cm_rl"
+            "model": "custom/body/cm_rl"
         },
         {
             "predicate": {
@@ -188,7 +188,7 @@
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "decoration/conveyor"
+            "model": "custom/decoration/conveyor"
         },
         {
             "predicate": {
@@ -584,13 +584,13 @@
             "predicate": {
                 "custom_model_data": 96
             },
-            "model": "decoration/fan"
+            "model": "custom/decoration/fan"
         },
         {
             "predicate": {
                 "custom_model_data": 97
             },
-            "model": "body/player/player_tcs"
+            "model": "custom/body/player/player_tcs"
         },
         {
             "predicate": {
