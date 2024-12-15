@@ -434,7 +434,7 @@
             "predicate": {
                 "custom_model_data": 72
             },
-            "model": "decoration/merchcar"
+            "model": "custom/decoration/merchcar"
         },
         {
             "predicate": {
