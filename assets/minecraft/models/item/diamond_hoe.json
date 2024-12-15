@@ -2637,6 +2637,120 @@
                 "custom_model_data": 450
             },
             "model": "legacycollection:okee/owl3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 451
+            },
+            "model": "legacycollection:okee/cowbase"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 452
+            },
+            "model": "legacycollection:okee/cowhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 453
+            },
+            "model": "legacycollection:okee/cowtail"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 454
+            },
+            "model": "legacycollection:okee/froghat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 455
+            },
+            "model": "legacycollection:okee/frogleg"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 456
+            },
+            "model": "legacycollection:okee/ghostsheet"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 457
+            },
+            "model": "legacycollection:okee/goofyfrog"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 458
+            },
+            "model": "legacycollection:okee/goofyfrogdance"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 459
+            },
+            "model": "legacycollection:okee/oke-fox-headfrowncent"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 460
+            },
+            "model": "legacycollection:okee/oke-fox-headfrownleft"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 461
+            },
+            "model": "legacycollection:okee/oke-fox-arm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 462
+            },
+            "model": "legacycollection:okee/oke-fox-foot"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 463
+            },
+            "model": "legacycollection:okee/oke-fox-headarsenal"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 464
+            },
+            "model": "legacycollection:okee/oke-fox-headbriar"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 465
+            },
+            "model": "legacycollection:okee/oke-fox-headsmile"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 466
+            },
+            "model": "legacycollection:okee/oke-fox-headswamp"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 467
+            },
+            "model": "legacycollection:okee/oke-fox-tail"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 468
+            },
+            "model": "legacycollection:okee/oke-fox-torso"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 469
+            },
+            "model": "legacycollection:okee/rattlesnake"
         }
     ]
 }
