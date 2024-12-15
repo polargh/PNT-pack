@@ -873,6 +873,18 @@
                 "custom_model_data": 145
             },
             "model": "epcot:monorail/mnrl_car"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 146
+            },
+            "model": "epcot:monorail/mnrl_rdoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 147
+            },
+            "model": "epcot:monorail/mnrl_ldoor"
         }
     ]
 }
