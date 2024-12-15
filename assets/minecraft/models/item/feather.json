@@ -854,7 +854,8 @@
 			"predicate": {
 				"custom_model_data": 142
 			}, 
-				"model": "epcot:motion/motion_v"},
+				"model": "epcot:motion/motion_v"
+		},
         {
 			"predicate": {
 				"custom_model_data": 143
