@@ -891,6 +891,12 @@
                 "custom_model_data": 148
             },
             "model": "epcot:monorail/mnrl_nose"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 149
+            },
+            "model": "epcot:monorail/mnrl_accordion"
         }
     ]
 }
