@@ -2751,6 +2751,12 @@
                 "custom_model_data": 469
             },
             "model": "legacycollection:okee/rattlesnake"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 470
+            },
+            "model": "legacycollection:okee/rifle"
         }
     ]
 }
