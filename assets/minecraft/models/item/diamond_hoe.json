@@ -908,7 +908,7 @@
             "predicate": {
                 "custom_model_data": 161
             },
-            "model": "decoration/stars"
+            "model": "minecraft:custom/decoration/stars"
         },
         {
             "predicate": {
