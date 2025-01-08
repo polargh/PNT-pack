@@ -3078,7 +3078,7 @@
                 }
             },
 			{
-                "threshold": 451,
+                "threshold": 471,
                 "model": {
                     "type": "minecraft:model",
                     "model": "epcot:deco/ded_plaque"

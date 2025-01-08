@@ -4,8 +4,7 @@
 		"0": "block/smooth_stone",
 		"1": "block/smooth_stone_slab_side",
 		"2": "epcot:deco/dedication",
-		"3": "block/glass",
-		"particle": "block/smooth_stone"
+		"3": "block/glass"
 	},
 	"elements": [
 		{
