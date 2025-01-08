@@ -3076,6 +3076,13 @@
                     "type": "minecraft:model",
                     "model": "legacycollection:okee/owl3"
                 }
+            },
+			{
+                "threshold": 451,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:deco/ded_plaque"
+                }
             }
         ]
     }
