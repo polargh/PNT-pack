@@ -1011,6 +1011,41 @@
                     "type": "minecraft:model",
                     "model": "epcot:motion/motiondoorback"
                 }
+            },
+            {
+                "threshold": 145,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:monorail/mnrl_car"
+                }
+            },
+            {
+                "threshold": 146,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:monorail/mnrl_rdoor"
+                }
+            },
+            {
+                "threshold": 147,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:monorail/mnrl_ldoor"
+                }
+            },
+            {
+                "threshold": 148,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:monorail/mnrl_nose"
+                }
+            },
+            {
+                "threshold": 149,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:monorail/mnrl_accordion"
+                }
             }
         ]
     }

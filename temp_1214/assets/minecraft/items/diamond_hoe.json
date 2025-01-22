@@ -1058,7 +1058,7 @@
                 "threshold": 161,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "custom/decoration/stars"
+                    "model": "minecraft:custom/decoration/stars"
                 }
             },
             {
@@ -3039,7 +3039,7 @@
                 "threshold": 445,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "epcot:deco/bm_cntrl"
+                    "model": "epcot:deco/ctrl_panel"
                 }
             },
             {
@@ -3077,11 +3077,144 @@
                     "model": "legacycollection:okee/owl3"
                 }
             },
-			{
-                "threshold": 471,
+            {
+                "threshold": 451,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "epcot:deco/ded_plaque"
+                    "model": "legacycollection:okee/cowbase"
+                }
+            },
+            {
+                "threshold": 452,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/cowhead"
+                }
+            },
+            {
+                "threshold": 453,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/cowtail"
+                }
+            },
+            {
+                "threshold": 454,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/froghat"
+                }
+            },
+            {
+                "threshold": 455,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/frogleg"
+                }
+            },
+            {
+                "threshold": 456,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/ghostsheet"
+                }
+            },
+            {
+                "threshold": 457,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/goofyfrog"
+                }
+            },
+            {
+                "threshold": 458,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/goofyfrogdance"
+                }
+            },
+            {
+                "threshold": 459,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-headfrowncent"
+                }
+            },
+            {
+                "threshold": 460,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-headfrownleft"
+                }
+            },
+            {
+                "threshold": 461,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-arm"
+                }
+            },
+            {
+                "threshold": 462,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-foot"
+                }
+            },
+            {
+                "threshold": 463,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-headarsenal"
+                }
+            },
+            {
+                "threshold": 464,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-headbriar"
+                }
+            },
+            {
+                "threshold": 465,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-headsmile"
+                }
+            },
+            {
+                "threshold": 466,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-headswamp"
+                }
+            },
+            {
+                "threshold": 467,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-tail"
+                }
+            },
+            {
+                "threshold": 468,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/oke-fox-torso"
+                }
+            },
+            {
+                "threshold": 469,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/rattlesnake"
+                }
+            },
+            {
+                "threshold": 470,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "legacycollection:okee/rifle"
                 }
             }
         ]
