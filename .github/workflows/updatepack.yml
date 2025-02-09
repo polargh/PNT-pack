@@ -20,7 +20,7 @@ jobs:
           packsquash_version: latest
           options: |
             pack_directory = '.'
-            artifact_name = "resourcepack"
+            artifact_name = 'resourcepack'
           
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
