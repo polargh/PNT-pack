@@ -16,7 +16,7 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v3
       - name: Download optimized pack
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: Optimized pack
       - name: Tag and create release
