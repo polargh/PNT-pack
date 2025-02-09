@@ -19,6 +19,7 @@ jobs:
         with:
           packsquash_version: latest
           options: |
+            pack_directory = '.'
             artifact_name = "resourcepack"
           
       - name: Tag and create release
