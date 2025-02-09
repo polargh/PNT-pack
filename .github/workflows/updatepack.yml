@@ -6,25 +6,24 @@ on:
     
 jobs:
   pack:
-    name: Pack CI
+    name: Squash pack and notify server
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
+          
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v3
-      - name: Download optimized pack
-        uses: actions/download-artifact@v4
-        with:
-          name: optimizedpack
+          
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: action-v${{ github.run_number }}
           files: pack.zip
-      - name: Autoupdate Pack
+
+      - name: Notify server
         env:
           PTERODACTYL_TOKEN: ${{ secrets.PTERODACTYL_TOKEN }}
         run: |
