@@ -897,6 +897,18 @@
                 "custom_model_data": 149
             },
             "model": "epcot:monorail/mnrl_accordion"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 150
+            },
+            "model": "epcot:monorail/mnrl_frdoor_l"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 151
+            },
+            "model": "epcot:monorail/mnrl_frdoor_r"
         }
     ]
 }
