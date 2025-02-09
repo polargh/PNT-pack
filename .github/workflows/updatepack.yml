@@ -22,6 +22,11 @@ jobs:
             pack_directory = '.'
           artifact_name: 'resourcepack'
           
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: resourcepack
+
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
