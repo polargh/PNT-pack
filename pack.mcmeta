@@ -1,15 +1,6 @@
 {
 	"pack": {
-		"pack_format": 34,
-		"supported_formats": [34, 46],
+		"pack_format": 55,
         "description": "§3§lPNT Cubed\n§8➥ §7Resource Pack"
-	},
-	"overlays": {
-		"entries": [
-			{
-				"formats": 46,
-				"directory": "temp_1214"
-			}
-		]
 	}
 }
