@@ -5,7 +5,7 @@
         "index": 0,
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/carved_pumpkin"
+            "model": "minecraft:block/carved_pumpkin"
         },
         "entries": [
             {
