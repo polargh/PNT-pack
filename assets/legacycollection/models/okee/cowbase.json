@@ -1,8 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "cowbase",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "legacycollection:custom/okee/cowbase"
+		"0": "legacycollection:custom/okee/cowbase",
+		"particle": "legacycollection:custom/okee/cowbase"
 	},
 	"elements": [
 		{
@@ -135,5 +137,12 @@
 				"down": {"uv": [7.3125, 7, 7, 7.3125], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, -45, 0],
+			"translation": [2.5, 9.5, 0],
+			"scale": [1.78711, 1.78711, 1.78711]
+		}
+	}
 }
