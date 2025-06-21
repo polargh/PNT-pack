@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "legacycollection:custom/okee/turtlearm",
+		"particle": "legacycollection:custom/okee/turtlearm"
+	},
+	"elements": [
+		{
+			"from": [4.5, 7.2375, 7],
+			"to": [11.5, 8.7625, 9],
+			"rotation": {"angle": 0, "axis": "z", "origin": [5.5, 8.2375, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 7, 2], "texture": "#0"},
+				"east": {"uv": [7, 0, 9, 2], "texture": "#0"},
+				"south": {"uv": [0, 2, 7, 4], "texture": "#0"},
+				"west": {"uv": [7, 2, 9, 4], "texture": "#0"},
+				"up": {"uv": [7, 6, 0, 4], "texture": "#0"},
+				"down": {"uv": [7, 6, 0, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [20, 147, 0],
+			"translation": [0.25, 0, 0],
+			"scale": [1.18891, 1.18891, 1.18891]
+		}
+	}
+}
