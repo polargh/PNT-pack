@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "legacycollection:custom/okee/rattlesnake"
+		"0": "legacycollection:custom/okee/rattlesnake",
+		"particle": "legacycollection:custom/okee/rattlesnake"
 	},
 	"elements": [
 		{
@@ -316,5 +317,12 @@
 				"down": {"uv": [12.5, 4, 12, 4.375], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [7, 12, 0],
+			"scale": [2.15234, 2.15234, 2.15234]
+		}
+	}
 }
