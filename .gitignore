@@ -3,4 +3,4 @@ pack.zip
 .git
 *.ini
 assets/minecraft/textures/block/*
-.py
+*.py
