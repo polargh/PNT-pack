@@ -5,7 +5,7 @@
 		"0": "block/cauldron_inner",
 		"1": "block/black_shulker_box",
 		"2": "block/anvil",
-		"3": "block/nether_quartz_ore"
+		"3": "block/black_concrete"
 	},
 	"elements": [
 		{

@@ -5,7 +5,7 @@
 		"0": "block/bone_block_side",
 		"1": "block/light_gray_concrete_powder",
 		"2": "block/anvil",
-		"3": "block/nether_quartz_ore",
+		"3": "block/black_concrete",
 		"particle": "block/bone_block_side"
 	},
 	"elements": [
