@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "legacycollection:tt/signs/barrier2",
-		"particle": "legacycollection:tt/signs/barrier2"
+		"0": "legacycollection:custom/tt/signs/barrier2",
+		"particle": "legacycollection:custom/tt/signs/barrier2"
 	},
 	"elements": [
 		{

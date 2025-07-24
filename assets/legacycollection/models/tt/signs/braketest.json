@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "legacycollection:tt/signs/brake",
-		"particle": "legacycollection:tt/signs/brake"
+		"0": "legacycollection:custom/tt/signs/brake",
+		"particle": "legacycollection:custom/tt/signs/brake"
 	},
 	"elements": [
 		{

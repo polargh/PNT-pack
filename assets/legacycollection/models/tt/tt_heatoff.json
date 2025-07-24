@@ -5,8 +5,8 @@
 		"1": "block/iron_block",
 		"2": "block/red_stained_glass",
 		"3": "block/quartz_block_bottom",
-		"4": "legacycollection:tt/touch",
-		"5": "legacycollection:tt/hot",
+		"4": "legacycollection:custom/tt/touch",
+		"5": "legacycollection:custom/tt/hot",
 		"particle": "block/anvil"
 	},
 	"elements": [

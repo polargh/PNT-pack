@@ -4,7 +4,7 @@
 		"0": "block/mushalt",
 		"1": "block/stripped_oak_log",
 		"2": "block/anvil",
-		"3": "legacycollection:tt/crash",
+		"3": "legacycollection:custom/tt/crash",
 		"particle": "block/mushalt"
 	},
 	"elements": [

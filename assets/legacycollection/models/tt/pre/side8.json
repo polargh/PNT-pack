@@ -1,7 +1,7 @@
 {
    "parent": "legacycollection:tt/pre/mon0",
    "textures": {
-		"3": "legacycollection:tt/pre/side/8"
+		"3": "legacycollection:custom/tt/pre/side/8"
 	},
 	"display": {
 		"head": {

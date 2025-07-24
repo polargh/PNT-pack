@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Amids_ with Cubik Studio",
 	"textures": {
-		"voxels_palette": "legacycollection:tt/ttcrashhood"
+		"voxels_palette": "legacycollection:custom/tt/ttcrashhood"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Amids_ with Cubik Studio",
 	"textures": {
-		"maincar": "legacycollection:tt/maincar"
+		"maincar": "legacycollection:custom/tt/maincar"
 	},
 	"elements": [ 	 
 		{

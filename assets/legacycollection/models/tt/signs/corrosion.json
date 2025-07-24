@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "legacycollection:tt/signs/corro",
-		"particle": "legacycollection:tt/signs/corro"
+		"0": "legacycollection:custom/tt/signs/corro",
+		"particle": "legacycollection:custom/tt/signs/corro"
 	},
 	"elements": [
 		{

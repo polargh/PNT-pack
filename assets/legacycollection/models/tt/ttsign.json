@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "legacycollection:tt/ttsign"
+		"voxels_palette": "legacycollection:custom/tt/ttsign"
 	},
 	"elements": [ 	 
 		{

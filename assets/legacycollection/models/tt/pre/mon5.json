@@ -1,6 +1,6 @@
 {
    "parent": "legacycollection:tt/pre/mon0",
    "textures": {
-		"3": "legacycollection:tt/pre/main/5"
+		"3": "legacycollection:custom/tt/pre/main/5"
 	}
 }

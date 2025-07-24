@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "legacycollection:tt/signs/thermal",
-		"particle": "legacycollection:tt/signs/thermal"
+		"0": "legacycollection:custom/tt/signs/thermal",
+		"particle": "legacycollection:custom/tt/signs/thermal"
 	},
 	"elements": [
 		{
