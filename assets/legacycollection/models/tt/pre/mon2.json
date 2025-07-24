@@ -1,0 +1,6 @@
+{
+   "parent": "legacycollection:tt/pre/mon0",
+   "textures": {
+		"3": "legacycollection:tt/pre/main/2"
+	}
+}

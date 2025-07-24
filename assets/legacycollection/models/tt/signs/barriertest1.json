@@ -1,0 +1,27 @@
+{
+	"credit": "Made for use on MCA/HP",
+	"textures": {
+		"0": "legacycollection:tt/signs/barrier1",
+		"particle": "legacycollection:tt/signs/barrier1"
+	},
+	"elements": [
+		{
+			"from": [-6.5, 0, 7.95],
+			"to": [22.5, 5, 8.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [8.55579, 15.49474, 13.54105, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-1, -2, 0]
+		},
+		"head": {
+			"translation": [0, 8, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
+}

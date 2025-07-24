@@ -1,0 +1,11 @@
+{
+   "parent": "legacycollection:tt/pre/mon0",
+   "textures": {
+		"3": "legacycollection:tt/pre/side/1"
+	},
+	"display": {
+		"head": {
+			"scale":  [ 1, 1, 1 ]
+		}
+	}
+}

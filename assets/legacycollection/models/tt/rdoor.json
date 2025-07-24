@@ -1,0 +1,6 @@
+{
+   "parent": "legacycollection:tt/wdoor",
+   "textures": {
+		"1": "block/red_shulker_box"
+	}
+}
