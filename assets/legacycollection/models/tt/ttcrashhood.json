@@ -1,33 +1,146 @@
 {
 	"__comment": "Designed by Amids_ with Cubik Studio",
 	"textures": {
-		"voxels_palette": "legacycollection:custom/tt/ttcrashhood"
+		"voxels_palette": "legacycollection:custom/tt/ttcrashhood",
+		"particle": "pnt:none"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Voxels-590000",
-			"from": [ 4.0678, 2.7119, 2.1695 ],
-			"to": [ 18.38644, 3.30851, 24.24408 ],
+			"from": [
+				4.0678,
+				2.7119,
+				2.1695
+			],
+			"to": [
+				18.38644,
+				3.30851,
+				24.24408
+			],
 			"faces": {
-				"down": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"up": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"north": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"south": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"west": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"east": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" }
+				"down": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"up": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"north": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"south": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"west": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"east": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				}
 			}
 		},
 		{
 			"__comment": "Voxels-590000",
-			"from": [ 17.7898, 0.3254, 2.1695 ],
-			"to": [ 18.38641, 2.711841, 24.24408 ],
+			"from": [
+				17.7898,
+				0.3254,
+				2.1695
+			],
+			"to": [
+				18.38641,
+				2.711841,
+				24.24408
+			],
 			"faces": {
-				"down": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"up": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"north": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"south": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"west": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" },
-				"east": { "uv": [ 6.24, 13.24, 6.76, 13.76 ], "texture": "#voxels_palette" }
+				"down": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"up": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"north": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"south": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"west": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				},
+				"east": {
+					"uv": [
+						6.24,
+						13.24,
+						6.76,
+						13.76
+					],
+					"texture": "#voxels_palette"
+				}
 			}
 		}
 	]

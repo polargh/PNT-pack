@@ -1,5 +1,7 @@
 {
-	"textures": {},
+	"textures": {
+		"particle": "pnt:none"
+	},
 	"elements": [],
 	"display": {
 		"head": {

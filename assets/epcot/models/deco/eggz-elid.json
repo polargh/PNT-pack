@@ -1,63 +1,197 @@
 {
 	"credit": "Made with Blockbench",
-	"texture_size": [64, 64],
+	"texture_size": [
+		64,
+		64
+	],
 	"textures": {
-		"0": "epcot:deco/eggz"
+		"0": "epcot:deco/eggz",
+		"particle": "pnt:none"
 	},
 	"elements": [
 		{
-			"from": [5.5, 7.42599, 0.19942],
-			"to": [7.5, 8.42599, 1.34942],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.25, 1.67599, 4.34942]},
+			"from": [
+				5.5,
+				7.42599,
+				0.19942
+			],
+			"to": [
+				7.5,
+				8.42599,
+				1.34942
+			],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "x",
+				"origin": [
+					7.25,
+					1.67599,
+					4.34942
+				]
+			},
 			"faces": {
-				"north": {"uv": [1.5, 3.25, 1.75, 3.5], "texture": "#0"},
-				"east": {"uv": [1.5, 3.25, 1.75, 3.5], "texture": "#0"},
-				"south": {"uv": [1.5, 3.25, 1.75, 3.5], "texture": "#0"},
-				"west": {"uv": [1.5, 3.25, 1.75, 3.5], "texture": "#0"},
-				"up": {"uv": [1.5, 3.25, 1.75, 3.5], "texture": "#0"},
-				"down": {"uv": [1.5, 3.25, 1.75, 3.5], "texture": "#0"}
+				"north": {
+					"uv": [
+						1.5,
+						3.25,
+						1.75,
+						3.5
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						1.5,
+						3.25,
+						1.75,
+						3.5
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						1.5,
+						3.25,
+						1.75,
+						3.5
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						1.5,
+						3.25,
+						1.75,
+						3.5
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						1.5,
+						3.25,
+						1.75,
+						3.5
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						1.5,
+						3.25,
+						1.75,
+						3.5
+					],
+					"texture": "#0"
+				}
 			}
 		}
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0.39, 0.39, 0.39]
+			"scale": [
+				0.39,
+				0.39,
+				0.39
+			]
 		},
 		"thirdperson_lefthand": {
-			"scale": [0.39, 0.39, 0.39]
+			"scale": [
+				0.39,
+				0.39,
+				0.39
+			]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 15, 0],
-			"scale": [0.39, 0.39, 0.39]
+			"rotation": [
+				0,
+				15,
+				0
+			],
+			"scale": [
+				0.39,
+				0.39,
+				0.39
+			]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 15, 0],
-			"scale": [0.39, 0.39, 0.39]
+			"rotation": [
+				0,
+				15,
+				0
+			],
+			"scale": [
+				0.39,
+				0.39,
+				0.39
+			]
 		},
 		"ground": {
-			"translation": [0, 10.25, 0],
-			"scale": [0.7, 0.7, 0.7]
+			"translation": [
+				0,
+				10.25,
+				0
+			],
+			"scale": [
+				0.7,
+				0.7,
+				0.7
+			]
 		},
 		"gui": {
-			"rotation": [24, 144, 0],
-			"translation": [0, 3.75, 0],
-			"scale": [0.76, 0.76, 0.76]
+			"rotation": [
+				24,
+				144,
+				0
+			],
+			"translation": [
+				0,
+				3.75,
+				0
+			],
+			"scale": [
+				0.76,
+				0.76,
+				0.76
+			]
 		},
 		"head": {
-			"translation": [0, 5.75, 0],
-			"scale": [1.73, 1.73, 1.73]
+			"translation": [
+				0,
+				5.75,
+				0
+			],
+			"scale": [
+				1.73,
+				1.73,
+				1.73
+			]
 		},
 		"fixed": {
-			"translation": [0, 6.25, 0],
-			"scale": [1.25, 1.25, 1.25]
+			"translation": [
+				0,
+				6.25,
+				0
+			],
+			"scale": [
+				1.25,
+				1.25,
+				1.25
+			]
 		}
 	},
 	"groups": [
 		{
 			"name": "Eyelid",
-			"origin": [7.25, 1.25, 6.95],
+			"origin": [
+				7.25,
+				1.25,
+				6.95
+			],
 			"color": 0,
-			"children": [0]
+			"children": [
+				0
+			]
 		}
 	]
 }

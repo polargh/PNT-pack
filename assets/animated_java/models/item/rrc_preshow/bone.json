@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/rrc_preshow/texture"
+		"0": "animated_java:item/rrc_preshow/texture",
+		"particle": "pnt:none"
 	},
 	"elements": [
 		{

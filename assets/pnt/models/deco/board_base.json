@@ -2,35 +2,96 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"textures": {
 		"0": "pnt:custom/deco/board_base_front",
-		"1": "hub:custom/info/pntbackground"
+		"1": "hub:custom/info/pntbackground",
+		"particle": "pnt:none"
 	},
 	"elements": [
 		{
-			"from": [-16, 0, 0],
-			"to": [32, 32, 0.05],
+			"from": [
+				-16,
+				0,
+				0
+			],
+			"to": [
+				32,
+				32,
+				0.05
+			],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
+				"north": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#1"
+				}
 			}
 		}
 	],
 	"display": {
 		"ground": {
-			"translation": [0, 8, 0],
-			"scale": [0.43555, 0.43555, 0.43555]
+			"translation": [
+				0,
+				8,
+				0
+			],
+			"scale": [
+				0.43555,
+				0.43555,
+				0.43555
+			]
 		},
 		"gui": {
-			"rotation": [30, -135, 0],
-			"translation": [-2.25, -1.5, 0],
-			"scale": [0.30344, 0.30344, 0.30344]
+			"rotation": [
+				30,
+				-135,
+				0
+			],
+			"translation": [
+				-2.25,
+				-1.5,
+				0
+			],
+			"scale": [
+				0.30344,
+				0.30344,
+				0.30344
+			]
 		},
 		"head": {
-			"translation": [0, -30.75, 13.25],
-			"scale": [1.75, 1.75, 1.75]
+			"translation": [
+				0,
+				-30.75,
+				13.25
+			],
+			"scale": [
+				1.75,
+				1.75,
+				1.75
+			]
 		},
 		"fixed": {
-			"translation": [0, 0, 16.95],
-			"scale": [2, 2, 2]
+			"translation": [
+				0,
+				0,
+				16.95
+			],
+			"scale": [
+				2,
+				2,
+				2
+			]
 		}
 	}
 }

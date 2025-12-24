@@ -2,45 +2,146 @@
 	"credit": "Made with Blockbench and by TheTojoz",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "pnt:custom/arms/cmarms"
+		"0": "pnt:custom/arms/cmarms",
+		"particle": "pnt:none"
 	},
 	"elements": [
 		{
 			"name": "right_arm",
-			"from": [6, 11.5, 6],
-			"to": [10, 23.5, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17.5, 8]},
+			"from": [
+				6,
+				11.5,
+				6
+			],
+			"to": [
+				10,
+				23.5,
+				10
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					17.5,
+					8
+				]
+			},
 			"faces": {
-				"north": {"uv": [8, 9, 9, 12], "texture": "#0"},
-				"east": {"uv": [11, 9, 12, 12], "texture": "#0"},
-				"south": {"uv": [10, 9, 11, 12], "texture": "#0"},
-				"west": {"uv": [9, 9, 10, 12], "texture": "#0"},
-				"up": {"uv": [9, 12, 10, 13], "rotation": 270, "texture": "#0"},
-				"down": {"uv": [10, 8, 11, 9], "rotation": 90, "texture": "#0"}
+				"north": {
+					"uv": [
+						8,
+						9,
+						9,
+						12
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						11,
+						9,
+						12,
+						12
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						10,
+						9,
+						11,
+						12
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						9,
+						9,
+						10,
+						12
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						9,
+						12,
+						10,
+						13
+					],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						10,
+						8,
+						11,
+						9
+					],
+					"rotation": 90,
+					"texture": "#0"
+				}
 			}
 		}
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [90, 0, 0],
-			"translation": [0, -2, -3.54],
-			"scale": [1.01, 1.01, 1.01]
+			"rotation": [
+				90,
+				0,
+				0
+			],
+			"translation": [
+				0,
+				-2,
+				-3.54
+			],
+			"scale": [
+				1.01,
+				1.01,
+				1.01
+			]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [90, 0, 0],
-			"translation": [0, -2, -3.54],
-			"scale": [1.01, 1.01, 1.01]
+			"rotation": [
+				90,
+				0,
+				0
+			],
+			"translation": [
+				0,
+				-2,
+				-3.54
+			],
+			"scale": [
+				1.01,
+				1.01,
+				1.01
+			]
 		},
 		"gui": {
-			"translation": [0, -9.25, 0]
+			"translation": [
+				0,
+				-9.25,
+				0
+			]
 		}
 	},
 	"groups": [
 		{
 			"name": "steve",
-			"origin": [8, 8, 8],
+			"origin": [
+				8,
+				8,
+				8
+			],
 			"color": 0,
-			"children": [0]
+			"children": [
+				0
+			]
 		}
 	]
 }
