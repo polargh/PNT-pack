@@ -3220,6 +3220,13 @@
                     "type": "minecraft:model",
                     "model": "legacycollection:okee/rifle"
                 }
+            },
+			{
+                "threshold": 471,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "epcot:deco/ded_plaque"
+                }
             }
         ]
     }
