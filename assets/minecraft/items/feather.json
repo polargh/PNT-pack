@@ -1051,7 +1051,7 @@
                     "model": "epcot:monorail/mnrl_accordion"
                 }
             },
-			{
+            {
                 "threshold": 150,
                 "model": {
                     "type": "minecraft:model",
