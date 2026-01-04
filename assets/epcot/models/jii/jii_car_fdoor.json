@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/lapis_block",
-		"particle": "block/lapis_block"
+		"0": "block/blue_ice",
+		"particle": "block/blue_ice"
 	},
 	"elements": [
 		{
