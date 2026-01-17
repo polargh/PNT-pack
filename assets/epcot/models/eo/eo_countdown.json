@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "eo_count1",
+		"0": "epcot:ride/jii/eo_count",
 		"1": "block/red_nether_bricks",
-		"particle": "eo_count1"
+		"particle": "epcot:ride/jii/eo_count"
 	},
 	"elements": [
 		{
