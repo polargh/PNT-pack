@@ -38,6 +38,6 @@ jobs:
         env:
           PTERODACTYL_TOKEN: ${{ secrets.PTERODACTYL_TOKEN }}
         run: |
-          curl "https://panel.bundlegroup.gg/api/client/servers/a6f83607/command" -H 'Accept: application/json' -H 'Content-Type: application/json' -H "Authorization: Bearer ${PTERODACTYL_TOKEN}" -X POST -d '{"command": "frp generatehashes"}'
+          curl "https://panel.bundlegroup.gg/api/client/servers/elytra/a6f83607/command" -H 'Accept: application/json' -H 'Content-Type: application/json' -H "Authorization: Bearer ${PTERODACTYL_TOKEN}" -X POST -d '{"command": "frp generatehashes"}'
           sleep 10
-          curl "https://panel.bundlegroup.gg/api/client/servers/a6f83607/command" -H 'Accept: application/json' -H 'Content-Type: application/json' -H "Authorization: Bearer ${PTERODACTYL_TOKEN}" -X POST -d '{"command": "frp reload resend"}'  
+          curl "https://panel.bundlegroup.gg/api/client/servers/elytra/a6f83607/command" -H 'Accept: application/json' -H 'Content-Type: application/json' -H "Authorization: Bearer ${PTERODACTYL_TOKEN}" -X POST -d '{"command": "frp reload resend"}'  
