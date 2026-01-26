@@ -1,0 +1,6 @@
+{
+    "parent": "mgm:rrc/graphic_holder",
+    "textures": {
+        "0": "legacycollection:custom/okee/okeesun2"
+    }
+}
