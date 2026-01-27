@@ -1,0 +1,6 @@
+{
+    "parent": "pnt:deco/poster_landscape",
+    "textures": {
+        "0": "epcot:deco/eo/eo_preshow_static_background"
+    }
+}

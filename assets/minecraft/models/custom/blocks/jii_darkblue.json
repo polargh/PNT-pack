@@ -1,0 +1,8 @@
+{
+	"credit": "Made by AquaGump for PNT",
+	"parent": "minecraft:custom/blocks/mtw_concrete",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "epcot:ride/jii/darkblue"
+	}
+}

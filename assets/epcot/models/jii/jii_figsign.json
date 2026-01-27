@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "epcot:ride/jii/welcome_sign",
+		"particle": "epcot:ride/jii/welcome_sign"
+	},
+	"elements": [
+		{
+			"from": [2.7, 0, 7.995],
+			"to": [13.3, 8, 8.005],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7.995]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [1.99, 0, 2, 6], "texture": "#missing"},
+				"south": {"uv": [0, 0, 10, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.01, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 10, 0.01], "texture": "#missing"},
+				"down": {"uv": [0, 1.99, 10, 2], "texture": "#missing"}
+			}
+		}
+	]
+}

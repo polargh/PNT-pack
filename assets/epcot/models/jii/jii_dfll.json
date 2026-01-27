@@ -1,0 +1,6 @@
+{
+	"parent": "custom/body/body_ll",
+	"textures": {
+		"0": "epcot:ride/jii/df_base"
+	}
+}

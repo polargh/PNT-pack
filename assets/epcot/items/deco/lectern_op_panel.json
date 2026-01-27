@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block/custom/lectern_op_panel"
+    }
+}

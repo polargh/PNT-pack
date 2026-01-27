@@ -2,6 +2,7 @@
 	"pack": {
 		"min_format": 75.0,
 		"max_format": 75.0,
+		"pack_format": 75,
         "description": "§3§lPNT Cubed\n§8➥ §7Resource Pack"
 	}
 }
