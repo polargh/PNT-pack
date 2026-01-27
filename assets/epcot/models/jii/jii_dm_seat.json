@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "epcot:ride/jii/dm",
 		"1": "block/white_stained_glass",
-		"2": "item/spyglass_model",
+		"2": "block/spyglass_model",
 		"3": "block/red_shulker_box",
 		"4": "block/blast_furnace_side",
 		"particle": "epcot:ride/jii/dm"

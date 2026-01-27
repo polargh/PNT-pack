@@ -2,7 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "epcot:deco/stars"
+		"1": "epcot:deco/stars",
+		"particle": "epcot:deco/stars"
 	},
 	"elements": [
 		{
