@@ -26,6 +26,10 @@
         },
         {
             "type": "single",
+            "resource": "entity/decorated_pot/decorated_pot_side"
+        },
+        {
+            "type": "single",
             "resource": "pnt:none"
         }
     ]
