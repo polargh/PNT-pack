@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "legacycollection:/custom/okee/racoon",
+		"particle": "legacycollection:/custom/okee/racoon"
+	},
+	"elements": [
+		{
+			"from": [6.4668, 0.33365, 5.24131],
+			"to": [7.43645, 0.86255, 7.7237],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.75669, 7.03305, 4.374]},
+			"faces": {
+				"north": {"uv": [6, 9, 6.5, 9.25], "texture": "#0"},
+				"east": {"uv": [8, 1.5, 9.25, 1.75], "texture": "#0"},
+				"south": {"uv": [9, 6, 9.5, 6.25], "texture": "#0"},
+				"west": {"uv": [8, 2, 9.25, 2.25], "texture": "#0"},
+				"up": {"uv": [7, 5.75, 6.5, 4.5], "texture": "#0"},
+				"down": {"uv": [5.5, 6.5, 5, 7.75], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "legacycollection:/custom/okee/frogjaw",
+		"particle": "legacycollection:/custom/okee/frogjaw"
+	},
+	"elements": [
+		{
+			"from": [4.825, 1.63881, 8.10399],
+			"to": [5.675, 1.88881, 8.35399],
+			"rotation": {"angle": -45, "axis": "x", "origin": [5.25, 1.76381, 8.22899]},
+			"faces": {
+				"north": {"uv": [4, 4, 4.875, 4.25], "texture": "#0"},
+				"east": {"uv": [7, 1, 7.25, 1.25], "texture": "#0"},
+				"south": {"uv": [0, 5, 0.875, 5.25], "texture": "#0"},
+				"west": {"uv": [2, 7, 2.25, 7.25], "texture": "#0"},
+				"up": {"uv": [5.875, 0.25, 5, 0], "texture": "#0"},
+				"down": {"uv": [1.875, 5, 1, 5.25], "texture": "#0"}
+			}
+		}
+	]
+}
