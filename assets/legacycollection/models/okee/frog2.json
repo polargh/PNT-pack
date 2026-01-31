@@ -1,0 +1,6 @@
+{
+    "parent": "epcot:jii/jii_veryminisign",
+    "textures": {
+        "0": "legacycollection:custom/okee/frog2"
+    }
+}
