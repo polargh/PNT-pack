@@ -1,6 +1,0 @@
-{
-	"parent": "custom/body/body_la",
-	"textures": {
-		"0": "pnt:custom/skins/cm_okee"
-	}
-}
