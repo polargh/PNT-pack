@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "legacycollection:okee/bat_ring",
-		"particle": "legacycollection:okee/bat_ring"
+		"0": "block/cyan_terracotta",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{
