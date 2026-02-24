@@ -1,0 +1,6 @@
+{
+   "parent": "legacycollection:rrc/poster/0",
+   "textures": {
+		"2": "legacycollection:custom/rrc/poster/14"
+   }
+}

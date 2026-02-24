@@ -1,0 +1,183 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [
+		128,
+		128
+	],
+	"textures": {
+		"1": "legacycollection:custom/rrc/alley/neon_sign_1",
+		"particle": "pnt:none"
+	},
+	"elements": [
+		{
+			"from": [
+				-4.5,
+				-4.5,
+				7.75
+			],
+			"to": [
+				20.5,
+				20.5,
+				7.75
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						6.25,
+						6.25
+					],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						0,
+						12.75,
+						0,
+						19
+					],
+					"texture": "#missing"
+				},
+				"south": {
+					"uv": [
+						6.25,
+						0,
+						0,
+						6.25
+					],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						12.75,
+						0,
+						12.75,
+						6.25
+					],
+					"texture": "#missing"
+				},
+				"up": {
+					"uv": [
+						6.375,
+						12.75,
+						0.125,
+						12.75
+					],
+					"texture": "#missing"
+				},
+				"down": {
+					"uv": [
+						19,
+						6.375,
+						12.75,
+						6.375
+					],
+					"texture": "#missing"
+				}
+			}
+		},
+		{
+			"from": [
+				-4.5,
+				-4.5,
+				8.25
+			],
+			"to": [
+				20.5,
+				20.5,
+				8.25
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						6.36875,
+						0,
+						12.61875,
+						6.25
+					],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						6.5,
+						12.75,
+						6.5,
+						19
+					],
+					"texture": "#missing"
+				},
+				"south": {
+					"uv": [
+						12.61875,
+						0,
+						6.36875,
+						6.25
+					],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						12.75,
+						6.5,
+						12.75,
+						12.75
+					],
+					"texture": "#missing"
+				},
+				"up": {
+					"uv": [
+						19.125,
+						0,
+						12.875,
+						0
+					],
+					"texture": "#missing"
+				},
+				"down": {
+					"uv": [
+						6.375,
+						12.875,
+						0.125,
+						12.875
+					],
+					"texture": "#missing"
+				}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [
+				8,
+				8,
+				10.75
+			],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				0,
+				1
+			]
+		}
+	]
+}
