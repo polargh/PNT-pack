@@ -1,0 +1,7 @@
+{
+   "parent": "legacycollection:rrc/poster/b7",
+   "textures": {
+	    "0": "legacycollection:custom/rrc/poster/b3",
+		"2": "legacycollection:custom/rrc/poster/b9"
+   }
+}
