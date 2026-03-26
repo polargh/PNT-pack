@@ -1,0 +1,6 @@
+{
+   "parent": "legacycollection:rrc/etc/preshow_poster",
+   "textures": {
+		"0": "legacycollection:custom/rrc/poster/e2"
+   }
+}
