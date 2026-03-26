@@ -1,0 +1,6 @@
+{
+   "parent": "legacycollection:rrc/ride/sign5",
+   "textures": {
+		"4": "legacycollection:custom/rrc/ride/graphic2"
+   }
+}

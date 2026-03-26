@@ -1,0 +1,18 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "legacycollection:custom/rrc/ride/sign2",
+		"particle": "legacycollection:custom/rrc/ride/sign2"
+	},
+	"elements": [
+		{
+			"from": [3, 0, -2],
+			"to": [13, 0.01, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 0, -2]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

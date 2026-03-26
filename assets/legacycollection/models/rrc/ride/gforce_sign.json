@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "legacycollection:custom/rrc/gforce",
-		"particle": "legacycollection:custom/rrc/gforce"
+		"0": "legacycollection:custom/rrc/etc/gforce",
+		"particle": "legacycollection:custom/rrc/etc/gforce"
 	},
 	"elements": [
 		{
