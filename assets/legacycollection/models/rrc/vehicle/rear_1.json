@@ -1,0 +1,6 @@
+{
+   "parent": "legacycollection:rrc/vehicle/rear",
+   "textures": {
+		"4": "legacycollection:custom/rrc/veh/plate1"
+   }
+}
