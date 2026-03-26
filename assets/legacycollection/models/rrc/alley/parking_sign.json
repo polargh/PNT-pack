@@ -4,10 +4,10 @@
 	"textures": {
 		"2": "legacycollection:custom/rrc/alley/parking",
 		"3": "legacycollection:custom/rrc/alley/locknroll",
-		"4": "assets:block/black_shulker_box",
-		"5": "assets:block/blue_concrete",
-		"6": "assets:block/red_nether_bricks",
-		"7": "assets:block/black_concrete_powder",
+		"4": "minecraft:block/black_shulker_box",
+		"5": "minecraft:block/blue_concrete",
+		"6": "minecraft:block/red_nether_bricks",
+		"7": "minecraft:block/black_concrete_powder",
 		"particle": "legacycollection:custom/rrc/alley/locknroll"
 	},
 	"elements": [

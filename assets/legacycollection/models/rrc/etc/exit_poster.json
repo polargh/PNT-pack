@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "legacycollection:custom/rrc/etc/exit_poster",
-		"1": "assets:block/black_concrete",
+		"1": "minecraft:block/black_concrete",
 		"particle": "legacycollection:custom/rrc/etc/exit_poster"
 	},
 	"elements": [
