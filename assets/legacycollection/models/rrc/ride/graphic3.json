@@ -1,0 +1,22 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "legacycollection:custom/rrc/ride/graphic3",
+		"particle": "legacycollection:custom/rrc/ride/graphic3"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 3],
+			"to": [16, 0.01, 16],
+			"faces": {
+				"north": {"uv": [0, 1.99, 14, 2], "texture": "#missing"},
+				"east": {"uv": [0, 1.99, 16, 2], "texture": "#missing"},
+				"south": {"uv": [0, 1.99, 14, 2], "texture": "#missing"},
+				"west": {"uv": [0, 1.99, 16, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 14, 16], "texture": "#missing"}
+			}
+		}
+	]
+}
