@@ -1,6 +1,6 @@
 {
    "parent": "legacycollection:rrc/ride/sign2",
    "textures": {
-		"4": "legacycollection:custom/rrc/ride/sign7"
+		"0": "legacycollection:custom/rrc/ride/sign7"
    }
 }
