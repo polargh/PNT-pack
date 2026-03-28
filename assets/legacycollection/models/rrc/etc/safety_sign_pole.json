@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/blue_candle",
 		"1": "block/iron_trapdoor",
-		"2": "item/music_disc_tears",
+		"2": "minecraft:item/music_disc_tears",
 		"3": "block/smooth_stone",
 		"4": "legacycollection:custom/rrc/etc/safety_sign_pole",
 		"5": "legacycollection:custom/rrc/etc/height_check",
