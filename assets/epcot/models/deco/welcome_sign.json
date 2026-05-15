@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/white_shulker_box",
 		"1": "block/coal_block",
-		"2": "minecraft:entity/bed/blue",
+		"2": "epcot:deco/blue",
 		"3": "epcot:deco/welcome_sign",
 		"particle": "block/white_shulker_box"
 	},
