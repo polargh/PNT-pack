@@ -1,0 +1,6 @@
+{
+   "parent": "epcot:eo/kodak_display",
+   "textures": {
+		"7": "epcot:deco/eo/kodak_portrait"
+   }
+}
