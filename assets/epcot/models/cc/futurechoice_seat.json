@@ -1,0 +1,6 @@
+{
+   "parent": "epcot:eo/eo_chair",
+   "textures": {
+		"0": "epcot:deco/cc_seat"
+   }
+}
