@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "legacycollection:rrc/alley/rrc_barricade",
-		"particle": "legacycollection:rrc/alley/rrc_barricade"
+		"0": "legacycollection:custom/rrc/alley/rrc_barricade",
+		"particle": "legacycollection:custom/rrc/alley/rrc_barricade"
 	},
 	"elements": [
 		{
