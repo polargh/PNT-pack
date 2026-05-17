@@ -41,6 +41,13 @@
             "ascent": 19,
             "height": 256,
             "chars": ["5"]
+        },
+		{
+            "type": "bitmap",
+            "file": "epcot:font/ui/census_quiz.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♝"]
         }
     ]
 }
