@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "mgm:rrc/graphics/graphic"
+        "model": "legacycollection:rrc/ride/bun"
     }
 }
