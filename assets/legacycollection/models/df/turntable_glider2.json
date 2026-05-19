@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "legacycollection:df/turntable",
+		"particle": "legacycollection:df/turntable"
+	},
+	"elements": [
+		{
+			"from": [12, 12, 12.5],
+			"to": [12, 19, 15.5],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [8, 19, 14]},
+			"faces": {
+				"east": {"uv": [4.1875, 8.0625, 4.375, 8.5], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [4.4375, 8.0625, 4.625, 8.5], "texture": "#0", "cullface": "south"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "glider2",
+			"origin": [8, 19, 14],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

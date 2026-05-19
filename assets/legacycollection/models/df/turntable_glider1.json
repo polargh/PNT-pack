@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "legacycollection:df/turntable",
+		"particle": "legacycollection:df/turntable"
+	},
+	"elements": [
+		{
+			"from": [11, 16, -15],
+			"to": [11, 22, -5],
+			"rotation": {"x": 0, "y": -180, "z": 0, "origin": [9.5, 13, 2]},
+			"faces": {
+				"east": {"uv": [5.4375, 2.9375, 6.0625, 3.3125], "texture": "#0", "cullface": "up"},
+				"west": {"uv": [6.1875, 4.375, 6.8125, 4.75], "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"from": [1.10537, 20.90143, 12.5],
+			"to": [8.10537, 20.90143, 19.5],
+			"rotation": {"x": 157.80843, "y": 3.81024, "z": -170.74751, "origin": [8, 21.5, 16]},
+			"faces": {
+				"up": {"uv": [8.1875, 4.9375, 7.75, 4.5], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [5.3125, 7.75, 4.875, 8.1875], "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"from": [7.89463, 20.90143, 12.5],
+			"to": [14.89463, 20.90143, 19.5],
+			"rotation": {"x": 157.80843, "y": -3.81024, "z": 170.74751, "origin": [8, 21.5, 16]},
+			"faces": {
+				"up": {"uv": [8.1875, 5.4375, 7.75, 5], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [5.8125, 7.75, 5.375, 8.1875], "texture": "#0", "cullface": "up"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "glider1",
+			"origin": [9.5, 13, 2],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}
