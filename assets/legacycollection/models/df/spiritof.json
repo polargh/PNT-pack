@@ -1,0 +1,6 @@
+{
+   "parent": "legacycollection:df/logo",
+   "textures": {
+		"0": "legacycollection:custom/df/spiritof"
+   }
+}
