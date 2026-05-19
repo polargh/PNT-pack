@@ -1,0 +1,6 @@
+{
+    "parent": "pnt:deco/poster_portrait",
+    "textures": {
+        "image": "legacycollection:custom/rrc/etc/legacy_3"
+    }
+}

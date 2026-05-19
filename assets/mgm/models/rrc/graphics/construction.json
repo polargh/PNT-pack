@@ -1,6 +1,0 @@
-{
-    "parent": "mgm:rrc/graphic_holder",
-    "textures": {
-        "0": "mgm:custom/rrc/construction"
-    }
-}

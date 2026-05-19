@@ -1,0 +1,6 @@
+{
+    "parent": "pnt:deco/poster_square",
+    "textures": {
+        "image": "legacycollection:custom/rrc/etc/legacy_1"
+    }
+}
