@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "legacycollection:custom/rrc/alley/downunder_1",
 		"1": "legacycollection:custom/rrc/alley/downunder_2",
-		"2": "block/stone",
+		"2": "block/blast_furnace_top",
 		"3": "legacycollection:custom/rrc/alley/downunder_3",
 		"particle": "legacycollection:custom/rrc/alley/downunder_1"
 	},
@@ -1180,7 +1180,7 @@
 			}
 		},
 		{
-			"from": [0, 0, 0],
+			"from": [0, -1.1, 0],
 			"to": [16, 0.4, 16],
 			"faces": {
 				"north": {"uv": [2, 2, 11, 3], "texture": "#2"},
@@ -1192,7 +1192,7 @@
 			}
 		},
 		{
-			"from": [0, -0.01, 8.2],
+			"from": [0, -1.11, 8.2],
 			"to": [11, 0.39, 19.2],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0.2, 16.2]},
 			"faces": {
@@ -1205,7 +1205,7 @@
 			}
 		},
 		{
-			"from": [0, -0.01, 0],
+			"from": [0, -1.11, 0],
 			"to": [11, 0.39, 11],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0.2, 8]},
 			"faces": {
@@ -1213,7 +1213,7 @@
 				"east": {"uv": [0, 0, 11, 11], "texture": "#2"},
 				"south": {"uv": [0, 0, 11, 11], "texture": "#2"},
 				"west": {"uv": [2, 2, 11, 3], "texture": "#2"},
-				"up": {"uv": [0, 0, 7, 6], "texture": "#2"},
+				"up": {"uv": [3, 2, 10, 8], "texture": "#2"},
 				"down": {"uv": [0, 0, 11, 11], "texture": "#2"}
 			}
 		},
