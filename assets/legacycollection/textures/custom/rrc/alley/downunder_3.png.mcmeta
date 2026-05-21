@@ -1,16 +1,16 @@
 {
     "animation": {
         "frames": [
-            {"index": 2, "time": 4},
-            {"index": 1, "time": 4},
-	    {"index": 3, "time": 4},
-            {"index": 1, "time": 4},
-	    {"index": 4, "time": 4},
-            {"index": 1, "time": 4},
-	    {"index": 0, "time": 4},
-            {"index": 1, "time": 4},
-	    {"index": 0, "time": 4},
-            {"index": 1, "time": 4}
+            {"index": 2, "time": 10},
+            {"index": 1, "time": 10},
+			{"index": 3, "time": 10},
+            {"index": 1, "time": 10},
+			{"index": 4, "time": 10},
+            {"index": 1, "time": 10},
+			{"index": 0, "time": 10},
+            {"index": 1, "time": 10},
+			{"index": 0, "time": 10},
+            {"index": 1, "time": 10}
 
         ]
     }
