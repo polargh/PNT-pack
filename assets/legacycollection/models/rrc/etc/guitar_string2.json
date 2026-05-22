@@ -1,0 +1,6 @@
+{
+    "parent": "legacycollection:rrc/etc/guitar_string",
+    "textures": {
+        "image": "legacycollection:custom/rrc/etc/guitar_string2"
+    }
+}
