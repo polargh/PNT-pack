@@ -1,4 +1,5 @@
 {
 	"chime": {"sounds": ["chime"]},
-	"rrc_wind": {"sounds": ["rrc_wind"]}
+	"rrc_wind": {"sounds": ["rrc_wind"]},
+	"rrc_wind2": {"sounds": ["rrc_wind2"]}
 }
