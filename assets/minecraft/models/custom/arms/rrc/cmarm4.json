@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:custom/arms/cmarm4",
+    "textures": {
+        "0": "pnt:custom/arms/cm_rrc",
+		"particle": "pnt:custom/arms/cm_rrc_1"
+    }
+}
