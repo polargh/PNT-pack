@@ -1,5 +1,5 @@
 {
-   "parent": "legacycollection:rrc/ride/sign1",
+   "parent": "legacycollection:rrc/ride/sign5",
    "textures": {
 		"0": "legacycollection:custom/rrc/ride/sign4"
    }
