@@ -4,10 +4,10 @@
 	"textures": {
 		"2": "legacycollection:custom/rrc/alley/parking",
 		"3": "legacycollection:custom/rrc/alley/locknroll",
-		"4": "minecraft:block/black_shulker_box",
-		"5": "minecraft:block/blue_concrete",
-		"6": "minecraft:block/red_nether_bricks",
-		"7": "minecraft:block/black_concrete_powder",
+		"4": "block/black_shulker_box",
+		"5": "block/blue_concrete",
+		"6": "block/red_nether_bricks",
+		"7": "block/black_concrete_powder",
 		"particle": "legacycollection:custom/rrc/alley/locknroll"
 	},
 	"elements": [
@@ -196,7 +196,7 @@
 		{
 			"from": [4.44179, 7.51929, 7.605],
 			"to": [5.35049, 8.09649, 8.395],
-			"rotation": {"angle": 0, "axis": "z", "origin": [4.16489, 8.06139, 7.9131]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.16489, 8.06139, 7.9131]},
 			"faces": {
 				"north": {"uv": [5, 0, 9, 1], "texture": "#6"},
 				"east": {"uv": [5, 0, 9, 1], "texture": "#6"},
@@ -248,7 +248,7 @@
 		{
 			"from": [4.44179, 6.20351, 7.605],
 			"to": [5.35049, 6.78071, 8.395],
-			"rotation": {"angle": 0, "axis": "z", "origin": [4.16489, 6.23861, 7.9131]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.16489, 6.23861, 7.9131]},
 			"faces": {
 				"north": {"uv": [5, 0, 9, 1], "texture": "#6"},
 				"east": {"uv": [5, 0, 9, 1], "texture": "#6"},
