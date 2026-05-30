@@ -2,7 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "legacycollection:custom/rrc/etc/safety_sign_pole"
+		"4": "legacycollection:custom/rrc/etc/safety_sign_pole",
+		"particle": "legacycollection:custom/rrc/etc/safety_sign_pole"
 	},
 	"elements": [
 		{

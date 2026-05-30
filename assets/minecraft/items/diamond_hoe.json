@@ -926,104 +926,6 @@
                 }
             },
             {
-                "threshold": 142,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room01"
-                }
-            },
-            {
-                "threshold": 143,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room02"
-                }
-            },
-            {
-                "threshold": 144,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room03"
-                }
-            },
-            {
-                "threshold": 145,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room04"
-                }
-            },
-            {
-                "threshold": 146,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room05"
-                }
-            },
-            {
-                "threshold": 147,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room06"
-                }
-            },
-            {
-                "threshold": 148,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room07"
-                }
-            },
-            {
-                "threshold": 149,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room08"
-                }
-            },
-            {
-                "threshold": 150,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room09"
-                }
-            },
-            {
-                "threshold": 151,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room10"
-                }
-            },
-            {
-                "threshold": 152,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room11"
-                }
-            },
-            {
-                "threshold": 153,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room12"
-                }
-            },
-            {
-                "threshold": 154,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room13"
-                }
-            },
-            {
-                "threshold": 155,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "hub:signs/legacy/room14"
-                }
-            },
-            {
                 "threshold": 156,
                 "model": {
                     "type": "minecraft:model",
@@ -2060,27 +1962,6 @@
                 }
             },
             {
-                "threshold": 328,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "pnt:rrc/vehicle/front"
-                }
-            },
-            {
-                "threshold": 329,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "pnt:rrc/vehicle/mid"
-                }
-            },
-            {
-                "threshold": 330,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "pnt:rrc/vehicle/end"
-                }
-            },
-            {
                 "threshold": 331,
                 "model": {
                     "type": "minecraft:model",
@@ -2106,13 +1987,6 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "epcot:deco/motionsign_small"
-                }
-            },
-            {
-                "threshold": 335,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "pnt:rrc/vehicle/restraint"
                 }
             },
             {
