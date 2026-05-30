@@ -345,13 +345,6 @@
                 }
             },
             {
-                "threshold": 49,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "cosmetic:backpacks/tntbarrel"
-                }
-            },
-            {
                 "threshold": 50,
                 "model": {
                     "type": "minecraft:model",

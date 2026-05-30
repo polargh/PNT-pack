@@ -947,13 +947,6 @@
                 }
             },
             {
-                "threshold": 159,
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "legacycollection:atis/stats1"
-                }
-            },
-            {
                 "threshold": 160,
                 "model": {
                     "type": "minecraft:model",
