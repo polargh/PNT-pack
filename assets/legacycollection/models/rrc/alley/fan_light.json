@@ -5,6 +5,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "mclivefx:model/fixtures/light_beam_08",
+		"2": "legacycollection:custom/rrc/alley/fan_light",
 		"particle": "pnt:none"
 	},
 	"elements": [
@@ -17,6 +18,14 @@
 				"east": {"uv": [0, 0, 2, 16], "texture": "#0", "tintindex": 0},
 				"south": {"uv": [0, 0, 2, 16], "texture": "#0", "tintindex": 0},
 				"west": {"uv": [0, 0, 2, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [4, 31, 4],
+			"to": [12, 32, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 8]},
+			"faces": {
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2", "tintindex": 0}
 			}
 		}
 	],
