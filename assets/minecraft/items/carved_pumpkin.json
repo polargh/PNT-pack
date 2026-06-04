@@ -821,7 +821,7 @@
                 }
             },
 			{
-                "threshold": 117
+                "threshold": 117,
                 "model": {
                     "type": "minecraft:model",
                     "model": "cosmetic:hats/rnrctop"
