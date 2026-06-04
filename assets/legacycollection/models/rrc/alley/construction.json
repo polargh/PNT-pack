@@ -1,5 +1,5 @@
 {
-    "parent": "mgm:rrc/graphic_holder",
+    "parent": "legacycollection:rrc/ride/sign5",
     "textures": {
         "0": "legacycollection:custom/rrc/alley/construction"
     }

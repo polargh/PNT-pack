@@ -1,5 +1,5 @@
 {
-   "parent": "legacycollection:rrc/etc/preshow_poster",
+   "parent": "legacycollection:rrc/ride/sign5",
    "textures": {
 		"0": "legacycollection:custom/rrc/alley/sanandreas"
    }
