@@ -371,6 +371,20 @@
                     "type": "minecraft:model",
                     "model": "pnt:statues/silacide"
                 }
+            },
+			{
+                "threshold": 54,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:backpacks/rnrcdrumbag"
+                }
+            },
+			{
+                "threshold": 55,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:backpacks/loungefly_rnrc"
+                }
             }
         ]
     }
