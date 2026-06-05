@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "legacycollection:custom/rrc/alley/roundlight",
+		"particle": "legacycollection:custom/rrc/alley/roundlight"
+	},
+	"elements": [
+		{
+			"from": [7.995, 0, 0],
+			"to": [8.005, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.995, 0, 7]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.995, 0, 0],
+			"to": [8.005, 16, 16],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
