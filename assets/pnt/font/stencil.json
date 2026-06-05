@@ -4,7 +4,7 @@
         "type":"ttf",
         "file":"pnt:stencil.ttf",
         "shift":[0,2],
-        "size":9,
+        "size":5,
         "oversample":2
       }
     ]
