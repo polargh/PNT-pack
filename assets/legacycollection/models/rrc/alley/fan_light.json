@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "mclivefx:model/fixtures/light_beam_08",
+		"0": "mclivefx:model/fixtures/light_beam_04",
 		"2": "legacycollection:custom/rrc/alley/fan_light",
 		"particle": "pnt:none"
 	},
