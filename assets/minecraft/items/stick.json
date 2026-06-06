@@ -189,6 +189,20 @@
                     "type": "minecraft:model",
                     "model": "cosmetic:handhelds/pntgrandkey"
                 }
+            },
+			{
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:handhelds/rnrcvip"
+                }
+            },
+			{
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cosmetic:handhelds/rnrclespaul"
+                }
             }
         ]
     }
