@@ -1,0 +1,6 @@
+{
+   "parent": "epcot:deco/land_umbrella",
+   "textures": {
+		"0": "epcot:deco/land_umbrella_1"
+   }
+}
