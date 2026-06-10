@@ -1,0 +1,6 @@
+{
+   "parent": "pnt:deco/poster_square",
+   "textures": {
+		"0": "epcot:deco/thegoodturn_sign"
+   }
+}
