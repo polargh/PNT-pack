@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "epcot:cc/bm_sign"
+        "model": "epcot:deco/bm_sign"
     }
 }
