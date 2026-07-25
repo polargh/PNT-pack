@@ -55,6 +55,76 @@
             "ascent": 19,
             "height": 256,
             "chars": ["♟"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkstart.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♔"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkmainmenu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♕"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkparkmainmenu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♖"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkparkguestservicesmenu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♗"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwcommunicore.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♘"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwenergy.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♙"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwhorizons.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♚"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwland.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♛"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwseas.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♜"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwsse.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♞"]
         }
     ]
 }
