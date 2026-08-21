@@ -42,19 +42,278 @@
             "height": 256,
             "chars": ["5"]
         },
-		{
+        {
             "type": "bitmap",
             "file": "epcot:font/ui/census_quiz.png",
             "ascent": 19,
             "height": 256,
             "chars": ["♝"]
         },
-		{
+        {
             "type": "bitmap",
             "file": "epcot:font/ui/fct.png",
             "ascent": 19,
             "height": 256,
             "chars": ["♟"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkstart.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♔"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkmainmenu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♕"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkparkmainmenu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♖"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkparkguestservicesmenu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♗"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwcommunicore.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♘"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwenergy.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♙"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwhorizons.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♚"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwland.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♛"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwseas.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♜"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwsse.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♞"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wklandselect.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♠"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwselect.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♣"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwjii.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♥"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwmotion.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♦"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwwonders.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♤"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/navigator_menu_epcot89_map.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♧"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/pnt_cubed_epcot89_communicore_census_gui_hud.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♡"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/pnt_cubed_epcot89_fct_voting_gui_hud.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["♢"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚢"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwfoodmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚣"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwstoremap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚤"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwfirstaidmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚥"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwbabycaremap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚦"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwlockersmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚧"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwrestroomsmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚨"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwhandicapmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚩"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwtelephonemap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚬"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkenergymap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚭"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkimaginationmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚮"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkmotionmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚯"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkhorizonsmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚰"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wklandmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚱"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwssemap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⚲"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwcommunicoremap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["✂"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwwondersmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["⛢"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_wkfwseasmap.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["✁"]
+        },
+		{
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_stargatemenu.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["✈"]
         }
     ]
 }
