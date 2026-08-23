@@ -1,6 +1,0 @@
-{
-	"parent": "custom/body/body_rl",
-	"textures": {
-		"0": "pnt:custom/skins/cm_epcot_parking"
-	}
-}

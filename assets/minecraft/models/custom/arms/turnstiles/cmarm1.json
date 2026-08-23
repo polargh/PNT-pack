@@ -1,7 +1,0 @@
-{
-	"parent": "custom/arms/cmarm1",
-	"textures": {
-		"0": "pnt:custom/arms/turnstile_arms",
-		"particle": "pnt:custom/skins/cm_turnstiles"
-	}
-}
