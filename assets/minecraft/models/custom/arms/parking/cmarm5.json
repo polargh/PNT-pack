@@ -1,0 +1,7 @@
+{
+	"parent": "custom/arms/cmarm5",
+	"textures": {
+		"0": "pnt:custom/arms/cm_epcot_parking",
+		"particle": "pnt:custom/skins/cm_epcot_parking"
+	}
+}
