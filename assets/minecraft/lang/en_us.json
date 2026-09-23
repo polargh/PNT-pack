@@ -1,6 +1,14 @@
 {
-    "menu.disconnect": "§c§l§oEnter the present",
-    "menu.returnToGame": "§3§l§oReturn to the past",
+    "menu.disconnect": "§c§l§oLeave PNT Cubed",
+    "menu.returnToGame": "§3§l§oReturn to Server",
     "block.minecraft.barrier": "§c§l§oBarrier",
-    "multiplayer.downloadingTerrain": "勒"
+    "multiplayer.downloadingTerrain": "勒",
+	"container.inventory": "",
+	"chat.link.confirm": "WARNING: You are about to leave PNT Cubed.",
+	"chat.link.warning": "Always use caution when opening links from others!",
+	"gui.yes": "Proceed",
+	"gui.no": "Go Back",
+	"book.page_button.next": "Next",
+	"book.page_button.previous": "Previous",
+	"book.pageIndicator": ""
 }
