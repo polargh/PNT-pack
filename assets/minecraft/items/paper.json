@@ -84,6 +84,69 @@
                     "type": "minecraft:model",
                     "model": "pnt:hud/logo"
                 }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece1"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece2"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece3"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece4"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece5"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece6"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece7"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece8"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece9"
+                }
             }
         ]
     }
