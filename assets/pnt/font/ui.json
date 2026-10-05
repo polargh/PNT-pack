@@ -377,6 +377,13 @@
             "ascent": 19,
             "height": 256,
             "chars": ["𓀆"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcot89_compute8.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["𓀈"]
         }
     ]
 }
