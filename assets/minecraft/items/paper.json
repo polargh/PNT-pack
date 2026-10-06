@@ -147,6 +147,76 @@
                     "type": "minecraft:model",
                     "model": "pnt:hud/epcot89coaster_piece9"
                 }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece10"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece11"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece12"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece13"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece14"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece15"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece16"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece17"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece18"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcot89coaster_piece19"
+                }
             }
         ]
     }
