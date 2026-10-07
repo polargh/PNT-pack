@@ -217,6 +217,55 @@
                     "type": "minecraft:model",
                     "model": "pnt:hud/epcot89coaster_piece19"
                 }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy.car1"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy.car2"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy.car3"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy.car4"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy.car5"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy.car6"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy.car7"
+                }
             }
         ]
     }
