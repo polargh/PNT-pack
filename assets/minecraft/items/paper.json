@@ -222,49 +222,49 @@
                 "threshold": 31,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "pnt:hud/epcotenergy.car1"
+                    "model": "pnt:hud/epcotenergy_car1"
                 }
             },
             {
                 "threshold": 32,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "pnt:hud/epcotenergy.car2"
+                    "model": "pnt:hud/epcotenergy_car2"
                 }
             },
             {
                 "threshold": 33,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "pnt:hud/epcotenergy.car3"
+                    "model": "pnt:hud/epcotenergy_car3"
                 }
             },
             {
                 "threshold": 34,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "pnt:hud/epcotenergy.car4"
+                    "model": "pnt:hud/epcotenergy_car4"
                 }
             },
             {
                 "threshold": 35,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "pnt:hud/epcotenergy.car5"
+                    "model": "pnt:hud/epcotenergy_car5"
                 }
             },
             {
                 "threshold": 36,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "pnt:hud/epcotenergy.car6"
+                    "model": "pnt:hud/epcotenergy_car6"
                 }
             },
             {
                 "threshold": 37,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "pnt:hud/epcotenergy.car7"
+                    "model": "pnt:hud/epcotenergy_car7"
                 }
             }
         ]
