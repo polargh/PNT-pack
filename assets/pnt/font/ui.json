@@ -391,6 +391,27 @@
             "ascent": 19,
             "height": 256,
             "chars": ["𓀇"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcotenergy_taxitutorial1.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["𓀉"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcotenergy_taxitutorial2.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["𓀊"]
+        },
+        {
+            "type": "bitmap",
+            "file": "pnt:font/ui/epcotenergy_taxitutorial3.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": ["𓀋"]
         }
     ]
 }

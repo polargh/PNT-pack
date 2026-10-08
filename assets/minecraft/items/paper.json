@@ -266,6 +266,13 @@
                     "type": "minecraft:model",
                     "model": "pnt:hud/epcotenergy_car7"
                 }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "pnt:hud/epcotenergy_pickup"
+                }
             }
         ]
     }
